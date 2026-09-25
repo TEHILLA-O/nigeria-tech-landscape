@@ -1,0 +1,19 @@
+Licence_or_Framework,Regulator,Typical_Sectors,Plain_English_Note,Min_Capital_if_Public,Source_URLs
+CAC Incorporation,Corporate Affairs Commission,All,Basic company registration required before most operating licences.,N/A,https://www.cac.gov.ng/
+Switching and Processing,CBN,Fintech (rails),"For switches, card processing, clearing/settlement, non-bank acquiring.",N2 billion (Dec 2020 CBN categorisation as summarized by counsel),https://aspensahel.com/2021/09/new-license-categorisations-for-the-nigerian-payments-system/
+Mobile Money Operator (MMO),CBN,Fintech (wallets),May hold customer funds / e-money. Wallet issuance and pool management.,N2 billion,https://aspensahel.com/2021/09/new-license-categorisations-for-the-nigerian-payments-system/
+PSSP,CBN,Fintech (gateways),"Payment gateways/portals, payment apps, merchant aggregation. Cannot hold customer funds like an MMO.",N100 million,https://aspensahel.com/2021/09/new-license-categorisations-for-the-nigerian-payments-system/
+PTSP,CBN,Fintech (POS),"POS terminal deployment, ownership, merchant/agent support.",N100 million,https://aspensahel.com/2021/09/new-license-categorisations-for-the-nigerian-payments-system/
+Super-Agent,CBN,Fintech (agents),Recruit and manage agent networks for cash-in/cash-out distribution.,N50 million,https://aspensahel.com/2021/09/new-license-categorisations-for-the-nigerian-payments-system/
+PSS composite,CBN,Fintech,Umbrella allowing Super-Agent + PTSP + PSSP combinations.,N250 million,https://aspensahel.com/2021/09/new-license-categorisations-for-the-nigerian-payments-system/
+Payments Service Holding Company,CBN,Fintech groups,Non-operating holdco when combining Switching and MMO in separate subsidiaries.,See CBN PSHC guidelines,https://aelex.com/analysing-cbns-guidelines-for-licensing-and-regulating-payment-service-holding-companies/
+Regulatory Sandbox,CBN,Fintech innovation,Time-bound testing of innovative products under CBN oversight.,Case-by-case,https://aspensahel.com/2021/09/new-license-categorisations-for-the-nigerian-payments-system/
+Microfinance Bank,CBN,Digital lenders,Common path for digital lenders to take deposits and lend.,Varies by MFB tier (check current CBN guidelines),https://www.cbn.gov.ng/
+Commercial / Merchant Bank,CBN,Neobanks,Full banking is the hardest path. Heavy capital and prudential rules.,Per current CBN banking capital requirements,https://www.cbn.gov.ng/
+NDIC deposit insurance,NDIC,Deposit-takers,Deposit-taking banks/MFBs participate in deposit insurance.,N/A (premiums),https://ndic.gov.ng/
+SEC capital markets / digital assets,SEC Nigeria,"Investments, crypto","Fund portals, investment managers, and some digital asset platforms need SEC authorisation.",Varies by category,https://sec.gov.ng/
+NAICOM insurance / HMO,NAICOM,Insurtech / health insurance,Underwriting insurance or operating HMOs requires NAICOM licensing.,Per NAICOM by class,https://www.naicom.gov.ng/
+NCC licences,NCC,Telecom-adjacent / VAS,"Relevant for communications services, short codes, certain VAS.",Varies,https://www.ncc.gov.ng/
+NDPR / NDPA data protection,NDPC,All personal data,Applies broadly to startups processing personal data in Nigeria.,N/A (compliance),https://ndpc.gov.ng/
+NAFDAC,NAFDAC,Healthtech / food / agritech,"Drugs, food, cosmetics, medical products regulation.",N/A,https://www.nafdac.gov.ng/
+NERC electricity licences,NERC,Cleantech / energy,"Generation, distribution, mini-grid, private trading licences.",Varies by licence type,https://nerc.gov.ng/
