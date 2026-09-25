@@ -1,73 +1,67 @@
 # Sources
 
-Public URLs consulted while building the ranked Nigeria fintech + tech dataset (verified window ending 2026-09-25). Prefer primary press and regulator pages over secondary aggregators when they conflict.
+Bibliography of public sources used in this compile. Grouped by type. Not exhaustive of every URL in `Source_URLs` cells.
 
-## Funding roundups and lists
+Last verified: **2026-09-25**.
 
-- https://ln247.news/top-10-most-funded-nigerian-startups-as-of-august-2023/
-- https://technext24.com/reviews/nigeria-tops-funded-african-startups/
-- https://nairametrics.com/2025/02/25/top-10-nigerian-startups-by-funds-raised-in-2024/
-- https://nairametrics.com/2025/05/31/nigerias-startups-raised-over-100-million-in-q1-2025-here-are-the-top-10-deals/
-- https://techparley.com/top-10-funding-rounds-in-nigeria-for-2025-and-the-investors-behind-them/
-- https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024
-- https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024
-- https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2022
-- https://fintechnews.africa/41180/fintech-nigeria/here-are-the-top-5-fintech-startup-funding-rounds-in-nigeria/
-- https://disruptafrica.com/2022/10/14/nigerian-tech-startups-raised-over-2bn-between-2015-and-2022/
-- https://partechpartners.com/news/2024-partech-africa-tech-vc-report-with-us32b-raised-african-startups-show-resilience-despite-7-drop-in-funding
-- https://partechpartners.com/news/2025-partech-africa-tech-vc-report-african-tech-funding-rebounds-to-us41b-driven-by-record-debt-activity-and-disciplined-equity-growth
-- https://digestafrica.com/digest-africa-research-the-100-most-funded-african-startups
-- https://www.primebusiness.africa/2-nigerian-startups-make-africas-top-5-most-valuable-startup-list/
+## Regulators
 
-## Company / deal pages (examples)
+- CBN Payment Service Providers list: https://www.cbn.gov.ng/PaymentsSystem/PSPs.html
+- CBN International Money Transfer Operators: https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html
+- FCCPC Digital Money Lenders approvals: https://fccpc.gov.ng/registration-of-digital-money-lenders/approvals-of-dmls/
 
-- https://www.cbinsights.com/company/flutterwave/financials
-- https://techcrunch.com/2023/05/02/african-payment-service-provider-nomba-raises-30m-backed-by-base10-partners-and-shopify/
-- https://techcrunch.com/2023/06/05/helium-health-gets-30m-backed-by-axa-im-and-23andmes-anne-wojcicki/
-- https://techcrunch.com/2025/02/11/qed-leads-11m-investment-in-nigerian-fintech-raenest/
-- https://techcrunch.com/2025/06/05/profitable-african-fintech-palmpay-is-in-talks-to-raise-as-much-as-100m/
-- https://techcabal.com/2024/02/13/flutterwave-invests-in-piggyvest/
-- https://techcabal.com/2022/09/07/nownow-raises-13-million-in-seed-funding-to-expand-services-across-africa/
-- https://techcabal.com/2022/09/26/vendease-raises-30-million-to-offer-procurement-services-across-africa/
-- https://techcabal.com/2023/09/14/nigerian-startup-mecho-autotech-raises-2-4-million-in-pre-series-a-round/
-- https://thecondia.com/flutterwave-acquires-mono/
-- https://www.businesswire.com/news/home/20220207005155/en/Reliance-Health-Raises-%2440M-in-Series-B-Led-by-General-Atlantic
-- https://allbusiness.africa/business/risevest
-- https://allbusiness.africa/business/eden-life
+## Company primary
 
-## Licences / regulators (and counsel explainers)
+- Flutterwave: https://flutterwave.com
+- Moniepoint Series C completion: https://moniepoint.com/blog/moniepoint-announces-successful-completion-of-usdollar200-million-series-c-round-to-power-financial-inclusion
+- Mono acquisition note: https://mono.co/blog/flutterwave-mono-acquisition
+- Yellow Card Series C: https://yellowcard.io/blog/yellow-card-closes-us-33m-series-c-funding-round-to-drive-global-expansion-and-strategic-initiatives
+- Paystack: https://paystack.com
+- Paga leadership: https://www.paga.com
+- Helium Health about: https://heliumhealth.com/about-us/
 
-- https://aspensahel.com/2021/09/new-license-categorisations-for-the-nigerian-payments-system/
-- https://aelex.com/analysing-cbns-guidelines-for-licensing-and-regulating-payment-service-holding-companies/
-- https://www.cbn.gov.ng/
-- https://www.cac.gov.ng/
-- https://sec.gov.ng/
-- https://ndic.gov.ng/
-- https://www.naicom.gov.ng/
-- https://www.ncc.gov.ng/
-- https://ndpc.gov.ng/
-- https://www.nafdac.gov.ng/
-- https://nerc.gov.ng/
+## Press and research roundups
 
-## Notes on paywalled blockers
+- TechCrunch Moniepoint $110M: https://techcrunch.com/2024/10/29/google-dpi-backs-moniepoint-in-110m-round/
+- TechCrunch LemFi $53M: https://techcrunch.com/2025/01/13/lemfi-moves-remittances-further-into-asia-and-europe-with-53m-in-new-funding/
+- TechCrunch Yellow Card $33M: https://techcrunch.com/2024/10/16/african-crypto-startup-yellow-card-raises-33m-led-by-blockchain-capital-to-scale-its-b2b-pivot/
+- TechCrunch Nomba $30M: https://techcrunch.com/2023/05/02/african-payment-service-provider-nomba-raises-30m-backed-by-base10-partners-and-shopify/
+- TechCrunch Helium Health $30M: https://techcrunch.com/2023/06/05/helium-health-gets-30m-backed-by-axa-im-and-23andmes-anne-wojcicki/
+- TechCrunch Gokada $5.3M: https://techcrunch.com/2019/05/24/nigerias-gokada-raises-5-3m-round-for-its-motorcycle-ride-hail-biz/
+- TechCrunch Grey YC: https://techcrunch.com/2022/02/08/nigerian-fintech-grey-finance-gets-backing-from-y-combinator/
+- TechCabal Vendease $30M: https://techcabal.com/2022/09/26/vendease-raises-30-million-to-offer-procurement-services-across-africa/
+- TechCabal NowNow $13M: https://techcabal.com/2022/09/07/nownow-raises-13-million-in-seed-funding-to-expand-services-across-africa/
+- TechCabal PiggyVest / Flutterwave: https://techcabal.com/2024/02/13/flutterwave-invests-in-piggyvest/
+- TechCabal Mecho $2.4M: https://techcabal.com/2023/09/14/nigerian-startup-mecho-autotech-raises-2-4-million-in-pre-series-a-round/
+- Nairametrics 2024 funds raised: https://nairametrics.com/2025/02/25/top-10-nigerian-startups-by-funds-raised-in-2024/
+- Nairametrics Q1 2025 deals: https://nairametrics.com/2025/05/31/nigerias-startups-raised-over-100-million-in-q1-2025-here-are-the-top-10-deals/
+- Nairametrics Flutterwave-Mono: https://nairametrics.com/2026/01/05/flutterwave-acquires-mono-in-deal-valued-at-up-to-40-million/
+- LN247 top funded (Aug 2023): https://ln247.news/top-10-most-funded-nigerian-startups-as-of-august-2023/
+- Technext Nigeria funded reviews: https://technext24.com/reviews/nigeria-tops-funded-african-startups/
+- Technext startups to watch 2025: https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/
+- BusinessWire Reliance Health Series B: https://www.businesswire.com/news/home/20220207005155/en/Reliance-Health-Raises-%2440M-in-Series-B-Led-by-General-Atlantic
+- Highland Europe LemFi note: https://www.highlandeurope.com/lemfi-has-secured-53m-in-series-b-funding-led-by-highland-europe/
+- FintechNews Africa historical rounds: https://fintechnews.africa/41180/fintech-nigeria/here-are-the-top-5-fintech-startup-funding-rounds-in-nigeria/
+- UrbanGeekz African unicorn founders: https://urbangeekz.com/2026/08/from-flutterwave-to-moove-meet-the-founders-behind-10-african-unicorns/
 
-- Crunchbase full company financials often truncated without login.
-- Tracxn Nigeria fintech index claims thousands of companies / hundreds funded, but round amounts are frequently masked.
-- PitchBook / CB Insights deeper deal tables similarly gated.
+## Directories and maps
 
+- Y Combinator companies (Nigeria cohort extracts in `raw_sources/`)
+- StartupList Africa funded lists (multiple year pages)
+- StartupMapAfrica Nigeria sector pages (cached under `raw_sources/sma_*.html`)
 
-## Licence directories used for Directory volume (2026-09-25 expansion)
+## Reference encyclopedias
 
-- https://www.cbn.gov.ng/PaymentsSystem/PSPs.html (PSSP, PTSP, Super-Agent, MMO, Switching, schemes)
-- https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html (IMTO list)
-- https://fccpc.gov.ng/registration-of-digital-money-lenders/approvals-of-dmls/ (FCCPC DML companies/apps)
-- https://ndic.gov.ng/list-of-insured-institutions/list-of-mobile-money-operators/
-- https://www.ycombinator.com/companies (Africa / Nigeria filter via public Algolia index)
-- https://startupmapafrica.com/startups/fintech/nigeria (and sibling sector pages)
-- https://startupmapafrica.com/startups/agritech/nigeria
-- https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/ (sourced small disclosed rounds)
-- https://www.startuplist.africa/countries/nigeria
-- https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024
-- https://www.startuplist.africa/lists/top-funded-nigeria-startups-2025
-- https://techtally.ng/made-in-nigeria-saas-tools/
-- https://tracxn.com/d/explore/fintech-startups-in-nigeria/__38FtfxfYPbd2pJZUtqxChz8Tc_1PluO4qd0Lr-PsbS0 (index claims only; amounts often gated)
+- Wikipedia Jumia: https://en.wikipedia.org/wiki/Jumia
+- Wikipedia Konga: https://en.wikipedia.org/wiki/Konga.com
+- Wikipedia Sim Shagaya: https://en.wikipedia.org/wiki/Sim_Shagaya
+- Wikipedia Tayo Oviosu: https://en.wikipedia.org/wiki/Tayo_Oviosu
+
+## Investor / profile pages
+
+- LinkedIn company and founder profiles cited in Ranked `Source_URLs` (Flutterwave, Paystack, Kuda, Interswitch, Moniepoint, Nomba, Carbon, PiggyVest, etc.)
+- CB Insights Flutterwave financials summary: https://www.cbinsights.com/company/flutterwave/financials
+
+## Cached raw HTML/JSON
+
+See `raw_sources/` for offline copies of regulator pages and directory crawls used during builds. Treat live regulator pages as authoritative when they differ.

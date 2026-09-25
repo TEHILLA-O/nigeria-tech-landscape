@@ -1,56 +1,77 @@
-# Nigeria licences cheat sheet (fintech + tech)
+# Nigeria tech licences (plain English)
 
-Plain-English map of licences and frameworks that often come up when you try to **replicate** a Nigerian fintech or regulated tech product. Capital figures below come from public counsel summaries of the CBN Dec 2020 payments categorisation circular and may have been updated since - always confirm on the regulator site.
+**Not legal advice.** Application paths below are high-level research notes for builders. Capital, forms, and committees change. Confirm on the live regulator pages before you spend money or make commitments.
 
-This is not legal advice.
+Last verified: **2026-09-25**.
 
-## Company basics
+## Who regulates what (tech-relevant)
 
-| Item | Regulator | Note |
-|---|---|---|
-| Incorporation | CAC | You need a Nigerian company (or local subsidiary) before most operating licences. |
-| Personal data | NDPC (NDPR / NDPA) | Applies to almost every startup handling customer data. |
+| Regulator | Typical scope in this dataset |
+|---|---|
+| **CBN** | Payments (PSSP, PTSP, MMO, Super-Agent, Switching), IMTO, banks, MFBs |
+| **FCCPC** | Digital money lender registrations; consumer protection |
+| **SEC Nigeria** | Investments, funds, digital assets rules as applicable |
+| **NAICOM** | Insurance / HMO |
+| **NERC** | Electricity, mini-grids, private trading |
+| **NITDA / NDPR** | Data protection compliance expectations |
+| **NAFDAC** | Food, drugs, related supply chains |
+| **CAC** | Company incorporation (baseline for everyone) |
 
-## CBN payments categories (Dec 2020 framework)
+## CBN payments licences (high level)
 
-| Licence | Can hold customer funds? | Typical use | Min capital (public summaries) |
-|---|---|---|---|
-| Switching and Processing | No (not as MMO) | National rails, card processing, non-bank acquiring | N2 billion |
-| Mobile Money Operator (MMO) | **Yes** | Wallets, e-money, pool management | N2 billion |
-| PSSP | No | Payment gateways, merchant aggregation | N100 million |
-| PTSP | No | POS terminals and merchant support | N100 million |
-| Super-Agent | No | Agent network management | N50 million |
-| PSS composite | No | Combo of Super-Agent + PTSP + PSSP | N250 million |
-| Regulatory Sandbox | Per approval | Time-bound product tests | Case-by-case |
+Common categories appearing in `Directory`:
 
-If you want **both** Switching and MMO activities, CBN expects a **Payments Service Holding Company (PSHC)** structure with ring-fenced subsidiaries (non-operating holdco).
+- **PSSP:** Payment Solution Service Provider (gateway / merchant collections class).
+- **PTSP:** Payment Terminal Service Provider (POS/terminal estate).
+- **Super-Agent:** Agency banking distribution networks.
+- **MMO:** Mobile Money Operator (e-money / wallets).
+- **Switching & Processing:** National / scheme switching class.
+- **IMTO:** International Money Transfer Operator.
 
-Sources: [Aspen Sahel explainer](https://aspensahel.com/2021/09/new-license-categorisations-for-the-nigerian-payments-system/), [AElex on PSHC](https://aelex.com/analysing-cbns-guidelines-for-licensing-and-regulating-payment-service-holding-companies/), [CBN](https://www.cbn.gov.ng/).
+### Typical application path (conceptual)
 
-## Banking and lending
+1. Incorporate at CAC; prepare capital, governance, and compliance manuals.
+2. Engage CBN payments licensing process (forms, fit-and-proper, technology and security review).
+3. Expect protracted review, possible objections, and ongoing supervisory reporting after approval.
+4. Layer PCI-DSS, scheme membership, and bank sponsorship where required.
 
-| Path | Regulator | Note |
-|---|---|---|
-| Microfinance Bank (MFB) | CBN | Common for digital lenders (FairMoney-class, Moniepoint lineage). Capital varies by unit/state/national tier. |
-| Commercial / merchant bank | CBN | Hardest path for neobanks (Kuda-class). |
-| Deposit insurance | NDIC | For deposit-takers. |
+Exact capital floors and circulars change. Read the current CBN Payments System pages rather than this summary.
 
-## Other sector regulators
+## FCCPC digital money lenders
 
-| Topic | Regulator | Typical products |
-|---|---|---|
-| Investments, crowdfunding, some digital assets | SEC Nigeria | Cowrywise / Risevest-class; crypto platforms depending on activity |
-| Insurance / HMO | NAICOM | Reliance Health-class |
-| Telecom / VAS / short codes | NCC | Comms-adjacent products |
-| Drugs, food, medical products | NAFDAC | Healthtech supply, food processing |
-| Electricity / mini-grids / trading | NERC | Cleantech (Konexa trading licence class) |
+- Many consumer loan apps must register as Digital Money Lenders.
+- Registration is **not** a substitute for CBN MFB/banking rights.
+- Consumer protection, disclosures, and collections conduct are enforcement themes.
+- Directory rows tagged FCCPC are **listed names**, not endorsements of credit quality.
 
-## Practical takeaway for builders
+## Banking / MFB
 
-- **SaaS / tooling / KYC UX / billing automation**: often CAC + NDPR + a licensed PSP partner. Highest ease scores in this dataset.
-- **Payment gateway**: PSSP (or partner under a licensed entity) + PCI + bank integrations.
-- **Wallet / agent network**: MMO and/or Super-Agent/PTSP stack, float, and distribution. Hard.
-- **Neobank / lender**: MFB or full bank path. Hardest.
-- **Insurance / energy trading / pharma**: sector regulator first, software second.
+- Taking deposits generally requires a CBN banking or MFB licence and NDIC considerations.
+- Neobank UX on a partner bank is a different (still regulated) path from owning a licence.
+- Timelines are measured in years, not sprints.
 
-CSV mirror: `data/licences_cheat_sheet.csv`.
+## Securities and wealth products
+
+- Offering investments to the public can trigger SEC Nigeria oversight.
+- Wealth apps often partner with licensed fund managers / custodians rather than self-issuing products.
+
+## Insurance / HMO
+
+- Risk-bearing health or insurance products typically need NAICOM authorisation.
+- Care-access marketplaces without underwriting face a different (still non-trivial) compliance path.
+
+## Energy
+
+- Mini-grids, embedded generation, and private electricity trading sit under NERC frameworks.
+- PAYG solar credit products often combine energy ops with lending partners.
+
+## Data protection
+
+- NDPR-style obligations apply to KYC, health, and consumer fintech data.
+- Cross-border transfers and biometrics need careful design.
+
+## Practical builder rule
+
+If the product **holds customer funds**, **extends credit from your balance sheet**, **moves FX**, or **underwrites insurance**, assume you need counsel and a licence plan before build. If the product **sells software to already-licensed firms**, your path is usually CAC + NDPR + commercial contracts.
+
+See also `data/licences_cheat_sheet.csv` and sector notes in `docs/sector_playbooks.md`.

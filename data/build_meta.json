@@ -1,49 +1,19 @@
 {
   "ranked_count": 102,
-  "directory_count": 987,
-  "no_fund_notable_count": 50,
-  "grand_unique": 1089,
-  "top10": [
-    [
-      "Jumia",
-      885400000
-    ],
-    [
-      "OPay",
-      570000000
-    ],
-    [
-      "Flutterwave",
-      474960000
-    ],
-    [
-      "Moove",
-      445000000
-    ],
-    [
-      "Andela",
-      381000000
-    ],
-    [
-      "Moniepoint (TeamApt)",
-      328158694
-    ],
-    [
-      "Interswitch",
-      310000000
-    ],
-    [
-      "PalmPay",
-      140000000
-    ],
-    [
-      "Lumos Global",
-      125000000
-    ],
-    [
-      "TradeDepot",
-      123000000
-    ]
-  ],
+  "directory_count": 980,
+  "grand_unique": 1082,
+  "funding_rounds": 24,
+  "investors": 61,
+  "ranked_website": 67,
+  "ranked_founders": 23,
+  "ranked_ceo": 22,
+  "ranked_high_confidence": 22,
+  "dir_regulator": {
+    "FCCPC": 572,
+    "CBN": 280,
+    "Press": 65,
+    "Other": 32,
+    "YC": 31
+  },
   "last_verified": "2026-09-25"
 }

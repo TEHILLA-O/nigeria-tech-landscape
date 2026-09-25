@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Nigeria tech landscape (fintech + tech) open research dataset"
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - family-names: Obanor
+    given-names: Tehilla
+repository-code: "https://github.com/TEHILLA-O/nigeria-tech-landscape"
+url: "https://github.com/TEHILLA-O/nigeria-tech-landscape"
+date-released: "2026-09-25"
+license: MIT
+keywords:
+  - Nigeria
+  - fintech
+  - startups
+  - open data
+  - CBN
+  - FCCPC
