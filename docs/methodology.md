@@ -109,3 +109,28 @@ When adding a company or changing a funding cell, include a `Source_URLs` entry 
 - `Omnific_Hand_Motion` judges a small London ML/automation consultancy, not a bank: `Clone_avoid`, `Sell_to`, `Partner`, or `Adjacent_tooling`.
 - Facelift columns (JTBD, ICP, Peers, Sector_Primary/Secondary, licence depth, last signal) are best-effort public research. Ticket sizes default to `Unknown` unless public.
 - Paid Crunchbase/Tracxn merges remain blocked without a licensed export (`data/imports/`).
+
+## Possibly_stale signal rule (2026-09-25)
+
+As-of date for this build: **2026-09-25**.
+
+| Possibly_stale | Rule |
+|---|---|
+| **Yes** | `Last_Signal_Date` parses to a date **strictly before 2025-03-25** (older than 18 months before as-of). |
+| **No** | `Last_Signal_Date` is on or after 2025-03-25. |
+| **Unknown** | `Last_Signal_Date` is blank or unparseable. |
+
+Partial dates: `YYYY` is treated as year-end; `YYYY-MM` as day 28 of that month. This is a hygiene flag for research refresh, not a claim that the company is dead.
+
+## Licence register refresh
+
+1. Open the live CBN payments / IMTO lists and FCCPC digital money lender approvals (see `docs/licences.md`).
+2. For each regulated ranked name, confirm the category still appears (or company primary claims).
+3. Set `Register_Last_Checked` to the check date (ISO).
+4. Set `Licence_Status` to `Listed` when the public register or company primary page confirms; otherwise leave `Unknown` (never invent Active vs Revoked without a register hit).
+5. Re-run `scripts/facelift_backlog_3_10.py` or edit `data/ranked_disclosed.csv` and rebuild sqlite/xlsx.
+
+## Directory quality pass (2026-09-25)
+
+Parse artefacts from FCCPC/CBN HTML (concatenated app names, address fragments mistaken for legal names) are **dropped**. Counts are recorded in `raw_sources/deep_research/directory_quality_pass.json` and CHANGELOG. Template lender blurbs may remain thin; prefer blank honesty over invented product copy.
+

@@ -15,11 +15,11 @@ Builders, operators, and consultants need an honest map of who is licensed, who 
 | Sheet / file | Rows |
 |---|---|
 | Ranked with disclosed funding (`Ranked_Disclosed`) | **101** |
-| Directory without clean disclosed totals (`Directory`) | **981** |
+| Directory without clean disclosed totals (`Directory`) | **977** |
 | Notable no-funding subset (`No_Disclosed_Funding`) | **50** |
 | Sourced funding rounds (`funding_rounds.csv`) | **129** |
 | Investors appearing in sourced rounds (`investors.csv`) | **119** |
-| **Grand unique company rows** | **1082** |
+| **Grand unique company rows** | **1078** |
 
 Directory volume is driven by **CBN** payment-licence lists, **FCCPC** digital money lender registrations, YC Nigeria cohorts, and curated press / map roundups. Licence rows keep thin but real blurbs. Funding is never guessed for Directory.
 
@@ -39,11 +39,15 @@ Directory volume is driven by **CBN** payment-licence lists, **FCCPC** digital m
 | JTBD / ICP | 101/101 (100%) |
 | Peers | 101/101 (100%) |
 | Sector_Primary / Secondary | 101/101 (100%) |
+| Possibly_stale | 101/101 (100%) |
+| Topics | 101/101 (100%) |
+| Founder LinkedIn (public) | 13/101 |
+| Register_Last_Checked (regulated subset) | 30/101 |
 **Status / exit note:** Known public exits on the ranked sheet include Jumia (IPO 2019), Paystack to Stripe (2020), Brass to a Paystack-led consortium (2024), Mono to Flutterwave (2026), plus shutdowns for Okra (2025), 54gene (~2023), and Bundle Africa exchange (2023). Lemonade Finance was **deduped into LemFi** (Directory alias; same May 2023 rebrand entity). LemFi remains the sole ranked row. All other ranked rows are **Active** with `Exit_Type=None` unless a public exit source is found. Never invent exits.
 
 **Omnific Hand note:** `Omnific_Hand_Motion` is scored for a small London ML/automation/product-tooling consultancy (not a bank). Most large licensed payments, agent networks, and capital-heavy platforms are `Clone_avoid`; vendor/partner motions dominate the rest.
 
-Directory: regulator tagged for CBN (280), FCCPC (572), YC (31), Press (65). Category heuristics fill Ease / licences / builder angles (`Heuristic=Yes`).
+Directory: regulator tagged for CBN (277), FCCPC (562), YC (37), Press (63), Other (38). Category heuristics fill Ease / licences / builder angles (`Heuristic=Yes`).
 
 ## Top 10 by disclosed funding
 
@@ -89,7 +93,7 @@ docs/methodology.md
 docs/data_dictionary.md
 docs/sector_playbooks.md
 docs/licences.md
-docs/dashboard/index.html
+docs/dashboard/index.html (filters + CSV export)
 data/nigeria_tech_landscape.sqlite
 CHANGELOG.md
 sources.md
@@ -127,6 +131,7 @@ Full detail: [`docs/methodology.md`](docs/methodology.md).
 | [Data dictionary](docs/data_dictionary.md) | Column definitions |
 | [Sector playbooks](docs/sector_playbooks.md) | Payments, lending, banking, SaaS, logistics, health, edtech, energy, HR |
 | [Licences](docs/licences.md) | High-level Nigeria licence paths (not legal advice) |
+| [Funding caveats](docs/Funding_Caveats.md) | Disputed totals (Moove and others) |
 | [Sources](sources.md) | Bibliography |
 | [Contributing](CONTRIBUTING.md) | How to add a company honestly |
 

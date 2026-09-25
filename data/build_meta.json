@@ -1,6 +1,6 @@
 {
   "ranked_count": 101,
-  "directory_count": 981,
+  "directory_count": 977,
   "ranked_website": 101,
   "ranked_founders": 100,
   "ranked_ceo": 75,
@@ -14,5 +14,11 @@
   "dir_regulator": 981,
   "dir_licence_cat": 981,
   "dir_opportunity": 981,
-  "last_verified": "2026-09-25"
+  "last_verified": "2026-09-25",
+  "ranked_founder_linkedin": 13,
+  "ranked_possibly_stale_yes": 30,
+  "ranked_topics": 101,
+  "licence_register_rechecked": 30,
+  "directory_removed_junk": 4,
+  "dashboard": "/workspace/nigeria-tech-report/docs/dashboard/index.html"
 }

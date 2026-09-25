@@ -1,5 +1,39 @@
 # Changelog
 
+## 2026-09-25 - Facelift backlog items 3-10
+
+### 3. Directory quality pass
+- Removed **4** parse-junk rows (concatenated FCCPC app lists, address-as-company IMTO artefact). Details in `raw_sources/deep_research/directory_quality_pass.json`.
+- Retagged FCCPC digital money lender rows (`Regulator_Source=FCCPC`, category Digital Money Lender) and CBN-licensed blurbs where Product_Summary stated so.
+- Thickened ultra-thin blurbs with honest low-confidence listings (no invented products/funding).
+- Directory Topics added where easy. Directory rows now **977** (was 981).
+
+### 4. Stale-signal hygiene
+- Added Ranked `Possibly_stale` (Yes/No/Unknown). Rule: Last_Signal_Date older than 18 months before **2026-09-25** => Yes; missing => Unknown. Documented in `docs/methodology.md`.
+- Counts: Yes 30, No 2, Unknown 69.
+
+### 5. Dashboard polish
+- `docs/dashboard/index.html`: filters for Omnific_Hand_Motion, Sector_Primary, Company_Status, Exit_Type, Possibly_stale; **CSV export** of filtered view; reset control.
+
+### 6. Founder LinkedIn fill-rate
+- Before: **0/101** with Founder_LinkedIn_URLs.
+- After: **13/101** (public profiles only; never invented).
+
+### 7. Licence register re-check
+- Set `Register_Last_Checked=2026-09-25` on **30** regulated / watchlist ranked names; refreshed Licence_Status where public claims allow. Refresh steps in `docs/licences.md`.
+
+### 8. Conflict log
+- Added `docs/Funding_Caveats.md` and `data/funding_caveats.csv` (Moove equity vs facility blending; Moniepoint Series C closes; Interswitch Visa stake).
+
+### 9. Topics/tags
+- Added Ranked `Topics` (semicolon tags). Extended Directory Topics where easy.
+
+### 10. CONTRIBUTING
+- Added **Good first issues** with concrete honest tasks.
+
+### Rebuild
+- Regenerated sqlite, xlsx, companies_enriched.json, dashboard. No invented funding.
+
 ## 2026-09-25 - LemFi dedupe + ranked blank chase
 
 ### LemFi / Lemonade Finance

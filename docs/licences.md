@@ -75,3 +75,15 @@ Exact capital floors and circulars change. Read the current CBN Payments System 
 If the product **holds customer funds**, **extends credit from your balance sheet**, **moves FX**, or **underwrites insurance**, assume you need counsel and a licence plan before build. If the product **sells software to already-licensed firms**, your path is usually CAC + NDPR + commercial contracts.
 
 See also `data/licences_cheat_sheet.csv` and sector notes in `docs/sector_playbooks.md`.
+
+## How to refresh `Register_Last_Checked` (ranked)
+
+1. Pull the latest public HTML/PDF from CBN payments system pages and FCCPC DML approvals into `raw_sources/` (optional but preferred).
+2. For the top ~30 regulated ranked companies, confirm the licence category still appears on the register or on the company primary site.
+3. Update `Licence_Types_Held` / `Licence_IDs_or_Categories` only with what the register or company page states.
+4. Set `Licence_Status` to `Listed` when confirmed on a public register; use `Unknown` when not found (do not invent Revoked).
+5. Set `Register_Last_Checked` to the ISO date you checked.
+6. Rebuild with `scripts/facelift_backlog_3_10.py` (or edit CSV + `scripts/export_sqlite.py`).
+
+This is research hygiene, not a supervisory filing.
+

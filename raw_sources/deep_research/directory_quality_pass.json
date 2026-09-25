@@ -1,0 +1,28 @@
+{
+  "as_of": "2026-09-25",
+  "before": 981,
+  "after": 977,
+  "removed_count": 4,
+  "removed": [
+    {
+      "Company": "Echoloan App, Swiftecho App",
+      "Reasons": "multi-entity or address parse artefact; multi-app blob",
+      "Product_Summary": "Echoloan App, Swiftecho App: FCCPC-registered digital money lender / consumer credit apps."
+    },
+    {
+      "Company": "Gmt Tech App And Gmttechnologiesltd.Com",
+      "Reasons": "multi-entity or address parse artefact",
+      "Product_Summary": "Gmt Tech App And Gmttechnologiesltd.Com: FCCPC-registered digital money lender / consumer credit apps."
+    },
+    {
+      "Company": "Kwikvault App, Surefund App, Loantech App, Creditflex App And Rapidfunds App",
+      "Reasons": "multi-entity or address parse artefact; concatenated app list; multi-app blob",
+      "Product_Summary": "Kwikvault App, Surefund App, Loantech App, Creditflex App And Rapidfunds App: FCCPC-registered digital money lender / consumer credit apps."
+    },
+    {
+      "Company": "Olu Holloway, Ikoyi, Eti-Osa, Lagos",
+      "Reasons": "multi-entity or address parse artefact; address-as-company",
+      "Product_Summary": "Olu Holloway, Ikoyi, Eti-Osa, Lagos: CBN-licensed International Money Transfer Operator."
+    }
+  ]
+}

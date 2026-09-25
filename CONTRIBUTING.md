@@ -37,3 +37,19 @@ Keep licence notes high-level. Link the regulator page. Do not give filing advic
 ## Tone
 
 Write like a careful researcher. Short sentences. No hype.
+
+## Good first issues
+
+Concrete tasks that help without inventing numbers:
+
+1. **Fill one blank Website** on Ranked or Directory from the company primary site (PR must include the URL you used).
+2. **Add a sourced funding round** to `data/funding_rounds.csv` with Company, Round_Type, Amount_USD (if disclosed), Date, Investors, and Source_URLs. No guessed amounts.
+3. **Confirm one licence row** against the live CBN or FCCPC register; update `Register_Last_Checked` and Notes.
+4. **Improve one thin Directory blurb** using the company About page (still no invented funding).
+5. **Add Founder_LinkedIn_URLs** only when the public profile clearly matches the named founder. Never invent URLs.
+6. **Tag Topics** on a Ranked row (semicolon tags such as `cross-border`, `agent-network`, `credit-scoring`, `HR`, `energy-PAYG`).
+7. **Document a funding conflict** in `docs/Funding_Caveats.md` / `data/funding_caveats.csv` when two reputable sources disagree.
+8. **Fix a Directory parse artefact** (address-as-name, concatenated app list) by removing or splitting the row and noting it in the PR.
+
+Pick one row, keep the diff small, and link sources in the PR body.
+

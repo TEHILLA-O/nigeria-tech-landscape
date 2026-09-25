@@ -1,0 +1,16 @@
+{
+  "ranked": 101,
+  "dir_before": 981,
+  "dir_after": 977,
+  "dir_removed": 4,
+  "linkedin_before": 0,
+  "linkedin_after": 13,
+  "licence_rechecks": 30,
+  "stale_yes": 30,
+  "stale_no": 2,
+  "stale_unknown": 69,
+  "topics_ranked": 101,
+  "sqlite": "/workspace/nigeria-tech-report/data/nigeria_tech_landscape.sqlite",
+  "xlsx": "/workspace/nigeria-tech-report/data/Nigeria_Fintech_Tech_Ranked.xlsx",
+  "dashboard": "/workspace/nigeria-tech-report/docs/dashboard/index.html"
+}

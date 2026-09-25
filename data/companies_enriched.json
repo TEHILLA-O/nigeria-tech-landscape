@@ -32,7 +32,7 @@
     "Notable_Investors": "Rocket Internet (historical); public shareholders",
     "Valuation_USD": "Undisclosed",
     "Valuation_Status": "Undisclosed",
-    "Licence_Types_Held": "",
+    "Licence_Types_Held": "Marketplace / e-commerce; not a CBN payments licensee as primary model",
     "Licences_Regs_Needed": "CAC; consumer protection; logistics permits; payments via licensed PSPs; NDPR.",
     "Key_Competitors": "Konga; Jiji; Amazon-like global players where present",
     "Moat_Notes": "Brand recognition, seller liquidity, and logistics density in core markets. Loss-funded GMV history makes economics hard to copy cheaply.",
@@ -50,9 +50,9 @@
     "JTBD": "Discover and transact goods/services with trust and logistics support.",
     "ICP": "Buyers and sellers in a category with thin offline alternatives.",
     "Ticket_Size_Band": "Unknown",
-    "Licence_IDs_or_Categories": "",
+    "Licence_IDs_or_Categories": "Marketplace / e-commerce; not a CBN payments licensee as primary model",
     "Licence_Status": "Unknown",
-    "Register_Last_Checked": "",
+    "Register_Last_Checked": "2026-09-25",
     "Peers": "TradeDepot; Konga; Vendease",
     "Last_Signal_Date": "2019-04",
     "Last_Signal_Type": "Funding",
@@ -63,7 +63,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "marketplace; logistics; cross-border"
   },
   {
     "Rank": "2",
@@ -129,7 +131,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "agent-network; payments; super-app"
   },
   {
     "Rank": "3",
@@ -189,13 +193,15 @@
     "Last_Signal_Date": "2022-01",
     "Last_Signal_Type": "Funding",
     "Last_Signal_URL": "https://www.cbinsights.com/company/flutterwave/financials",
-    "Founder_LinkedIn_URLs": "",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/gbagboola; https://www.linkedin.com/in/eaboyeji",
     "Sector_Primary": "Fintech",
     "Sector_Secondary": "Payments|Cross-border",
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "payments; cross-border; API"
   },
   {
     "Rank": "4",
@@ -230,7 +236,7 @@
     "Notable_Investors": "Undisclosed in this compile for full list; see press roundups",
     "Valuation_USD": "Undisclosed",
     "Valuation_Status": "Undisclosed",
-    "Licence_Types_Held": "",
+    "Licence_Types_Held": "Vehicle finance / mobility licences market-by-market (verify); not a CBN MMO",
     "Licences_Regs_Needed": "CBN lending/finance or partner bank; hire-purchase; NAICOM; multi-market lending.",
     "Key_Competitors": "Local hire-purchase lenders; OEM captive finance; other mobility financiers",
     "Moat_Notes": "Vehicle capital, OEM/Uber-style partnerships, and multi-country lending licences. Not a pure software clone.",
@@ -248,9 +254,9 @@
     "JTBD": "Move, store, or lend money with less friction and more compliance confidence.",
     "ICP": "Consumers, SMEs, merchants, or developers needing payment/credit rails.",
     "Ticket_Size_Band": "Unknown",
-    "Licence_IDs_or_Categories": "",
+    "Licence_IDs_or_Categories": "Vehicle finance / mobility licences market-by-market (verify); not a CBN MMO",
     "Licence_Status": "Unknown",
-    "Register_Last_Checked": "",
+    "Register_Last_Checked": "2026-09-25",
     "Peers": "OPay; Flutterwave; Moniepoint (TeamApt)",
     "Last_Signal_Date": "2024-03",
     "Last_Signal_Type": "Funding",
@@ -261,7 +267,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "mobility; asset-finance; debt-heavy"
   },
   {
     "Rank": "5",
@@ -296,7 +304,7 @@
     "Notable_Investors": "SoftBank Vision Fund; Generation Investment; Spark Capital (historical press)",
     "Valuation_USD": "1500000000",
     "Valuation_Status": "Reported",
-    "Licence_Types_Held": "",
+    "Licence_Types_Held": "Talent marketplace; employer/immigration compliance not CBN payments",
     "Licences_Regs_Needed": "CAC; labour/immigration; NDPR.",
     "Key_Competitors": "Turing; Toptal; local outsourcing firms; other Africa talent platforms",
     "Moat_Notes": "Brand, training pipeline, and enterprise sales relationships. Matching UI is buildable.",
@@ -314,20 +322,22 @@
     "JTBD": "Buy a tech-enabled service that replaces a manual process.",
     "ICP": "Enterprises outsourcing a complex service.",
     "Ticket_Size_Band": "Unknown",
-    "Licence_IDs_or_Categories": "",
+    "Licence_IDs_or_Categories": "Talent marketplace; employer/immigration compliance not CBN payments",
     "Licence_Status": "Unknown",
-    "Register_Last_Checked": "",
+    "Register_Last_Checked": "2026-09-25",
     "Peers": "Lumos Global; iSON Xperiences; Wakanow",
     "Last_Signal_Date": "",
     "Last_Signal_Type": "",
     "Last_Signal_URL": "",
-    "Founder_LinkedIn_URLs": "",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/eaboyeji",
     "Sector_Primary": "Other Tech",
     "Sector_Secondary": "Talent|Workforce",
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "talent; remote-work; HR"
   },
   {
     "Rank": "6",
@@ -387,13 +397,15 @@
     "Last_Signal_Date": "2025-10",
     "Last_Signal_Type": "Funding",
     "Last_Signal_URL": "https://linkedin.com/company/moniepoint-inc",
-    "Founder_LinkedIn_URLs": "",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/tosin-eniolorunda-46833618; https://www.linkedin.com/in/felix-ike-b9747158",
     "Sector_Primary": "Fintech",
     "Sector_Secondary": "Payments|SME banking",
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "No",
+    "Topics": "agent-network; SME-banking; POS"
   },
   {
     "Rank": "7",
@@ -453,13 +465,15 @@
     "Last_Signal_Date": "",
     "Last_Signal_Type": "",
     "Last_Signal_URL": "",
-    "Founder_LinkedIn_URLs": "",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/mitchell-elegbe-502aba128",
     "Sector_Primary": "Fintech",
     "Sector_Secondary": "Payments|Switching",
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "switching; cards; payments-infra"
   },
   {
     "Rank": "8",
@@ -525,7 +539,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "agent-network; wallet; payments"
   },
   {
     "Rank": "9",
@@ -591,7 +607,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "energy-PAYG; off-grid"
   },
   {
     "Rank": "10",
@@ -657,7 +675,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "B2B-commerce; FMCG; credit"
   },
   {
     "Rank": "11",
@@ -717,13 +737,15 @@
     "Last_Signal_Date": "2021-08",
     "Last_Signal_Type": "Funding",
     "Last_Signal_URL": "https://ln247.news/top-10-most-funded-nigerian-startups-as-of-august-2023/",
-    "Founder_LinkedIn_URLs": "",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/babsogundeyi",
     "Sector_Primary": "Fintech",
     "Sector_Secondary": "Digital bank|Retail",
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "neobank; retail-banking"
   },
   {
     "Rank": "12",
@@ -789,7 +811,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "crypto; on-ramp; cross-border"
   },
   {
     "Rank": "13",
@@ -849,13 +873,15 @@
     "Last_Signal_Date": "2025-01",
     "Last_Signal_Type": "Funding",
     "Last_Signal_URL": "https://nairametrics.com/2025/05/31/nigerias-startups-raised-over-100-million-in-q1-2025-here-are-the-top-10-deals/",
-    "Founder_LinkedIn_URLs": "",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/darilldrems",
     "Sector_Primary": "Fintech",
     "Sector_Secondary": "Payments|Cross-border|Remittance",
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "remittance; cross-border; multi-currency"
   },
   {
     "Rank": "14",
@@ -890,7 +916,7 @@
     "Notable_Investors": "AXA IM; Anne Wojcicki (press); Y Combinator; Tencent; Gates Foundation (company about page historical)",
     "Valuation_USD": "Undisclosed",
     "Valuation_Status": "Undisclosed",
-    "Licence_Types_Held": "",
+    "Licence_Types_Held": "Health data / facility partners; not a NAICOM risk carrier by default",
     "Licences_Regs_Needed": "CAC; health data rules; NDPR.",
     "Key_Competitors": "Local HIS vendors; paper workflows; global EMR light tools",
     "Moat_Notes": "Hospital sales cycles and clinical trust. EMR features are buildable.",
@@ -908,9 +934,9 @@
     "JTBD": "Deliver or finance care with better records, supply, or access.",
     "ICP": "Providers, patients, employers, or pharma supply actors.",
     "Ticket_Size_Band": "Unknown",
-    "Licence_IDs_or_Categories": "",
+    "Licence_IDs_or_Categories": "Health data / facility partners; not a NAICOM risk carrier by default",
     "Licence_Status": "Unknown",
-    "Register_Last_Checked": "",
+    "Register_Last_Checked": "2026-09-25",
     "Peers": "Reliance Health; 54gene; Field",
     "Last_Signal_Date": "2023-06",
     "Last_Signal_Type": "Funding",
@@ -921,7 +947,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "EMR; healthtech; hospital-OS"
   },
   {
     "Rank": "15",
@@ -987,7 +1015,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "marketplace; logistics"
   },
   {
     "Rank": "16",
@@ -1053,7 +1083,9 @@
     "Operating_Cities_NG": "Abuja",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "agritech; farmer-finance"
   },
   {
     "Rank": "17",
@@ -1119,7 +1151,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "credit; MFB; lending"
   },
   {
     "Rank": "18",
@@ -1185,7 +1219,9 @@
     "Operating_Cities_NG": "Ibadan",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "other"
   },
   {
     "Rank": "19",
@@ -1251,7 +1287,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "HMO; insurtech; healthtech"
   },
   {
     "Rank": "20",
@@ -1317,7 +1355,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "healthtech; genomics; shutdown"
   },
   {
     "Rank": "21",
@@ -1383,7 +1423,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "POS; payments; MFB"
   },
   {
     "Rank": "22",
@@ -1449,7 +1491,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "other"
   },
   {
     "Rank": "23",
@@ -1509,13 +1553,15 @@
     "Last_Signal_Date": "2021-12",
     "Last_Signal_Type": "Funding",
     "Last_Signal_URL": "https://technext24.com/reviews/nigeria-tops-funded-african-startups/",
-    "Founder_LinkedIn_URLs": "",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/adetayobamiduro",
     "Sector_Primary": "Logistics",
     "Sector_Secondary": "Freight / mobility",
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "mobility; logistics; last-mile"
   },
   {
     "Rank": "24",
@@ -1575,13 +1621,15 @@
     "Last_Signal_Date": "2019-08",
     "Last_Signal_Type": "Funding",
     "Last_Signal_URL": "https://technext24.com/reviews/nigeria-tops-funded-african-startups/",
-    "Founder_LinkedIn_URLs": "",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/obi-ozor",
     "Sector_Primary": "Logistics",
     "Sector_Secondary": "Freight / mobility",
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "logistics; freight; marketplace"
   },
   {
     "Rank": "25",
@@ -1647,7 +1695,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "embedded-credit; credit-scoring"
   },
   {
     "Rank": "26",
@@ -1707,13 +1757,15 @@
     "Last_Signal_Date": "",
     "Last_Signal_Type": "",
     "Last_Signal_URL": "",
-    "Founder_LinkedIn_URLs": "",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/oviosu",
     "Sector_Primary": "Fintech",
     "Sector_Secondary": "Payments",
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "mobile-money; agent-network"
   },
   {
     "Rank": "27",
@@ -1779,7 +1831,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "B2B-commerce; foodservice"
   },
   {
     "Rank": "28",
@@ -1839,13 +1893,15 @@
     "Last_Signal_Date": "",
     "Last_Signal_Type": "",
     "Last_Signal_URL": "",
-    "Founder_LinkedIn_URLs": "",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/jasonnj",
     "Sector_Primary": "Other Tech",
     "Sector_Secondary": "Services / other",
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "other"
   },
   {
     "Rank": "29",
@@ -1911,7 +1967,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "energy-PAYG; SaaS"
   },
   {
     "Rank": "30",
@@ -1977,7 +2035,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "energy-C&I; solar"
   },
   {
     "Rank": "31",
@@ -2043,7 +2103,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "edtech; mobile-learning"
   },
   {
     "Rank": "32",
@@ -2109,7 +2171,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "energy-PAYG"
   },
   {
     "Rank": "33",
@@ -2175,7 +2239,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "HR; SaaS; payroll"
   },
   {
     "Rank": "34",
@@ -2241,7 +2307,9 @@
     "Operating_Cities_NG": "",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "marketplace"
   },
   {
     "Rank": "35",
@@ -2307,7 +2375,9 @@
     "Operating_Cities_NG": "Abuja",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "energy-PAYG"
   },
   {
     "Rank": "36",
@@ -2373,7 +2443,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "marketplace"
   },
   {
     "Rank": "37",
@@ -2439,7 +2511,9 @@
     "Operating_Cities_NG": "",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "other"
   },
   {
     "Rank": "38",
@@ -2474,7 +2548,7 @@
     "Notable_Investors": "Flutterwave (acquirer)",
     "Valuation_USD": "Undisclosed",
     "Valuation_Status": "Undisclosed",
-    "Licence_Types_Held": "",
+    "Licence_Types_Held": "Open banking / data APIs; acquired by Flutterwave (2026)",
     "Licences_Regs_Needed": "CBN open banking framework; NDPR; PSSP as applicable.",
     "Key_Competitors": "Okra (historical); bank direct APIs",
     "Moat_Notes": "Bank partnerships and CBN open-banking compliance. Acquired by Flutterwave (Jan 2026 press).",
@@ -2492,9 +2566,9 @@
     "JTBD": "Move, store, or lend money with less friction and more compliance confidence.",
     "ICP": "Consumers, SMEs, merchants, or developers needing payment/credit rails.",
     "Ticket_Size_Band": "Unknown",
-    "Licence_IDs_or_Categories": "",
+    "Licence_IDs_or_Categories": "Open banking / data APIs; acquired by Flutterwave (2026)",
     "Licence_Status": "Unknown",
-    "Register_Last_Checked": "",
+    "Register_Last_Checked": "2026-09-25",
     "Peers": "Okra; OnePipe",
     "Last_Signal_Date": "2026-01",
     "Last_Signal_Type": "Funding",
@@ -2505,7 +2579,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "No",
+    "Topics": "open-banking; data-API; acquired"
   },
   {
     "Rank": "39",
@@ -2571,7 +2647,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "open-banking; data-API; shutdown"
   },
   {
     "Rank": "40",
@@ -2631,13 +2709,15 @@
     "Last_Signal_Date": "",
     "Last_Signal_Type": "",
     "Last_Signal_URL": "",
-    "Founder_LinkedIn_URLs": "",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/chijiokedozie",
     "Sector_Primary": "Fintech",
     "Sector_Secondary": "Payments",
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "credit; BNPL; neobank"
   },
   {
     "Rank": "41",
@@ -2703,7 +2783,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "credit-scoring"
   },
   {
     "Rank": "42",
@@ -2769,7 +2851,9 @@
     "Operating_Cities_NG": "",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "credit-scoring"
   },
   {
     "Rank": "43",
@@ -2835,7 +2919,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "payments"
   },
   {
     "Rank": "44",
@@ -2901,7 +2987,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "agent-network; payments"
   },
   {
     "Rank": "45",
@@ -2967,7 +3055,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "agritech"
   },
   {
     "Rank": "46",
@@ -3027,13 +3117,15 @@
     "Last_Signal_Date": "2020-10",
     "Last_Signal_Type": "Funding",
     "Last_Signal_URL": "https://fintechnews.africa/41180/fintech-nigeria/here-are-the-top-5-fintech-startup-funding-rounds-in-nigeria/",
-    "Founder_LinkedIn_URLs": "",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/shollsman",
     "Sector_Primary": "Fintech",
     "Sector_Secondary": "Payments|Merchant acquiring",
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "payments; API; acquired"
   },
   {
     "Rank": "47",
@@ -3099,7 +3191,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "energy-PAYG"
   },
   {
     "Rank": "48",
@@ -3165,7 +3259,9 @@
     "Operating_Cities_NG": "Abuja",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "open-banking; healthtech"
   },
   {
     "Rank": "49",
@@ -3231,7 +3327,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "cross-border"
   },
   {
     "Rank": "50",
@@ -3297,7 +3395,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "credit-scoring"
   },
   {
     "Rank": "51",
@@ -3363,7 +3463,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "energy-PAYG"
   },
   {
     "Rank": "52",
@@ -3429,7 +3531,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "blockchain-rails; switching"
   },
   {
     "Rank": "53",
@@ -3495,7 +3599,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "cross-border; payments"
   },
   {
     "Rank": "54",
@@ -3561,7 +3667,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "cross-border; payments; marketplace"
   },
   {
     "Rank": "55",
@@ -3596,7 +3704,7 @@
     "Notable_Investors": "Y Combinator",
     "Valuation_USD": "Undisclosed",
     "Valuation_Status": "Undisclosed",
-    "Licence_Types_Held": "",
+    "Licence_Types_Held": "SEC Nigeria / fund-manager partnerships typical for wealth apps (verify)",
     "Licences_Regs_Needed": "SEC Nigeria as applicable; CAC; NDPR.",
     "Key_Competitors": "PiggyVest; Risevest; Bamboo",
     "Moat_Notes": "Wealth UX buildable; SEC fund manager / custodian partnerships required.",
@@ -3614,9 +3722,9 @@
     "JTBD": "Move, store, or lend money with less friction and more compliance confidence.",
     "ICP": "Consumers, SMEs, merchants, or developers needing payment/credit rails.",
     "Ticket_Size_Band": "Unknown",
-    "Licence_IDs_or_Categories": "",
+    "Licence_IDs_or_Categories": "SEC Nigeria / fund-manager partnerships typical for wealth apps (verify)",
     "Licence_Status": "Unknown",
-    "Register_Last_Checked": "",
+    "Register_Last_Checked": "2026-09-25",
     "Peers": "PiggyVest; Risevest",
     "Last_Signal_Date": "",
     "Last_Signal_Type": "",
@@ -3627,7 +3735,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "wealth; savings"
   },
   {
     "Rank": "56",
@@ -3693,7 +3803,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "logistics"
   },
   {
     "Rank": "57",
@@ -3759,7 +3871,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "marketplace"
   },
   {
     "Rank": "58",
@@ -3794,7 +3908,7 @@
     "Notable_Investors": "",
     "Valuation_USD": "Undisclosed",
     "Valuation_Status": "Undisclosed",
-    "Licence_Types_Held": "",
+    "Licence_Types_Held": "Identity / KYC processor; NDPR; not a deposit-taker",
     "Licences_Regs_Needed": "NIMC partnerships; NDPR; CAC.",
     "Key_Competitors": "Youverify; Smile Identity; Prembly",
     "Moat_Notes": "IDV product buildable; NIMC/government data access is hard.",
@@ -3812,9 +3926,9 @@
     "JTBD": "Buy a tech-enabled service that replaces a manual process.",
     "ICP": "Enterprises outsourcing a complex service.",
     "Ticket_Size_Band": "Unknown",
-    "Licence_IDs_or_Categories": "",
+    "Licence_IDs_or_Categories": "Identity / KYC processor; NDPR; not a deposit-taker",
     "Licence_Status": "Unknown",
-    "Register_Last_Checked": "",
+    "Register_Last_Checked": "2026-09-25",
     "Peers": "Andela; Lumos Global; iSON Xperiences",
     "Last_Signal_Date": "",
     "Last_Signal_Type": "",
@@ -3825,7 +3939,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "identity; KYC"
   },
   {
     "Rank": "59",
@@ -3891,7 +4007,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "fintech"
   },
   {
     "Rank": "60",
@@ -3926,7 +4044,7 @@
     "Notable_Investors": "",
     "Valuation_USD": "Undisclosed",
     "Valuation_Status": "Undisclosed",
-    "Licence_Types_Held": "",
+    "Licence_Types_Held": "SEC Nigeria / fund-manager partnerships typical for wealth apps (verify)",
     "Licences_Regs_Needed": "SEC Nigeria; foreign broker partnerships; NDPR.",
     "Key_Competitors": "Cowrywise; PiggyVest; Bamboo",
     "Moat_Notes": "Investment UX buildable; securities regs and foreign brokerage partners required.",
@@ -3944,9 +4062,9 @@
     "JTBD": "Move, store, or lend money with less friction and more compliance confidence.",
     "ICP": "Consumers, SMEs, merchants, or developers needing payment/credit rails.",
     "Ticket_Size_Band": "Unknown",
-    "Licence_IDs_or_Categories": "",
+    "Licence_IDs_or_Categories": "SEC Nigeria / fund-manager partnerships typical for wealth apps (verify)",
     "Licence_Status": "Unknown",
-    "Register_Last_Checked": "",
+    "Register_Last_Checked": "2026-09-25",
     "Peers": "OPay; Flutterwave; Moove",
     "Last_Signal_Date": "",
     "Last_Signal_Type": "",
@@ -3957,7 +4075,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "wealth; USD-investing"
   },
   {
     "Rank": "61",
@@ -3992,7 +4112,7 @@
     "Notable_Investors": "Flutterwave (SAFE ~$3M reported by TechCabal); earlier VC",
     "Valuation_USD": "Undisclosed",
     "Valuation_Status": "Undisclosed",
-    "Licence_Types_Held": "",
+    "Licence_Types_Held": "SEC Nigeria / fund-manager partnerships typical for wealth apps (verify)",
     "Licences_Regs_Needed": "SEC/CBN partner structures; NDPR.",
     "Key_Competitors": "",
     "Moat_Notes": "Product is simple; trust brand and yield partnerships are the moat.",
@@ -4010,20 +4130,22 @@
     "JTBD": "Move, store, or lend money with less friction and more compliance confidence.",
     "ICP": "Consumers, SMEs, merchants, or developers needing payment/credit rails.",
     "Ticket_Size_Band": "Unknown",
-    "Licence_IDs_or_Categories": "",
+    "Licence_IDs_or_Categories": "SEC Nigeria / fund-manager partnerships typical for wealth apps (verify)",
     "Licence_Status": "Unknown",
-    "Register_Last_Checked": "",
+    "Register_Last_Checked": "2026-09-25",
     "Peers": "Cowrywise; Risevest",
     "Last_Signal_Date": "",
     "Last_Signal_Type": "",
     "Last_Signal_URL": "",
-    "Founder_LinkedIn_URLs": "",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/odunayoeweniyi",
     "Sector_Primary": "Fintech",
     "Sector_Secondary": "Wealth|Savings",
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "wealth; savings"
   },
   {
     "Rank": "62",
@@ -4089,7 +4211,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "fintech"
   },
   {
     "Rank": "63",
@@ -4155,7 +4279,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "energy-PAYG"
   },
   {
     "Rank": "64",
@@ -4221,7 +4347,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "SaaS"
   },
   {
     "Rank": "65",
@@ -4287,7 +4415,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "marketplace; agritech"
   },
   {
     "Rank": "66",
@@ -4353,7 +4483,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "energy-C&I; solar"
   },
   {
     "Rank": "67",
@@ -4419,7 +4551,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "credit-scoring; SaaS"
   },
   {
     "Rank": "68",
@@ -4485,7 +4619,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "cross-border; payments"
   },
   {
     "Rank": "69",
@@ -4551,7 +4687,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "healthtech"
   },
   {
     "Rank": "70",
@@ -4617,7 +4755,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "marketplace; logistics"
   },
   {
     "Rank": "71",
@@ -4652,7 +4792,7 @@
     "Notable_Investors": "",
     "Valuation_USD": "Undisclosed",
     "Valuation_Status": "Undisclosed",
-    "Licence_Types_Held": "",
+    "Licence_Types_Held": "Identity / KYC processor; NDPR; not a deposit-taker",
     "Licences_Regs_Needed": "NDPR; NIMC/partner access; CAC.",
     "Key_Competitors": "Smile Identity; Prembly; Seamfix",
     "Moat_Notes": "KYC tooling buildable; data-source partnerships are the moat.",
@@ -4670,9 +4810,9 @@
     "JTBD": "Run core back-office workflows in software instead of spreadsheets.",
     "ICP": "SMEs and mid-market teams with recurring ops pain.",
     "Ticket_Size_Band": "Unknown",
-    "Licence_IDs_or_Categories": "",
+    "Licence_IDs_or_Categories": "Identity / KYC processor; NDPR; not a deposit-taker",
     "Licence_Status": "Unknown",
-    "Register_Last_Checked": "",
+    "Register_Last_Checked": "2026-09-25",
     "Peers": "Seamfix; Smile Identity",
     "Last_Signal_Date": "",
     "Last_Signal_Type": "",
@@ -4683,7 +4823,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "identity; KYC"
   },
   {
     "Rank": "72",
@@ -4749,7 +4891,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Yes",
+    "Topics": "marketplace"
   },
   {
     "Rank": "73",
@@ -4815,7 +4959,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "cross-border; credit-scoring"
   },
   {
     "Rank": "74",
@@ -4881,7 +5027,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "other"
   },
   {
     "Rank": "75",
@@ -4947,7 +5095,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "healthtech"
   },
   {
     "Rank": "76",
@@ -5013,7 +5163,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "fintech"
   },
   {
     "Rank": "77",
@@ -5079,7 +5231,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "agritech; wealth"
   },
   {
     "Rank": "78",
@@ -5145,7 +5299,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "cross-border"
   },
   {
     "Rank": "79",
@@ -5211,7 +5367,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "marketplace; logistics"
   },
   {
     "Rank": "80",
@@ -5246,7 +5404,7 @@
     "Notable_Investors": "",
     "Valuation_USD": "Undisclosed",
     "Valuation_Status": "Undisclosed",
-    "Licence_Types_Held": "",
+    "Licence_Types_Held": "SME banking tooling; acquired (Paystack-led consortium)",
     "Licences_Regs_Needed": "Partner bank; NDPR; CAC.",
     "Key_Competitors": "",
     "Moat_Notes": "SME banking UX buildable; licence via bank partners. Acquired path to Paystack MFB.",
@@ -5264,9 +5422,9 @@
     "JTBD": "Move, store, or lend money with less friction and more compliance confidence.",
     "ICP": "Consumers, SMEs, merchants, or developers needing payment/credit rails.",
     "Ticket_Size_Band": "Unknown",
-    "Licence_IDs_or_Categories": "",
+    "Licence_IDs_or_Categories": "SME banking tooling; acquired (Paystack-led consortium)",
     "Licence_Status": "Unknown",
-    "Register_Last_Checked": "",
+    "Register_Last_Checked": "2026-09-25",
     "Peers": "OPay; Flutterwave; Moove",
     "Last_Signal_Date": "",
     "Last_Signal_Type": "",
@@ -5277,7 +5435,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "SME-banking; acquired"
   },
   {
     "Rank": "81",
@@ -5343,7 +5503,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "payments; SaaS"
   },
   {
     "Rank": "82",
@@ -5409,7 +5571,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "healthtech"
   },
   {
     "Rank": "83",
@@ -5475,7 +5639,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "payments; crypto"
   },
   {
     "Rank": "84",
@@ -5541,7 +5707,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "payments; marketplace"
   },
   {
     "Rank": "85",
@@ -5607,7 +5775,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "fintech"
   },
   {
     "Rank": "86",
@@ -5673,7 +5843,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "payments"
   },
   {
     "Rank": "87",
@@ -5739,7 +5911,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "energy-PAYG; financing"
   },
   {
     "Rank": "88",
@@ -5805,7 +5979,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "HR; edtech"
   },
   {
     "Rank": "89",
@@ -5871,7 +6047,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "logistics; agritech"
   },
   {
     "Rank": "90",
@@ -5906,7 +6084,7 @@
     "Notable_Investors": "Y Combinator",
     "Valuation_USD": "Undisclosed",
     "Valuation_Status": "Undisclosed",
-    "Licence_Types_Held": "",
+    "Licence_Types_Held": "Multi-currency accounts; verify licences per market",
     "Licences_Regs_Needed": "Partner EMI/bank abroad; AML; NDPR.",
     "Key_Competitors": "",
     "Moat_Notes": "YC-backed; treat funding figure as partial floor from early coverage.",
@@ -5924,9 +6102,9 @@
     "JTBD": "Move, store, or lend money with less friction and more compliance confidence.",
     "ICP": "Consumers, SMEs, merchants, or developers needing payment/credit rails.",
     "Ticket_Size_Band": "Unknown",
-    "Licence_IDs_or_Categories": "",
+    "Licence_IDs_or_Categories": "Multi-currency accounts; verify licences per market",
     "Licence_Status": "Unknown",
-    "Register_Last_Checked": "",
+    "Register_Last_Checked": "2026-09-25",
     "Peers": "OPay; Flutterwave; Moove",
     "Last_Signal_Date": "",
     "Last_Signal_Type": "",
@@ -5937,7 +6115,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "cross-border; multi-currency"
   },
   {
     "Rank": "91",
@@ -6003,7 +6183,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "crypto; shutdown"
   },
   {
     "Rank": "92",
@@ -6069,7 +6251,9 @@
     "Operating_Cities_NG": "Ibadan",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "agritech"
   },
   {
     "Rank": "93",
@@ -6135,7 +6319,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "marketplace"
   },
   {
     "Rank": "94",
@@ -6201,7 +6387,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "energy-PAYG"
   },
   {
     "Rank": "95",
@@ -6267,7 +6455,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "agent-network; payments"
   },
   {
     "Rank": "96",
@@ -6333,7 +6523,9 @@
     "Operating_Cities_NG": "Abuja",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "agritech"
   },
   {
     "Rank": "97",
@@ -6399,7 +6591,9 @@
     "Operating_Cities_NG": "Kaduna",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "agritech"
   },
   {
     "Rank": "98",
@@ -6434,7 +6628,7 @@
     "Notable_Investors": "",
     "Valuation_USD": "Undisclosed",
     "Valuation_Status": "Undisclosed",
-    "Licence_Types_Held": "",
+    "Licence_Types_Held": "Payments / FX corridors; verify CBN PSSP and partner-bank path",
     "Licences_Regs_Needed": "PSSP/partners; NDPR; PCI.",
     "Key_Competitors": "",
     "Moat_Notes": "Gateway product buildable. Early public funding blurbs are small; verify before relying.",
@@ -6452,9 +6646,9 @@
     "JTBD": "Move, store, or lend money with less friction and more compliance confidence.",
     "ICP": "Consumers, SMEs, merchants, or developers needing payment/credit rails.",
     "Ticket_Size_Band": "Unknown",
-    "Licence_IDs_or_Categories": "",
+    "Licence_IDs_or_Categories": "Payments / FX corridors; verify CBN PSSP and partner-bank path",
     "Licence_Status": "Unknown",
-    "Register_Last_Checked": "",
+    "Register_Last_Checked": "2026-09-25",
     "Peers": "OPay; Flutterwave; Moove",
     "Last_Signal_Date": "",
     "Last_Signal_Type": "",
@@ -6465,7 +6659,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "payments; cross-border"
   },
   {
     "Rank": "99",
@@ -6531,7 +6727,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "credit-scoring"
   },
   {
     "Rank": "100",
@@ -6566,7 +6764,7 @@
     "Notable_Investors": "",
     "Valuation_USD": "Undisclosed",
     "Valuation_Status": "Undisclosed",
-    "Licence_Types_Held": "",
+    "Licence_Types_Held": "B2B FX; verify licences per corridor",
     "Licences_Regs_Needed": "FCA/EMI-style abroad; CBN FX; AML; NDPR.",
     "Key_Competitors": "",
     "Moat_Notes": "Row uses a 2024 grant figure as floor only; company has larger historical raises not fully captured in free snapshots. Treat funding cell as partial.",
@@ -6584,9 +6782,9 @@
     "JTBD": "Move, store, or lend money with less friction and more compliance confidence.",
     "ICP": "Consumers, SMEs, merchants, or developers needing payment/credit rails.",
     "Ticket_Size_Band": "Unknown",
-    "Licence_IDs_or_Categories": "",
+    "Licence_IDs_or_Categories": "B2B FX; verify licences per corridor",
     "Licence_Status": "Unknown",
-    "Register_Last_Checked": "",
+    "Register_Last_Checked": "2026-09-25",
     "Peers": "OPay; Flutterwave; Moove",
     "Last_Signal_Date": "",
     "Last_Signal_Type": "",
@@ -6597,7 +6795,9 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "FX; B2B-payments"
   },
   {
     "Rank": "101",
@@ -6663,6 +6863,8 @@
     "Operating_Cities_NG": "Lagos",
     "Careers_URL": "",
     "Hiring_Signal": "Unknown",
-    "Logo_URL": ""
+    "Logo_URL": "",
+    "Possibly_stale": "Unknown",
+    "Topics": "fintech"
   }
 ]
