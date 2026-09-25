@@ -33,6 +33,13 @@ Directory volume is driven by **CBN** payment-licence lists, **FCCPC** digital m
 | High data confidence | 22/102 (22%) |
 | Opportunity angle for builders | 102/102 (100%) |
 | Company status | 102/102 (100%) |
+| Exit_Type (incl. None) | 102/102 (100%) |
+| Omnific_Hand_Motion | 102/102 (100%) |
+| Omnific_Hand_Rationale | 102/102 (100%) |
+
+**Status / exit note:** Known public exits on the ranked sheet include Jumia (IPO 2019), Paystack to Stripe (2020), Brass to a Paystack-led consortium (2024), Mono to Flutterwave (2026), plus shutdowns for Okra (2025), 54gene (~2023), and Bundle Africa exchange (2023). Lemonade Finance is marked **Pivoted** (rebrand to LemFi; same entity as Rank 13). All other ranked rows are **Active** with `Exit_Type=None` unless a public exit source is found. Never invent exits.
+
+**Omnific Hand note:** `Omnific_Hand_Motion` is scored for a small London ML/automation/product-tooling consultancy (not a bank). Most large licensed payments, agent networks, and capital-heavy platforms are `Clone_avoid`; vendor/partner motions dominate the rest.
 
 Directory: regulator tagged for CBN (280), FCCPC (572), YC (31), Press (65). Category heuristics fill Ease / licences / builder angles (`Heuristic=Yes`).
 

@@ -21,7 +21,11 @@ Last verified: **2026-09-25**.
 | Operating_Countries | text | Semicolon-separated markets |
 | Legal_Entity_Name | text | Registered entity if publicly known |
 | Founded_Year | text/int | Founding year if known |
-| Company_Status | text | Active / Acquired / Shutdown / Unknown |
+| Company_Status | text | Active / Acquired / Merged / Shutdown / Pivoted / Unknown |
+| Exit_Type | text | None / Acquired / Merged / Shutdown / IPO / Unknown. Use None when still independent with no exit event. |
+| Acquirer | text | Acquiring company or consortium if Exit_Type is Acquired/Merged; else blank |
+| Exit_Year | text | YYYY of exit/IPO when known; blank if Exit_Type is None |
+| Exit_Source_URL | URL | Primary public source for the exit/IPO/shutdown claim; blank if none |
 | Business_Model | text | B2B / B2C / B2B2C / Marketplace / etc. |
 | Target_Customers | text | Who pays or uses |
 | Core_Products | text | Semicolon list of main products |
@@ -44,6 +48,8 @@ Last verified: **2026-09-25**.
 | Replication_Time_Estimate | text | Rough months/years; labelled estimate |
 | Risk_Flags | text | FX, fraud, regulation, unit economics, etc. |
 | Opportunity_Angle_for_Builder | text | Where a small automation/ML consultancy could sell |
+| Omnific_Hand_Motion | text | Sell_to / Partner / Adjacent_tooling / Clone_avoid (explicit motion for Omnific Hand) |
+| Omnific_Hand_Rationale | text | 1-2 sentences judging fit for a small London ML/automation/product-tooling consultancy |
 | Data_Confidence | text | High / Med / Low |
 | Source_URLs | text | Semicolon-separated sources |
 | Last_Verified_Date | date | ISO date of last human/script verification |

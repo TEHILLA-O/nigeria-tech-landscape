@@ -27,7 +27,13 @@
     "Risk_Flags": "Unit economics; FX; logistics cost inflation; public-market scrutiny",
     "Opportunity_Angle_for_Builder": "Sell catalog enrichment, fraud/returns ML, seller tooling, or last-mile ops automation to Jumia sellers and 3PLs rather than cloning the marketplace.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://en.wikipedia.org/wiki/Jumia; https://group.jumia.com; https://technext24.com/reviews/nigeria-tops-funded-african-startups/"
+    "Source_URLs": "https://en.wikipedia.org/wiki/Jumia; https://group.jumia.com; https://technext24.com/reviews/nigeria-tops-funded-african-startups/",
+    "Exit_Type": "IPO",
+    "Acquirer": "",
+    "Exit_Year": "2019",
+    "Exit_Source_URL": "https://en.wikipedia.org/wiki/Jumia",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Jumia unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "OPay": {
     "Website": "https://www.opayweb.com",
@@ -55,7 +61,13 @@
     "Risk_Flags": "Regulation; FX; agent fraud; float risk; competition",
     "Opportunity_Angle_for_Builder": "Offer agent network analytics, AML transaction monitoring, or merchant settlement automation as a vendor to OPay-scale operators or their ISVs.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://www.linkedin.com/company/opay; https://www.linkedin.com/in/olu-akanmu-88280a; https://ln247.news/top-10-most-funded-nigerian-startups-as-of-august-2023/; https://urbangeekz.com/2026/08/from-flutterwave-to-moove-meet-the-founders-behind-10-african-unicorns/"
+    "Source_URLs": "https://www.linkedin.com/company/opay; https://www.linkedin.com/in/olu-akanmu-88280a; https://ln247.news/top-10-most-funded-nigerian-startups-as-of-august-2023/; https://urbangeekz.com/2026/08/from-flutterwave-to-moove-meet-the-founders-behind-10-african-unicorns/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning OPay unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Flutterwave": {
     "Website": "https://flutterwave.com",
@@ -85,7 +97,13 @@
     "Risk_Flags": "Regulation; FX; compliance incidents; bank partnership concentration",
     "Opportunity_Angle_for_Builder": "Build reconciliation, dispute automation, or industry checkout plugins on Flutterwave APIs; sell ops/ML tooling to merchants already on Flutterwave rather than competing on acquiring.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://flutterwave.com; https://www.linkedin.com/in/gbagboola; https://www.cbinsights.com/company/flutterwave/financials; https://mono.co/blog/flutterwave-mono-acquisition"
+    "Source_URLs": "https://flutterwave.com; https://www.linkedin.com/in/gbagboola; https://www.cbinsights.com/company/flutterwave/financials; https://mono.co/blog/flutterwave-mono-acquisition",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Flutterwave unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Moove": {
     "Website": "https://www.moove.io",
@@ -110,7 +128,13 @@
     "Risk_Flags": "Credit risk; FX; vehicle residual value; partnership concentration; multi-market regs",
     "Opportunity_Angle_for_Builder": "Sell driver scoring, telematics analytics, or collections automation to mobility financiers; do not try to fund vehicles yourself.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://ln247.news/top-10-most-funded-nigerian-startups-as-of-august-2023/; https://nairametrics.com/2025/02/25/top-10-nigerian-startups-by-funds-raised-in-2024/; https://urbangeekz.com/2026/08/from-flutterwave-to-moove-meet-the-founders-behind-10-african-unicorns/"
+    "Source_URLs": "https://ln247.news/top-10-most-funded-nigerian-startups-as-of-august-2023/; https://nairametrics.com/2025/02/25/top-10-nigerian-startups-by-funds-raised-in-2024/; https://urbangeekz.com/2026/08/from-flutterwave-to-moove-meet-the-founders-behind-10-african-unicorns/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Moove unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Andela": {
     "Website": "https://andela.com",
@@ -134,7 +158,13 @@
     "Risk_Flags": "Talent supply competition; enterprise sales cycles; FX for payroll",
     "Opportunity_Angle_for_Builder": "Offer skills assessment ML, interview automation, or Nigeria-market recruiting ops tooling to talent platforms and their enterprise clients.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://andela.com; https://ln247.news/top-10-most-funded-nigerian-startups-as-of-august-2023/; https://urbangeekz.com/2026/08/from-flutterwave-to-moove-meet-the-founders-behind-10-african-unicorns/"
+    "Source_URLs": "https://andela.com; https://ln247.news/top-10-most-funded-nigerian-startups-as-of-august-2023/; https://urbangeekz.com/2026/08/from-flutterwave-to-moove-meet-the-founders-behind-10-african-unicorns/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Andela unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Moniepoint (TeamApt)": {
     "Website": "https://moniepoint.com",
@@ -163,7 +193,13 @@
     "Risk_Flags": "Regulation; FX; agent fraud; credit risk; concentration in Nigeria",
     "Opportunity_Angle_for_Builder": "Sell bookkeeping/tax automation, credit decisioning features, or agent performance analytics as ISV integrations around Moniepoint merchants; pitch ML dispute/fraud ops tooling to similar MFB/POS players.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://moniepoint.com; https://moniepoint.com/blog/moniepoint-announces-successful-completion-of-usdollar200-million-series-c-round-to-power-financial-inclusion; https://techcrunch.com/2024/10/29/google-dpi-backs-moniepoint-in-110m-round/; https://www.linkedin.com/company/moniepoint-inc"
+    "Source_URLs": "https://moniepoint.com; https://moniepoint.com/blog/moniepoint-announces-successful-completion-of-usdollar200-million-series-c-round-to-power-financial-inclusion; https://techcrunch.com/2024/10/29/google-dpi-backs-moniepoint-in-110m-round/; https://www.linkedin.com/company/moniepoint-inc",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Moniepoint (TeamApt) unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Interswitch": {
     "Website": "https://www.interswitchgroup.com",
@@ -187,7 +223,13 @@
     "Risk_Flags": "Regulation; bank partnership politics; tech modernization pressure",
     "Opportunity_Angle_for_Builder": "Build merchant analytics, bill-pay UX layers, or reconciliation bots on Quickteller/Interswitch merchant APIs rather than attempting a competing national switch.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://www.interswitchgroup.com; https://www.linkedin.com/in/mitchell-elegbe-502aba128; https://www.startuplist.africa/people/mitchell-elegbe; https://technext24.com/reviews/nigeria-tops-funded-african-startups/"
+    "Source_URLs": "https://www.interswitchgroup.com; https://www.linkedin.com/in/mitchell-elegbe-502aba128; https://www.startuplist.africa/people/mitchell-elegbe; https://technext24.com/reviews/nigeria-tops-funded-african-startups/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Interswitch unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "PalmPay": {
     "Website": "https://www.palmpay.com",
@@ -212,7 +254,13 @@
     "Risk_Flags": "Regulation; FX; competition; further raise uncertainty",
     "Opportunity_Angle_for_Builder": "Provide merchant loyalty, agent compliance training platforms, or settlement analytics to wallet operators and their large merchant cohorts.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://www.linkedin.com/company/palmpay; https://techcrunch.com/2025/06/05/profitable-african-fintech-palmpay-is-in-talks-to-raise-as-much-as-100m/"
+    "Source_URLs": "https://www.linkedin.com/company/palmpay; https://techcrunch.com/2025/06/05/profitable-african-fintech-palmpay-is-in-talks-to-raise-as-much-as-100m/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning PalmPay unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Lumos Global": {
     "Website": "https://www.lumos-global.com",
@@ -230,7 +278,13 @@
     "Risk_Flags": "Credit risk; hardware supply; FX; field ops",
     "Opportunity_Angle_for_Builder": "Sell PAYG scoring, remote monitoring dashboards, or collections workflows to solar distributors.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://ln247.news/top-10-most-funded-nigerian-startups-as-of-august-2023/"
+    "Source_URLs": "https://ln247.news/top-10-most-funded-nigerian-startups-as-of-august-2023/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Lumos Global unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "TradeDepot": {
     "Website": "https://tradedepot.co",
@@ -251,7 +305,13 @@
     "Risk_Flags": "Working capital; FX; credit losses; logistics",
     "Opportunity_Angle_for_Builder": "Offer demand forecasting, route optimization, or retailer KYC/credit models to B2B commerce players.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://ln247.news/top-10-most-funded-nigerian-startups-as-of-august-2023/; https://www.linkedin.com/company/tradedepot"
+    "Source_URLs": "https://ln247.news/top-10-most-funded-nigerian-startups-as-of-august-2023/; https://www.linkedin.com/company/tradedepot",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning TradeDepot unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Kuda": {
     "Website": "https://kuda.com",
@@ -279,7 +339,13 @@
     "Risk_Flags": "Regulation; funding cost; credit risk; FX",
     "Opportunity_Angle_for_Builder": "Sell personal finance insights, collections ML, or card dispute automation to digital banks and MFBs.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://kuda.com; https://www.linkedin.com/in/babsogundeyi; https://ln247.news/top-10-most-funded-nigerian-startups-as-of-august-2023/"
+    "Source_URLs": "https://kuda.com; https://www.linkedin.com/in/babsogundeyi; https://ln247.news/top-10-most-funded-nigerian-startups-as-of-august-2023/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Kuda unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Yellow Card": {
     "Website": "https://yellowcard.io",
@@ -305,7 +371,13 @@
     "Risk_Flags": "Crypto regulation; banking off-ramps; FX; compliance",
     "Opportunity_Angle_for_Builder": "Provide compliance monitoring, B2B treasury dashboards, or reconciliation for firms using stablecoin settlement into Nigeria.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://yellowcard.io/blog/yellow-card-closes-us-33m-series-c-funding-round-to-drive-global-expansion-and-strategic-initiatives; https://techcrunch.com/2024/10/16/african-crypto-startup-yellow-card-raises-33m-led-by-blockchain-capital-to-scale-its-b2b-pivot/"
+    "Source_URLs": "https://yellowcard.io/blog/yellow-card-closes-us-33m-series-c-funding-round-to-drive-global-expansion-and-strategic-initiatives; https://techcrunch.com/2024/10/16/african-crypto-startup-yellow-card-raises-33m-led-by-blockchain-capital-to-scale-its-b2b-pivot/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Yellow Card unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "LemFi": {
     "Website": "https://lemfi.com",
@@ -332,7 +404,13 @@
     "Risk_Flags": "AML; FX; licensing; corridor competition",
     "Opportunity_Angle_for_Builder": "Build payout partner orchestration, FX insight tooling, or compliance case management for remittance firms serving Nigeria corridors.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://techcrunch.com/2025/01/13/lemfi-moves-remittances-further-into-asia-and-europe-with-53m-in-new-funding/; https://www.highlandeurope.com/lemfi-has-secured-53m-in-series-b-funding-led-by-highland-europe/"
+    "Source_URLs": "https://techcrunch.com/2025/01/13/lemfi-moves-remittances-further-into-asia-and-europe-with-53m-in-new-funding/; https://www.highlandeurope.com/lemfi-has-secured-53m-in-series-b-funding-led-by-highland-europe/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning LemFi unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Helium Health": {
     "Website": "https://heliumhealth.com",
@@ -357,7 +435,13 @@
     "Risk_Flags": "Long sales cycles; health data regulation; collections",
     "Opportunity_Angle_for_Builder": "Sell clinical NLP (African accents), claims automation, or interoperability connectors to hospital groups already on Helium-class stacks.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://heliumhealth.com/about-us/; https://www.goke.fyi/; https://techcrunch.com/2023/06/05/helium-health-gets-30m-backed-by-axa-im-and-23andmes-anne-wojcicki/"
+    "Source_URLs": "https://heliumhealth.com/about-us/; https://www.goke.fyi/; https://techcrunch.com/2023/06/05/helium-health-gets-30m-backed-by-axa-im-and-23andmes-anne-wojcicki/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Helium Health unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Konga": {
     "Website": "https://www.konga.com",
@@ -377,7 +461,13 @@
     "Risk_Flags": "Logistics cost; unit economics; competition from social commerce",
     "Opportunity_Angle_for_Builder": "Provide seller tooling, returns fraud detection, or category pricing intelligence to Konga sellers and Nigerian marketplaces.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://en.wikipedia.org/wiki/Konga.com; https://en.wikipedia.org/wiki/Sim_Shagaya; https://ln247.news/top-10-most-funded-nigerian-startups-as-of-august-2023/"
+    "Source_URLs": "https://en.wikipedia.org/wiki/Konga.com; https://en.wikipedia.org/wiki/Sim_Shagaya; https://ln247.news/top-10-most-funded-nigerian-startups-as-of-august-2023/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Konga unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "ThriveAgric": {
     "Website": "https://thriveagric.com",
@@ -395,7 +485,13 @@
     "Risk_Flags": "Commodity price; credit; climate; FX",
     "Opportunity_Angle_for_Builder": "Sell satellite/field verification, credit scoring, or offtake matching tools to ag lenders.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://www.thriveagric.com/; https://ln247.news/top-10-most-funded-nigerian-startups-as-of-august-2023/"
+    "Source_URLs": "https://www.thriveagric.com/; https://ln247.news/top-10-most-funded-nigerian-startups-as-of-august-2023/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning ThriveAgric unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "FairMoney": {
     "Website": "https://fairmoney.io",
@@ -418,7 +514,13 @@
     "Risk_Flags": "Credit risk; regulation; collections conduct; FX funding",
     "Opportunity_Angle_for_Builder": "Offer underwriting feature stores, affordable collections SaaS, or model monitoring to digital lenders (see also BFREE-class buyers).",
     "Data_Confidence": "High",
-    "Source_URLs": "https://www.linkedin.com/in/laurin-nabuko-hainy-03a5b862; https://technext24.com/reviews/nigeria-tops-funded-african-startups/"
+    "Source_URLs": "https://www.linkedin.com/in/laurin-nabuko-hainy-03a5b862; https://technext24.com/reviews/nigeria-tops-funded-african-startups/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning FairMoney unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "iSON Xperiences": {
     "Website": "",
@@ -432,7 +534,13 @@
     "Risk_Flags": "Labour; client concentration",
     "Opportunity_Angle_for_Builder": "Sell QA automation, speech analytics, or workforce tooling into BPO operators.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://technext24.com/reviews/nigeria-tops-funded-african-startups/"
+    "Source_URLs": "https://technext24.com/reviews/nigeria-tops-funded-african-startups/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning iSON Xperiences unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Reliance Health": {
     "Website": "https://www.getreliancehealth.com",
@@ -458,7 +566,13 @@
     "Risk_Flags": "Medical loss ratio; regulation; provider fraud; FX",
     "Opportunity_Angle_for_Builder": "Build claims NLP, provider network analytics, or employer benefits portals for HMOs.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://www.getreliancehealth.com; https://www.businesswire.com/news/home/20220207005155/en/Reliance-Health-Raises-%2440M-in-Series-B-Led-by-General-Atlantic; https://www.linkedin.com/in/femikuti"
+    "Source_URLs": "https://www.getreliancehealth.com; https://www.businesswire.com/news/home/20220207005155/en/Reliance-Health-Raises-%2440M-in-Series-B-Led-by-General-Atlantic; https://www.linkedin.com/in/femikuti",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Reliance Health unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "54gene": {
     "Website": "",
@@ -475,7 +589,13 @@
     "Risk_Flags": "Capex; ethics; funding; historical wind-down",
     "Opportunity_Angle_for_Builder": "Limited; study as a cautionary regulated science case. Adjacent: bioinformatics tooling for remaining African genomics labs.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://technext24.com/reviews/nigeria-tops-funded-african-startups/"
+    "Source_URLs": "https://technext24.com/reviews/nigeria-tops-funded-african-startups/",
+    "Exit_Type": "Shutdown",
+    "Acquirer": "",
+    "Exit_Year": "2023",
+    "Exit_Source_URL": "https://en.wikipedia.org/wiki/Abasi_Ene-Obong",
+    "Omnific_Hand_Motion": "Adjacent_tooling",
+    "Omnific_Hand_Rationale": "54gene is shut down or wound down per public sources. Do not clone. Mine the category gap for adjacent tooling sold to remaining operators."
   },
   "Nomba": {
     "Website": "https://nomba.com",
@@ -501,7 +621,13 @@
     "Risk_Flags": "Competition; regulation; device float; FX",
     "Opportunity_Angle_for_Builder": "Sell inventory+payments bundles, POS telematics, or SME credit models to merchant acquirers.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://nomba.com; https://techcrunch.com/2023/05/02/african-payment-service-provider-nomba-raises-30m-backed-by-base10-partners-and-shopify/; https://www.linkedin.com/in/yinka-adewale-7b779448"
+    "Source_URLs": "https://nomba.com; https://techcrunch.com/2023/05/02/african-payment-service-provider-nomba-raises-30m-backed-by-base10-partners-and-shopify/; https://www.linkedin.com/in/yinka-adewale-7b779448",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Nomba unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Wakanow": {
     "Website": "https://www.wakanow.com",
@@ -516,7 +642,13 @@
     "Risk_Flags": "Supplier terms; FX; seasonality",
     "Opportunity_Angle_for_Builder": "Sell dynamic packaging, fraud detection, or corporate travel portals to African OTAs.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://technext24.com/reviews/nigeria-tops-funded-african-startups/"
+    "Source_URLs": "https://technext24.com/reviews/nigeria-tops-funded-african-startups/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Wakanow as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "MAX.ng": {
     "Website": "https://www.max.ng",
@@ -531,7 +663,13 @@
     "Risk_Flags": "City okada bans; insurance; safety",
     "Opportunity_Angle_for_Builder": "Provide route optimization, rider safety scoring, or dispatch ML to bike logistics firms.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://technext24.com/reviews/nigeria-tops-funded-african-startups/"
+    "Source_URLs": "https://technext24.com/reviews/nigeria-tops-funded-african-startups/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning MAX.ng unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Kobo360": {
     "Website": "https://www.kobo360.com",
@@ -548,7 +686,13 @@
     "Risk_Flags": "Working capital; cargo risk; fuel FX",
     "Opportunity_Angle_for_Builder": "Sell telematics analytics, invoice factoring ops tooling, or load-board integrations.",
     "Data_Confidence": "Med",
-    "Source_URLs": "http://www.kobo360.com; https://technext24.com/reviews/nigeria-tops-funded-african-startups/"
+    "Source_URLs": "http://www.kobo360.com; https://technext24.com/reviews/nigeria-tops-funded-african-startups/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Kobo360 unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Migo": {
     "Website": "https://www.migo.com",
@@ -563,7 +707,13 @@
     "Risk_Flags": "Credit; regulation; partner concentration",
     "Opportunity_Angle_for_Builder": "Build underwriting feature APIs or partner dashboards for embedded finance programs.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://technext24.com/reviews/nigeria-tops-funded-african-startups/"
+    "Source_URLs": "https://technext24.com/reviews/nigeria-tops-funded-african-startups/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Migo unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Paga": {
     "Website": "https://www.paga.com",
@@ -586,7 +736,13 @@
     "Risk_Flags": "Regulation; agent fraud; competition",
     "Opportunity_Angle_for_Builder": "Offer agent network tooling, merchant QR analytics, or reconciliation for MMO-class operators.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://www.paga.com; https://en.wikipedia.org/wiki/Tayo_Oviosu; https://mypaga.framer.website/leaders"
+    "Source_URLs": "https://www.paga.com; https://en.wikipedia.org/wiki/Tayo_Oviosu; https://mypaga.framer.website/leaders",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Paga unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Vendease": {
     "Website": "https://vendease.com",
@@ -605,11 +761,17 @@
     "Risk_Flags": "Working capital; spoilage; FX",
     "Opportunity_Angle_for_Builder": "Sell demand forecasting, supplier scoring, or kitchen inventory integrations to foodservice platforms.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://vendease.com/; https://techcabal.com/2022/09/26/vendease-raises-30-million-to-offer-procurement-services-across-africa/"
+    "Source_URLs": "https://vendease.com/; https://techcabal.com/2022/09/26/vendease-raises-30-million-to-offer-procurement-services-across-africa/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Vendease unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Lemonade Finance": {
     "Website": "",
-    "Company_Status": "Active",
+    "Company_Status": "Pivoted",
     "Business_Model": "B2B; B2C multi-currency",
     "Target_Customers": "African businesses and individuals",
     "Core_Products": "Multi-currency payments and accounts",
@@ -619,7 +781,13 @@
     "Risk_Flags": "FX; AML; licensing",
     "Opportunity_Angle_for_Builder": "Provide treasury dashboards or compliance case tools for multi-currency account providers.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "https://disruptafrica.com/2023/05/31/nigerias-lemonade-finance-rebrands-to-lemfi-as-it-expands-vision/",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Lemonade Finance rebranded to LemFi (same entity as Rank 13). Treat as duplicate identity; do not build a parallel remittance bank. Sell compliance or ops tooling to licensed IMTOs instead."
   },
   "iROKOtv": {
     "Website": "https://irokotv.com",
@@ -635,7 +803,13 @@
     "Risk_Flags": "Content costs; piracy; monetization",
     "Opportunity_Angle_for_Builder": "Sell recommendation ML, subtitle/localization pipelines, or anti-piracy tooling to African streamers.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://technext24.com/reviews/nigeria-tops-funded-african-startups/"
+    "Source_URLs": "https://technext24.com/reviews/nigeria-tops-funded-african-startups/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to iROKOtv as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Beacon Power Services": {
     "Website": "https://www.beaconpowerservices.com",
@@ -649,7 +823,13 @@
     "Risk_Flags": "Long sales; utility procurement politics",
     "Opportunity_Angle_for_Builder": "Offer IoT data pipelines, outage prediction, or billing analytics modules to African utilities and mini-grid operators.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Beacon Power Services as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Starsight Energy": {
     "Website": "https://www.starsightenergy.com",
@@ -663,7 +843,13 @@
     "Risk_Flags": "Capex; FX; offtaker credit",
     "Opportunity_Angle_for_Builder": "Sell remote monitoring, predictive maintenance, or contract-management SaaS to C&I solar operators.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://technext24.com/reviews/nigeria-tops-funded-african-startups/"
+    "Source_URLs": "https://technext24.com/reviews/nigeria-tops-funded-african-startups/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Starsight Energy unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "uLesson": {
     "Website": "https://ulesson.com",
@@ -682,7 +868,13 @@
     "Risk_Flags": "Content quality; CAC; education policy",
     "Opportunity_Angle_for_Builder": "Build assessment analytics, adaptive learning, or school LMS connectors for African edtech.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://en.wikipedia.org/wiki/Sim_Shagaya; https://technext24.com/reviews/nigeria-tops-funded-african-startups/"
+    "Source_URLs": "https://en.wikipedia.org/wiki/Sim_Shagaya; https://technext24.com/reviews/nigeria-tops-funded-african-startups/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Partner",
+    "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with uLesson on integrations, model ops, or vertical workflows without competing head-on."
   },
   "Rensource": {
     "Website": "https://www.rensource.energy",
@@ -696,7 +888,13 @@
     "Risk_Flags": "Capex; FX; offtaker risk",
     "Opportunity_Angle_for_Builder": "Provide asset monitoring and performance billing tools to distributed solar developers.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://technext24.com/reviews/nigeria-tops-funded-african-startups/"
+    "Source_URLs": "https://technext24.com/reviews/nigeria-tops-funded-african-startups/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Rensource unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "SeamlessHR": {
     "Website": "https://seamlesshr.com",
@@ -716,7 +914,13 @@
     "Risk_Flags": "Payroll compliance; enterprise sales",
     "Opportunity_Angle_for_Builder": "Natural buyer for automation/ML consultancies: custom HR workflows, attendance computer vision, or payroll anomaly detection on top of SeamlessHR-class stacks.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://seamlesshr.com; https://www.linkedin.com/company/seamlesshr-ltd"
+    "Source_URLs": "https://seamlesshr.com; https://www.linkedin.com/company/seamlesshr-ltd",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Partner",
+    "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with SeamlessHR on integrations, model ops, or vertical workflows without competing head-on."
   },
   "Jiji": {
     "Website": "https://jiji.ng",
@@ -732,7 +936,13 @@
     "Risk_Flags": "Fraud; moderation; competition from social",
     "Opportunity_Angle_for_Builder": "Sell listing quality ML, fraud detection, or category pricing tools to classifieds operators.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://jiji.ng; https://www.linkedin.com/company/jiji.ng"
+    "Source_URLs": "https://jiji.ng; https://www.linkedin.com/company/jiji.ng",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Jiji unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Husk Power Systems": {
     "Website": "https://www.huskpowersystems.com",
@@ -746,7 +956,13 @@
     "Risk_Flags": "Capex; FX; collection; regulation (NERC)",
     "Opportunity_Angle_for_Builder": "Build smart metering analytics, PAYG collections, or outage prediction for mini-grid operators.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Husk Power Systems unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Omnibiz": {
     "Website": "https://omnibiz.africa",
@@ -763,7 +979,13 @@
     "Risk_Flags": "Working capital; FX; credit",
     "Opportunity_Angle_for_Builder": "Offer retailer credit scoring, route optimization, or brand analytics to B2B commerce platforms.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://techcrunch.com/2022/08/19/nigerian-b2b-e-commerce-platform-omnibiz-raises-millions-to-gain-and-retain-retail-customers/"
+    "Source_URLs": "https://techcrunch.com/2022/08/19/nigerian-b2b-e-commerce-platform-omnibiz-raises-millions-to-gain-and-retain-retail-customers/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Omnibiz unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Konexa": {
     "Website": "https://www.konexa.io",
@@ -777,7 +999,13 @@
     "Risk_Flags": "Regulation; grid access; FX",
     "Opportunity_Angle_for_Builder": "Sell settlement/metering software or offtake analytics adjacent to licensed energy traders.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://nairametrics.com/2025/02/25/top-10-nigerian-startups-by-funds-raised-in-2024/"
+    "Source_URLs": "https://nairametrics.com/2025/02/25/top-10-nigerian-startups-by-funds-raised-in-2024/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Konexa unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Mono": {
     "Website": "https://mono.co",
@@ -796,7 +1024,13 @@
     "Risk_Flags": "Bank partnership; regulation; acquirer integration",
     "Opportunity_Angle_for_Builder": "Build vertical apps on open-banking data (lending decisioning, accounting sync) rather than competing on bank connectivity.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://mono.co/blog/flutterwave-mono-acquisition; https://nairametrics.com/2026/01/05/flutterwave-acquires-mono-in-deal-valued-at-up-to-40-million/; https://mono.co"
+    "Source_URLs": "https://mono.co/blog/flutterwave-mono-acquisition; https://nairametrics.com/2026/01/05/flutterwave-acquires-mono-in-deal-valued-at-up-to-40-million/; https://mono.co",
+    "Exit_Type": "Acquired",
+    "Acquirer": "Flutterwave",
+    "Exit_Year": "2026",
+    "Exit_Source_URL": "https://mono.co/blog/flutterwave-mono-acquisition",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Mono was acquired (Flutterwave). Prefer selling integration, migration, or ops automation into the combined stack rather than cloning the product."
   },
   "Okra": {
     "Website": "",
@@ -811,7 +1045,13 @@
     "Risk_Flags": "Shutdown; regulation",
     "Opportunity_Angle_for_Builder": "Lesson: open banking without durable bank partnerships is fragile. Build on surviving rails (e.g. Mono/Flutterwave).",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://www.linkedin.com/company/okrahq"
+    "Source_URLs": "https://www.linkedin.com/company/okrahq",
+    "Exit_Type": "Shutdown",
+    "Acquirer": "",
+    "Exit_Year": "2025",
+    "Exit_Source_URL": "https://techcabal.com/2025/07/03/techcabal-daily-okras-off-the-menu/",
+    "Omnific_Hand_Motion": "Adjacent_tooling",
+    "Omnific_Hand_Rationale": "Okra is shut down or wound down per public sources. Do not clone. Mine the category gap for adjacent tooling sold to remaining operators."
   },
   "Carbon": {
     "Website": "https://getcarbon.co",
@@ -832,7 +1072,13 @@
     "Risk_Flags": "Credit; regulation; collections conduct",
     "Opportunity_Angle_for_Builder": "Sell responsible collections SaaS, credit model monitoring, or BNPL merchant plugins.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://www.linkedin.com/in/chijiokedozie; https://www.linkedin.com/company/carbonup"
+    "Source_URLs": "https://www.linkedin.com/in/chijiokedozie; https://www.linkedin.com/company/carbonup",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Carbon unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "CredPal": {
     "Website": "https://credpal.com",
@@ -847,7 +1093,13 @@
     "Risk_Flags": "Credit; merchant default; regulation",
     "Opportunity_Angle_for_Builder": "Provide merchant risk scoring or checkout BNPL widgets as white-label for retailers.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://credpal.com; https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2022"
+    "Source_URLs": "https://credpal.com; https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2022",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning CredPal unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Umba": {
     "Website": "https://umba.com",
@@ -861,7 +1113,13 @@
     "Risk_Flags": "Multi-market regs; credit; FX",
     "Opportunity_Angle_for_Builder": "Offer shared services (KYC, collections) to multi-market digital lenders.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2022"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2022",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Umba unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Raenest": {
     "Website": "https://www.raenest.com",
@@ -880,7 +1138,13 @@
     "Risk_Flags": "FX; AML; banking partners",
     "Opportunity_Angle_for_Builder": "Build employer payroll connectors or tax tooling for African remote-work platforms.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://nairametrics.com/2025/05/31/nigerias-startups-raised-over-100-million-in-q1-2025-here-are-the-top-10-deals/"
+    "Source_URLs": "https://nairametrics.com/2025/05/31/nigerias-startups-raised-over-100-million-in-q1-2025-here-are-the-top-10-deals/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Raenest unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "NowNow": {
     "Website": "",
@@ -898,7 +1162,13 @@
     "Risk_Flags": "Competition; regulation",
     "Opportunity_Angle_for_Builder": "Same as other POS players: analytics and SME tooling as ISV.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://techcabal.com/2022/09/07/nownow-raises-13-million-in-seed-funding-to-expand-services-across-africa/"
+    "Source_URLs": "https://techcabal.com/2022/09/07/nownow-raises-13-million-in-seed-funding-to-expand-services-across-africa/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning NowNow unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Tomato Jos": {
     "Website": "https://www.tomatojos.net",
@@ -912,7 +1182,13 @@
     "Risk_Flags": "Agronomic; FX; plant capex",
     "Opportunity_Angle_for_Builder": "Sell yield forecasting, farmer payment rails, or quality inspection ML to processors.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://nairametrics.com/2025/02/25/top-10-nigerian-startups-by-funds-raised-in-2024/"
+    "Source_URLs": "https://nairametrics.com/2025/02/25/top-10-nigerian-startups-by-funds-raised-in-2024/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Tomato Jos unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Paystack": {
     "Website": "https://paystack.com",
@@ -938,7 +1214,13 @@
     "Risk_Flags": "Bank rails; regulation; parent strategy",
     "Opportunity_Angle_for_Builder": "Build industry plugins, reconciliation, and SaaS checkout experiences on Paystack; high-fit consultancy buyer.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://paystack.com; https://www.linkedin.com/in/shollsman; https://fintechnews.africa/41180/fintech-nigeria/here-are-the-top-5-fintech-startup-funding-rounds-in-nigeria/"
+    "Source_URLs": "https://paystack.com; https://www.linkedin.com/in/shollsman; https://fintechnews.africa/41180/fintech-nigeria/here-are-the-top-5-fintech-startup-funding-rounds-in-nigeria/",
+    "Exit_Type": "Acquired",
+    "Acquirer": "Stripe",
+    "Exit_Year": "2020",
+    "Exit_Source_URL": "https://paystack.com",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Paystack was acquired (Stripe). Prefer selling integration, migration, or ops automation into the combined stack rather than cloning the product."
   },
   "Odyssey Energy Solutions": {
     "Website": "",
@@ -952,7 +1234,13 @@
     "Risk_Flags": "Capital markets; energy regs",
     "Opportunity_Angle_for_Builder": "Build credit assessment or project pipeline tools for climate finance platforms.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Odyssey Energy Solutions unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Field": {
     "Website": "",
@@ -968,7 +1256,13 @@
     "Risk_Flags": "NAFDAC; cold chain; working capital",
     "Opportunity_Angle_for_Builder": "Sell cold-chain monitoring, demand sensing, or pharmacy inventory tools.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://nairametrics.com/2025/02/25/top-10-nigerian-startups-by-funds-raised-in-2024/"
+    "Source_URLs": "https://nairametrics.com/2025/02/25/top-10-nigerian-startups-by-funds-raised-in-2024/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Field unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Afriex": {
     "Website": "https://afriex.com",
@@ -982,7 +1276,13 @@
     "Risk_Flags": "AML; FX; licensing",
     "Opportunity_Angle_for_Builder": "Same remittance ISV opportunities as LemFi/Grey class.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://afriex.com; https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2022"
+    "Source_URLs": "https://afriex.com; https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2022",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Afriex unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Mansa": {
     "Website": "",
@@ -1000,7 +1300,13 @@
     "Risk_Flags": "Credit; FX; stablecoin policy",
     "Opportunity_Angle_for_Builder": "Offer credit decisioning or treasury automation to liquidity fintechs.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://nairametrics.com/2025/05/31/nigerias-startups-raised-over-100-million-in-q1-2025-here-are-the-top-10-deals/"
+    "Source_URLs": "https://nairametrics.com/2025/05/31/nigerias-startups-raised-over-100-million-in-q1-2025-here-are-the-top-10-deals/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Mansa unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Nithio": {
     "Website": "https://nithio.com",
@@ -1014,7 +1320,13 @@
     "Risk_Flags": "Credit; FX; energy regs",
     "Opportunity_Angle_for_Builder": "Sell portfolio risk models or remote asset verification to energy financiers.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://nithio.com; https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024"
+    "Source_URLs": "https://nithio.com; https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Nithio unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Zone": {
     "Website": "https://zone.ng",
@@ -1028,7 +1340,13 @@
     "Risk_Flags": "Regulation; bank politics",
     "Opportunity_Angle_for_Builder": "Build bank-facing dashboards or settlement analytics atop regulated networks.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://zone.ng; https://nairametrics.com/2025/02/25/top-10-nigerian-startups-by-funds-raised-in-2024/"
+    "Source_URLs": "https://zone.ng; https://nairametrics.com/2025/02/25/top-10-nigerian-startups-by-funds-raised-in-2024/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Zone unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Waza": {
     "Website": "https://waza.co",
@@ -1045,7 +1363,13 @@
     "Risk_Flags": "FX; AML; trade credit",
     "Opportunity_Angle_for_Builder": "Provide document AI for trade finance or FX ops automation to B2B payment firms.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://waza.co/; https://nairametrics.com/2025/02/25/top-10-nigerian-startups-by-funds-raised-in-2024/"
+    "Source_URLs": "https://waza.co/; https://nairametrics.com/2025/02/25/top-10-nigerian-startups-by-funds-raised-in-2024/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Waza unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Klasha": {
     "Website": "https://klasha.com",
@@ -1059,7 +1383,13 @@
     "Risk_Flags": "Licensing; FX",
     "Opportunity_Angle_for_Builder": "Build checkout plugins and reconciliation for merchants using Klasha-class rails.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://klasha.com; https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024"
+    "Source_URLs": "https://klasha.com; https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Klasha as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Cowrywise": {
     "Website": "https://cowrywise.com",
@@ -1074,7 +1404,13 @@
     "Risk_Flags": "SEC regs; yield partners",
     "Opportunity_Angle_for_Builder": "Sell goal-based advice ML or employer benefits integrations to wealth apps.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://cowrywise.com; https://www.ycombinator.com/companies"
+    "Source_URLs": "https://cowrywise.com; https://www.ycombinator.com/companies",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Cowrywise as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Gokada": {
     "Website": "https://gokada.ng",
@@ -1091,7 +1427,13 @@
     "Risk_Flags": "City regulation; safety; unit economics",
     "Opportunity_Angle_for_Builder": "Focus on delivery logistics tooling rather than passenger okada clones.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://techcrunch.com/2019/05/24/nigerias-gokada-raises-5-3m-round-for-its-motorcycle-ride-hail-biz/"
+    "Source_URLs": "https://techcrunch.com/2019/05/24/nigerias-gokada-raises-5-3m-round-for-its-motorcycle-ride-hail-biz/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Gokada unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Seamfix": {
     "Website": "",
@@ -1105,7 +1447,13 @@
     "Risk_Flags": "Data access; NDPR",
     "Opportunity_Angle_for_Builder": "Natural product for KYC consultancies; sell orchestration layers over NIMC/partner sources.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Partner",
+    "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with Seamfix on integrations, model ops, or vertical workflows without competing head-on."
   },
   "Eden Life": {
     "Website": "https://www.edenlife.ng",
@@ -1119,7 +1467,13 @@
     "Risk_Flags": "Labour ops; quality control",
     "Opportunity_Angle_for_Builder": "Sell scheduling, quality QA, or workforce apps to home-services platforms.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://allbusiness.africa/business/eden-life"
+    "Source_URLs": "https://allbusiness.africa/business/eden-life",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Eden Life as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Duplo": {
     "Website": "https://www.tryduplo.com",
@@ -1134,7 +1488,13 @@
     "Risk_Flags": "Bank partners; FX",
     "Opportunity_Angle_for_Builder": "High fit: expense automation, invoice OCR, and accounting sync for SME banking apps.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://www.tryduplo.com/; https://www.ycombinator.com/companies"
+    "Source_URLs": "https://www.tryduplo.com/; https://www.ycombinator.com/companies",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Duplo unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Risevest": {
     "Website": "https://risevest.com",
@@ -1148,7 +1508,13 @@
     "Risk_Flags": "SEC; FX; foreign brokers",
     "Opportunity_Angle_for_Builder": "Build portfolio analytics or employer wealth benefits on wealthtech APIs.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://risevest.com; https://allbusiness.africa/business/risevest"
+    "Source_URLs": "https://risevest.com; https://allbusiness.africa/business/risevest",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Risevest as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "PiggyVest": {
     "Website": "https://www.piggyvest.com",
@@ -1167,7 +1533,13 @@
     "Risk_Flags": "Yield partners; regulation; trust events",
     "Opportunity_Angle_for_Builder": "Sell behavioural savings nudges, employer S&I benefits, or analytics to consumer finance brands.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://nigeria.endeavor.org/piggyvest-founders-selected-to-join-endeavors-global-network-of-high-impact-entrepreneurs/; https://techcabal.com/2024/02/13/flutterwave-invests-in-piggyvest/"
+    "Source_URLs": "https://nigeria.endeavor.org/piggyvest-founders-selected-to-join-endeavors-global-network-of-high-impact-entrepreneurs/; https://techcabal.com/2024/02/13/flutterwave-invests-in-piggyvest/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to PiggyVest as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Aladdin Digital Bank": {
     "Website": "",
@@ -1181,7 +1553,13 @@
     "Risk_Flags": "Regulation; capital",
     "Opportunity_Angle_for_Builder": "Sell compliance and onboarding automation to aspiring digital banks.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2022"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2022",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Aladdin Digital Bank unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Rivy": {
     "Website": "https://payhippo.africa",
@@ -1196,7 +1574,13 @@
     "Risk_Flags": "Credit; asset verification; energy regs",
     "Opportunity_Angle_for_Builder": "Provide asset verification computer vision or credit models for energy lenders.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://payhippo.africa/; https://nairametrics.com/2025/05/31/nigerias-startups-raised-over-100-million-in-q1-2025-here-are-the-top-10-deals/"
+    "Source_URLs": "https://payhippo.africa/; https://nairametrics.com/2025/05/31/nigerias-startups-raised-over-100-million-in-q1-2025-here-are-the-top-10-deals/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Rivy unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Stears": {
     "Website": "https://www.stears.co",
@@ -1213,7 +1597,13 @@
     "Risk_Flags": "Data acquisition cost; competition",
     "Opportunity_Angle_for_Builder": "Excellent adjacent buyer for scrapers, NLP, and custom research automation; or compete in niche vertical data.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://www.stears.co; https://toptechtrends.co/nigerian-data-and-intelligence-company-stears-raises-3-3m-backed-by-mac-vc-and-serena-ventures/"
+    "Source_URLs": "https://www.stears.co; https://toptechtrends.co/nigerian-data-and-intelligence-company-stears-raises-3-3m-backed-by-mac-vc-and-serena-ventures/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Adjacent_tooling",
+    "Omnific_Hand_Rationale": "Category is software-native. Prefer an adjacent wedge (analytics, integrations, niche vertical) over a full clone of Stears."
   },
   "Winich Farms": {
     "Website": "",
@@ -1227,7 +1617,13 @@
     "Risk_Flags": "Logistics; spoilage; trust",
     "Opportunity_Angle_for_Builder": "Sell logistics matching or quality grading ML to ag marketplaces.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Winich Farms as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Juicyway": {
     "Website": "",
@@ -1241,7 +1637,13 @@
     "Risk_Flags": "AML; FX; competition",
     "Opportunity_Angle_for_Builder": "Provide compliance automation or merchant plugins.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Juicyway as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Arnergy": {
     "Website": "https://www.arnergy.com",
@@ -1255,7 +1657,13 @@
     "Risk_Flags": "Capex; FX; offtaker credit",
     "Opportunity_Angle_for_Builder": "Sell IoT analytics and predictive maintenance to solar utilities.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://www.arnergy.com; https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024"
+    "Source_URLs": "https://www.arnergy.com; https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Arnergy unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "BFREE": {
     "Website": "",
@@ -1269,7 +1677,13 @@
     "Risk_Flags": "Consumer protection; reputation",
     "Opportunity_Angle_for_Builder": "Direct product fit for Omnific-style builders: ethical collections workflows, speech analytics, agent assist.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Adjacent_tooling",
+    "Omnific_Hand_Rationale": "Build complementary ML or automation (fraud, recon, NLP, underwriting features) that plugs into BFREE rather than replacing their core."
   },
   "MDaaS Global": {
     "Website": "",
@@ -1283,7 +1697,13 @@
     "Risk_Flags": "Capex; health licences",
     "Opportunity_Angle_for_Builder": "Sell lab LIS, imaging AI, or patient flow tools to diagnostic networks.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning MDaaS Global unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Chowdeck": {
     "Website": "https://chowdeck.com",
@@ -1298,7 +1718,13 @@
     "Risk_Flags": "Unit economics; rider ops",
     "Opportunity_Angle_for_Builder": "Offer restaurant demand forecasting or rider routing to delivery platforms.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://chowdeck.com; https://www.ycombinator.com/companies"
+    "Source_URLs": "https://chowdeck.com; https://www.ycombinator.com/companies",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Chowdeck as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Youverify": {
     "Website": "https://youverify.co",
@@ -1312,7 +1738,13 @@
     "Risk_Flags": "NDPR; data access",
     "Opportunity_Angle_for_Builder": "Strong adjacent: custom verification workflows and fraud rules engines for KYC buyers.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://youverify.co; https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024"
+    "Source_URLs": "https://youverify.co; https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Partner",
+    "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with Youverify on integrations, model ops, or vertical workflows without competing head-on."
   },
   "Mecho Autotech": {
     "Website": "https://mechoautotech.com",
@@ -1329,7 +1761,13 @@
     "Risk_Flags": "Ops quality; trust",
     "Opportunity_Angle_for_Builder": "Sell workshop CRM, parts inventory, or diagnostics assist tools.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://mechoautotech.com/; https://techcabal.com/2023/09/14/nigerian-startup-mecho-autotech-raises-2-4-million-in-pre-series-a-round/"
+    "Source_URLs": "https://mechoautotech.com/; https://techcabal.com/2023/09/14/nigerian-startup-mecho-autotech-raises-2-4-million-in-pre-series-a-round/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Mecho Autotech as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Kredete": {
     "Website": "",
@@ -1343,7 +1781,13 @@
     "Risk_Flags": "US consumer finance; MSB; AML",
     "Opportunity_Angle_for_Builder": "Build credit-file education tools or remittance UX for diaspora fintechs.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Kredete as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "AMAKA Studio": {
     "Website": "",
@@ -1357,7 +1801,13 @@
     "Risk_Flags": "Distribution; monetization",
     "Opportunity_Angle_for_Builder": "Direct build opportunity or sell creator monetization/payments plugins.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "For Omnific Hand, the realistic motion is selling tooling into AMAKA Studio's workflow or their customers, not recreating the funded core."
   },
   "Axmed": {
     "Website": "",
@@ -1371,7 +1821,13 @@
     "Risk_Flags": "NAFDAC; supply chain",
     "Opportunity_Angle_for_Builder": "Sell procurement analytics or authenticity verification to medicine platforms.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Axmed unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Cleva": {
     "Website": "",
@@ -1385,7 +1841,13 @@
     "Risk_Flags": "FX; CBN rules; partner banks",
     "Opportunity_Angle_for_Builder": "Build budgeting/FX insight layers for USD account apps.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Cleva unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Farmcrowdy": {
     "Website": "https://www.farmcrowdy.com",
@@ -1399,7 +1861,13 @@
     "Risk_Flags": "Possible SEC; farm ops risk",
     "Opportunity_Angle_for_Builder": "Provide farm monitoring and investor reporting tools.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://tracxn.com/d/companies/farmcrowdy/"
+    "Source_URLs": "https://tracxn.com/d/companies/farmcrowdy/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Farmcrowdy as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Vesti": {
     "Website": "",
@@ -1413,7 +1881,13 @@
     "Risk_Flags": "IMTO/payments partners; compliance",
     "Opportunity_Angle_for_Builder": "Sell document automation or immigration checklist products adjacent to immigrant fintech.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/"
+    "Source_URLs": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Vesti unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Renda": {
     "Website": "",
@@ -1427,7 +1901,13 @@
     "Risk_Flags": "Capex; ops; FX",
     "Opportunity_Angle_for_Builder": "Sell WMS, routing, or returns automation to fulfilment firms.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Renda unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Brass": {
     "Website": "",
@@ -1442,7 +1922,13 @@
     "Risk_Flags": "Acquisition integration",
     "Opportunity_Angle_for_Builder": "Build SME accounting and expense tools that integrate with Paystack MFB / successor rails.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://www.linkedin.com/company/joinbrass; https://europeantech.news/paystack-led-investment-group-acquires-nigerian-fintech-brass/"
+    "Source_URLs": "https://www.linkedin.com/company/joinbrass; https://europeantech.news/paystack-led-investment-group-acquires-nigerian-fintech-brass/",
+    "Exit_Type": "Acquired",
+    "Acquirer": "Paystack-led consortium (Piggytech; Ventures Platform; P1 Ventures)",
+    "Exit_Year": "2024",
+    "Exit_Source_URL": "https://techcabal.com/2024/05/28/paystack-leads-investors-in-brass-acquistion/",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Brass was acquired (Paystack-led consortium (Piggytech; Ventures Platform; P1 Ventures)). Prefer selling integration, migration, or ops automation into the combined stack rather than cloning the product."
   },
   "Billboxx": {
     "Website": "",
@@ -1456,7 +1942,13 @@
     "Risk_Flags": "Crowded SaaS; distribution",
     "Opportunity_Angle_for_Builder": "Direct build or white-label opportunity for Omnific; or sell integrations into Billboxx-class tools.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Adjacent_tooling",
+    "Omnific_Hand_Rationale": "Category is software-native. Prefer an adjacent wedge (analytics, integrations, niche vertical) over a full clone of Billboxx."
   },
   "Intron Health": {
     "Website": "https://www.intron.health",
@@ -1470,7 +1962,13 @@
     "Risk_Flags": "Clinical sales; data privacy",
     "Opportunity_Angle_for_Builder": "High Omnific fit: accent ASR, clinical NLP, EHR voice plugins.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Partner",
+    "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with Intron Health on integrations, model ops, or vertical workflows without competing head-on."
   },
   "Accrue": {
     "Website": "",
@@ -1484,7 +1982,13 @@
     "Risk_Flags": "SEC digital assets; CBN crypto circulars",
     "Opportunity_Angle_for_Builder": "Sell compliance monitoring for crypto payment firms.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://nairametrics.com/2025/05/31/nigerias-startups-raised-over-100-million-in-q1-2025-here-are-the-top-10-deals/"
+    "Source_URLs": "https://nairametrics.com/2025/05/31/nigerias-startups-raised-over-100-million-in-q1-2025-here-are-the-top-10-deals/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Accrue as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Vendy": {
     "Website": "https://myvendy.com",
@@ -1499,7 +2003,13 @@
     "Risk_Flags": "Platform dependency (WhatsApp); payments partners",
     "Opportunity_Angle_for_Builder": "Direct build category for small teams; or sell catalog AI and inventory sync to social commerce apps.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://myvendy.com; https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/"
+    "Source_URLs": "https://myvendy.com; https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Vendy as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Startbutton Africa": {
     "Website": "",
@@ -1513,7 +2023,13 @@
     "Risk_Flags": "Partner PSP dependency",
     "Opportunity_Angle_for_Builder": "Sell compliance checklists automation or PSP orchestration.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Startbutton Africa as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "SunFi": {
     "Website": "https://www.sunfi.co",
@@ -1527,7 +2043,13 @@
     "Risk_Flags": "Credit; FX; installer quality",
     "Opportunity_Angle_for_Builder": "Provide installer QA and repayment prediction models.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://nairametrics.com/2025/05/31/nigerias-startups-raised-over-100-million-in-q1-2025-here-are-the-top-10-deals/"
+    "Source_URLs": "https://nairametrics.com/2025/05/31/nigerias-startups-raised-over-100-million-in-q1-2025-here-are-the-top-10-deals/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning SunFi unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Payday": {
     "Website": "",
@@ -1541,7 +2063,13 @@
     "Risk_Flags": "AML; partner EMI",
     "Opportunity_Angle_for_Builder": "Same remote-work fintech ISV opportunities.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.tekedia.com/mono-raises-15m-in-series-a-as-payday-secures-1m-seed-fund/"
+    "Source_URLs": "https://www.tekedia.com/mono-raises-15m-in-series-a-as-payday-secures-1m-seed-fund/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Payday as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Talstack": {
     "Website": "",
@@ -1555,7 +2083,13 @@
     "Risk_Flags": "Enterprise sales; content",
     "Opportunity_Angle_for_Builder": "Direct build fit; or sell content generation / skills-gap analytics.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/"
+    "Source_URLs": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Partner",
+    "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with Talstack on integrations, model ops, or vertical workflows without competing head-on."
   },
   "Agriarche": {
     "Website": "",
@@ -1569,7 +2103,13 @@
     "Risk_Flags": "Debt; ops; commodity",
     "Opportunity_Angle_for_Builder": "Sell warehouse IoT and inventory finance tooling.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://nairametrics.com/2025/05/31/nigerias-startups-raised-over-100-million-in-q1-2025-here-are-the-top-10-deals/"
+    "Source_URLs": "https://nairametrics.com/2025/05/31/nigerias-startups-raised-over-100-million-in-q1-2025-here-are-the-top-10-deals/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Agriarche as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Grey": {
     "Website": "https://grey.co",
@@ -1584,7 +2124,13 @@
     "Risk_Flags": "AML; FX; partner banks",
     "Opportunity_Angle_for_Builder": "Build freelancer invoicing, tax, and FX tools around Grey-class accounts.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://grey.co; https://techcrunch.com/2022/02/08/nigerian-fintech-grey-finance-gets-backing-from-y-combinator/"
+    "Source_URLs": "https://grey.co; https://techcrunch.com/2022/02/08/nigerian-fintech-grey-finance-gets-backing-from-y-combinator/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Grey as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Bundle Africa": {
     "Website": "",
@@ -1599,7 +2145,13 @@
     "Risk_Flags": "Shutdown; crypto regs",
     "Opportunity_Angle_for_Builder": "Study as failure mode; prefer compliant stablecoin B2B rails.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://www.linkedin.com/company/bundle-africa"
+    "Source_URLs": "https://www.linkedin.com/company/bundle-africa",
+    "Exit_Type": "Shutdown",
+    "Acquirer": "",
+    "Exit_Year": "2023",
+    "Exit_Source_URL": "https://techcabal.com/2023/07/22/bundle-africa-shuts-down-its-exchange-platform/",
+    "Omnific_Hand_Motion": "Adjacent_tooling",
+    "Omnific_Hand_Rationale": "Bundle Africa is shut down or wound down per public sources. Do not clone. Mine the category gap for adjacent tooling sold to remaining operators."
   },
   "Crop2Cash": {
     "Website": "",
@@ -1615,7 +2167,13 @@
     "Risk_Flags": "Credit; field ops",
     "Opportunity_Angle_for_Builder": "Sell farmer KYC and satellite verification to agri-lenders.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Crop2Cash as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Carbin Africa": {
     "Website": "",
@@ -1631,7 +2189,13 @@
     "Risk_Flags": "Trust; fraud; liquidity",
     "Opportunity_Angle_for_Builder": "Direct build niche; or sell VIN/fraud checks and dealer CRM.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/"
+    "Source_URLs": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Carbin Africa as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Earthbond": {
     "Website": "",
@@ -1645,7 +2209,13 @@
     "Risk_Flags": "Guarantee risk; carbon market integrity",
     "Opportunity_Angle_for_Builder": "Build MRV (measurement/reporting/verification) tooling for climate finance.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Earthbond as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Zebra CropBank": {
     "Website": "",
@@ -1661,7 +2231,13 @@
     "Risk_Flags": "Commodity; warehouse regs",
     "Opportunity_Angle_for_Builder": "Sell warehouse inventory systems and receipt digitization.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Zebra CropBank as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Mira": {
     "Website": "",
@@ -1675,7 +2251,13 @@
     "Risk_Flags": "PSP dependency; merchant acquisition",
     "Opportunity_Angle_for_Builder": "Direct build niche for hospitality POS; or sell menu/order ML add-ons.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/"
+    "Source_URLs": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Mira as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Pullus Africa": {
     "Website": "",
@@ -1691,7 +2273,13 @@
     "Risk_Flags": "Credit; livestock disease; logistics",
     "Opportunity_Angle_for_Builder": "Sell flock health monitoring or input credit models to poultry platforms.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/"
+    "Source_URLs": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Pullus Africa as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Fincra": {
     "Website": "https://fincra.com",
@@ -1707,7 +2295,13 @@
     "Risk_Flags": "Bank partners; incomplete funding disclosure",
     "Opportunity_Angle_for_Builder": "Build payout automation and reconciliation on Fincra APIs.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://fincra.com"
+    "Source_URLs": "https://fincra.com",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Fincra as a vendor (recon, KYC, collections, logistics, support), not a clone."
   },
   "Trade Lenda": {
     "Website": "",
@@ -1721,7 +2315,13 @@
     "Risk_Flags": "Regulation; capital",
     "Opportunity_Angle_for_Builder": "Sell MSME underwriting and compliance tooling.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Trade Lenda unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "VertoFX": {
     "Website": "https://vertofx.com",
@@ -1737,7 +2337,13 @@
     "Risk_Flags": "FX; AML; incomplete public funding totals",
     "Opportunity_Angle_for_Builder": "Sell treasury policy engines and FX exposure dashboards to B2B FX firms.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://vertofx.com; https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024"
+    "Source_URLs": "https://vertofx.com; https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning VertoFX unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   },
   "Regxta": {
     "Website": "",
@@ -1751,6 +2357,12 @@
     "Risk_Flags": "Regulation; early stage",
     "Opportunity_Angle_for_Builder": "Limited until licence clarity; watch as early signal only.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024"
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Regxta unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
   }
 }

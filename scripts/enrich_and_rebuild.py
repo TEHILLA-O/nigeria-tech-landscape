@@ -22,18 +22,18 @@ TODAY = "2026-09-25"
 RANKED_NEW_COLS = [
     "Website", "LinkedIn_URL", "Twitter_X_URL", "Founders", "CEO_or_Lead",
     "HQ_City", "HQ_Country", "Operating_Countries", "Legal_Entity_Name",
-    "Company_Status", "Business_Model", "Target_Customers", "Core_Products",
+    "Company_Status", "Exit_Type", "Acquirer", "Exit_Year", "Exit_Source_URL", "Business_Model", "Target_Customers", "Core_Products",
     "Tech_Stack_Hints", "Employee_Range", "Latest_Round_Type",
     "Latest_Round_Amount_USD", "Latest_Round_Date", "Notable_Investors",
     "Licence_Types_Held", "Key_Competitors", "Moat_Notes",
     "Replication_Capital_Intensity", "Replication_Time_Estimate", "Risk_Flags",
-    "Opportunity_Angle_for_Builder", "Data_Confidence",
+    "Opportunity_Angle_for_Builder", "Omnific_Hand_Motion", "Omnific_Hand_Rationale", "Data_Confidence",
 ]
 
 DIR_NEW_COLS = [
     "Website", "Regulator_Source", "Licence_or_Category", "Licence_Status",
     "HQ_City", "HQ_Country", "Business_Model", "Heuristic",
-    "Opportunity_Angle_for_Builder", "Data_Confidence",
+    "Opportunity_Angle_for_Builder", "Omnific_Hand_Motion", "Omnific_Hand_Rationale", "Data_Confidence",
 ]
 
 # Category heuristics for directory Ease / licences / opportunity
@@ -178,13 +178,13 @@ def enrich_ranked() -> tuple[list[dict], list[str]]:
     for c in [
         "Rank", "Company", "Sector", "Product_Summary", "Website", "LinkedIn_URL", "Twitter_X_URL",
         "Founders", "CEO_or_Lead", "HQ_or_Primary_Market", "HQ_City", "HQ_Country", "Operating_Countries",
-        "Legal_Entity_Name", "Founded_Year", "Company_Status", "Business_Model", "Target_Customers",
+        "Legal_Entity_Name", "Founded_Year", "Company_Status", "Exit_Type", "Acquirer", "Exit_Year", "Exit_Source_URL", "Business_Model", "Target_Customers",
         "Core_Products", "Tech_Stack_Hints", "Employee_Range",
         "Total_Disclosed_Funding_USD", "Latest_Round_Type", "Latest_Round_Amount_USD", "Latest_Round_Date",
         "Notable_Investors", "Valuation_USD", "Valuation_Status",
         "Licence_Types_Held", "Licences_Regs_Needed", "Key_Competitors", "Moat_Notes",
         "Ease_to_Replicate", "Replicate_Notes", "Replication_Capital_Intensity", "Replication_Time_Estimate",
-        "Risk_Flags", "Opportunity_Angle_for_Builder", "Data_Confidence", "Source_URLs", "Last_Verified_Date",
+        "Risk_Flags", "Opportunity_Angle_for_Builder", "Omnific_Hand_Motion", "Omnific_Hand_Rationale", "Data_Confidence", "Source_URLs", "Last_Verified_Date",
     ]:
         if c not in cols:
             cols.append(c)
@@ -375,7 +375,7 @@ def enrich_directory(ranked_names: set[str]) -> tuple[list[dict], list[str]]:
         "Licence_Status", "HQ_or_Primary_Market", "HQ_City", "HQ_Country", "Founded_Year",
         "Business_Model", "Total_Disclosed_Funding_USD", "Valuation_USD", "Valuation_Status",
         "Ease_to_Replicate", "Replicate_Notes", "Licences_Regs_Needed", "Heuristic",
-        "Opportunity_Angle_for_Builder", "Data_Confidence", "Source_URLs", "Notes", "Last_Verified_Date",
+        "Opportunity_Angle_for_Builder", "Omnific_Hand_Motion", "Omnific_Hand_Rationale", "Data_Confidence", "Source_URLs", "Notes", "Last_Verified_Date",
     ]
     write_csv(DATA / "directory.csv", deduped, cols)
     return deduped, cols

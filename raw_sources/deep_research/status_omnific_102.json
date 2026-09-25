@@ -1,0 +1,920 @@
+{
+  "Jumia": {
+    "Company_Status": "Active",
+    "Exit_Type": "IPO",
+    "Acquirer": "",
+    "Exit_Year": "2019",
+    "Exit_Source_URL": "https://en.wikipedia.org/wiki/Jumia",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Jumia unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "OPay": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning OPay unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Flutterwave": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Flutterwave unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Moove": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Moove unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Andela": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Andela unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Moniepoint (TeamApt)": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Moniepoint (TeamApt) unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Interswitch": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Interswitch unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "PalmPay": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning PalmPay unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Lumos Global": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Lumos Global unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "TradeDepot": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning TradeDepot unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Kuda": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Kuda unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Yellow Card": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Yellow Card unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "LemFi": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning LemFi unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Helium Health": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Helium Health unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Konga": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Konga unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "ThriveAgric": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning ThriveAgric unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "FairMoney": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning FairMoney unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "iSON Xperiences": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning iSON Xperiences unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Reliance Health": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Reliance Health unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "54gene": {
+    "Company_Status": "Shutdown",
+    "Exit_Type": "Shutdown",
+    "Acquirer": "",
+    "Exit_Year": "2023",
+    "Exit_Source_URL": "https://en.wikipedia.org/wiki/Abasi_Ene-Obong",
+    "Omnific_Hand_Motion": "Adjacent_tooling",
+    "Omnific_Hand_Rationale": "54gene is shut down or wound down per public sources. Do not clone. Mine the category gap for adjacent tooling sold to remaining operators."
+  },
+  "Nomba": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Nomba unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Wakanow": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Wakanow as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "MAX.ng": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning MAX.ng unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Kobo360": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Kobo360 unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Migo": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Migo unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Paga": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Paga unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Vendease": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Vendease unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Lemonade Finance": {
+    "Company_Status": "Pivoted",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "https://disruptafrica.com/2023/05/31/nigerias-lemonade-finance-rebrands-to-lemfi-as-it-expands-vision/",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Lemonade Finance rebranded to LemFi (same entity as Rank 13). Treat as duplicate identity; do not build a parallel remittance bank. Sell compliance or ops tooling to licensed IMTOs instead."
+  },
+  "iROKOtv": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to iROKOtv as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Beacon Power Services": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Beacon Power Services as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Starsight Energy": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Starsight Energy unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "uLesson": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Partner",
+    "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with uLesson on integrations, model ops, or vertical workflows without competing head-on."
+  },
+  "Rensource": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Rensource unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "SeamlessHR": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Partner",
+    "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with SeamlessHR on integrations, model ops, or vertical workflows without competing head-on."
+  },
+  "Jiji": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Jiji unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Husk Power Systems": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Husk Power Systems unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Omnibiz": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Omnibiz unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Konexa": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Konexa unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Mono": {
+    "Company_Status": "Acquired",
+    "Exit_Type": "Acquired",
+    "Acquirer": "Flutterwave",
+    "Exit_Year": "2026",
+    "Exit_Source_URL": "https://mono.co/blog/flutterwave-mono-acquisition",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Mono was acquired (Flutterwave). Prefer selling integration, migration, or ops automation into the combined stack rather than cloning the product."
+  },
+  "Okra": {
+    "Company_Status": "Shutdown",
+    "Exit_Type": "Shutdown",
+    "Acquirer": "",
+    "Exit_Year": "2025",
+    "Exit_Source_URL": "https://techcabal.com/2025/07/03/techcabal-daily-okras-off-the-menu/",
+    "Omnific_Hand_Motion": "Adjacent_tooling",
+    "Omnific_Hand_Rationale": "Okra is shut down or wound down per public sources. Do not clone. Mine the category gap for adjacent tooling sold to remaining operators."
+  },
+  "Carbon": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Carbon unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "CredPal": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning CredPal unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Umba": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Umba unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Raenest": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Raenest unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "NowNow": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning NowNow unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Tomato Jos": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Tomato Jos unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Paystack": {
+    "Company_Status": "Acquired",
+    "Exit_Type": "Acquired",
+    "Acquirer": "Stripe",
+    "Exit_Year": "2020",
+    "Exit_Source_URL": "https://paystack.com",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Paystack was acquired (Stripe). Prefer selling integration, migration, or ops automation into the combined stack rather than cloning the product."
+  },
+  "Odyssey Energy Solutions": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Odyssey Energy Solutions unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Field": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Field unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Afriex": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Afriex unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Mansa": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Mansa unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Nithio": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Nithio unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Zone": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Zone unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Waza": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Waza unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Klasha": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Klasha as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Cowrywise": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Cowrywise as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Gokada": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Gokada unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Seamfix": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Partner",
+    "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with Seamfix on integrations, model ops, or vertical workflows without competing head-on."
+  },
+  "Eden Life": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Eden Life as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Duplo": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Duplo unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Risevest": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Risevest as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "PiggyVest": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to PiggyVest as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Aladdin Digital Bank": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Aladdin Digital Bank unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Rivy": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Rivy unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Stears": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Adjacent_tooling",
+    "Omnific_Hand_Rationale": "Category is software-native. Prefer an adjacent wedge (analytics, integrations, niche vertical) over a full clone of Stears."
+  },
+  "Winich Farms": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Winich Farms as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Juicyway": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Juicyway as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Arnergy": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Arnergy unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "BFREE": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Adjacent_tooling",
+    "Omnific_Hand_Rationale": "Build complementary ML or automation (fraud, recon, NLP, underwriting features) that plugs into BFREE rather than replacing their core."
+  },
+  "MDaaS Global": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning MDaaS Global unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Chowdeck": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Chowdeck as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Youverify": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Partner",
+    "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with Youverify on integrations, model ops, or vertical workflows without competing head-on."
+  },
+  "Mecho Autotech": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Mecho Autotech as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Kredete": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Kredete as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "AMAKA Studio": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "For Omnific Hand, the realistic motion is selling tooling into AMAKA Studio's workflow or their customers, not recreating the funded core."
+  },
+  "Axmed": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Axmed unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Cleva": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Cleva unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Farmcrowdy": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Farmcrowdy as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Vesti": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Vesti unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Renda": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Renda unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Brass": {
+    "Company_Status": "Acquired",
+    "Exit_Type": "Acquired",
+    "Acquirer": "Paystack-led consortium (Piggytech; Ventures Platform; P1 Ventures)",
+    "Exit_Year": "2024",
+    "Exit_Source_URL": "https://techcabal.com/2024/05/28/paystack-leads-investors-in-brass-acquistion/",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Brass was acquired (Paystack-led consortium (Piggytech; Ventures Platform; P1 Ventures)). Prefer selling integration, migration, or ops automation into the combined stack rather than cloning the product."
+  },
+  "Billboxx": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Adjacent_tooling",
+    "Omnific_Hand_Rationale": "Category is software-native. Prefer an adjacent wedge (analytics, integrations, niche vertical) over a full clone of Billboxx."
+  },
+  "Intron Health": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Partner",
+    "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with Intron Health on integrations, model ops, or vertical workflows without competing head-on."
+  },
+  "Accrue": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Accrue as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Vendy": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Vendy as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Startbutton Africa": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Startbutton Africa as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "SunFi": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning SunFi unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Payday": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Payday as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Talstack": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Partner",
+    "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with Talstack on integrations, model ops, or vertical workflows without competing head-on."
+  },
+  "Agriarche": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Agriarche as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Grey": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Grey as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Bundle Africa": {
+    "Company_Status": "Shutdown",
+    "Exit_Type": "Shutdown",
+    "Acquirer": "",
+    "Exit_Year": "2023",
+    "Exit_Source_URL": "https://techcabal.com/2023/07/22/bundle-africa-shuts-down-its-exchange-platform/",
+    "Omnific_Hand_Motion": "Adjacent_tooling",
+    "Omnific_Hand_Rationale": "Bundle Africa is shut down or wound down per public sources. Do not clone. Mine the category gap for adjacent tooling sold to remaining operators."
+  },
+  "Crop2Cash": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Crop2Cash as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Carbin Africa": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Carbin Africa as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Earthbond": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Earthbond as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Zebra CropBank": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Zebra CropBank as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Mira": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Mira as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Pullus Africa": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Pullus Africa as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Fincra": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Sell_to",
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Fincra as a vendor (recon, KYC, collections, logistics, support), not a clone."
+  },
+  "Trade Lenda": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Trade Lenda unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "VertoFX": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning VertoFX unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  },
+  "Regxta": {
+    "Company_Status": "Active",
+    "Exit_Type": "None",
+    "Acquirer": "",
+    "Exit_Year": "",
+    "Exit_Source_URL": "",
+    "Omnific_Hand_Motion": "Clone_avoid",
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Regxta unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+  }
+}
