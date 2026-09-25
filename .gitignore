@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+# bulky cached HTML (keep *.txt/*.json extracts)
+raw_sources/*.html
+.venv/

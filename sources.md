@@ -54,3 +54,20 @@ Public URLs consulted while building the ranked Nigeria fintech + tech dataset (
 - Crunchbase full company financials often truncated without login.
 - Tracxn Nigeria fintech index claims thousands of companies / hundreds funded, but round amounts are frequently masked.
 - PitchBook / CB Insights deeper deal tables similarly gated.
+
+
+## Licence directories used for Directory volume (2026-09-25 expansion)
+
+- https://www.cbn.gov.ng/PaymentsSystem/PSPs.html (PSSP, PTSP, Super-Agent, MMO, Switching, schemes)
+- https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html (IMTO list)
+- https://fccpc.gov.ng/registration-of-digital-money-lenders/approvals-of-dmls/ (FCCPC DML companies/apps)
+- https://ndic.gov.ng/list-of-insured-institutions/list-of-mobile-money-operators/
+- https://www.ycombinator.com/companies (Africa / Nigeria filter via public Algolia index)
+- https://startupmapafrica.com/startups/fintech/nigeria (and sibling sector pages)
+- https://startupmapafrica.com/startups/agritech/nigeria
+- https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/ (sourced small disclosed rounds)
+- https://www.startuplist.africa/countries/nigeria
+- https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024
+- https://www.startuplist.africa/lists/top-funded-nigeria-startups-2025
+- https://techtally.ng/made-in-nigeria-saas-tools/
+- https://tracxn.com/d/explore/fintech-startups-in-nigeria/__38FtfxfYPbd2pJZUtqxChz8Tc_1PluO4qd0Lr-PsbS0 (index claims only; amounts often gated)

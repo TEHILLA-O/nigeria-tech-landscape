@@ -1,11 +1,51 @@
 Company,Sector,Product_Summary,HQ_or_Primary_Market,Founded_Year,Notes,Last_Verified_Date
-Softcom,SaaS,Enterprise digital solutions and platforms.,Lagos,2015,Well-known NG tech firm; public equity totals not confirmed in free roundups used here.,2026-09-25
-Printivo,Other Tech,Online custom printing and branding.,Lagos,2014,Bootstrapped / limited public VC disclosure.,2026-09-25
-Jobberman,Marketplace,Jobs board and recruitment platform.,Lagos,2009,Early NG tech brand; current disclosed VC total unclear in sources used.,2026-09-25
-Hotels.ng,Marketplace,Nigerian hotel booking platform.,Lagos,2013,Notable NG travel tech; funding totals not verified here.,2026-09-25
-BuyCoins,Fintech,Crypto brokerage (historical NG crypto brand).,Lagos,2017,Use Yellow Card for disclosed crypto scale; BuyCoins totals not listed separately here.,2026-09-25
-VBank / other digital banks,Fintech,Assorted digital banking brands.,Lagos,Unknown,Licence-holding entities; disclosed startup-style equity often opaque.,2026-09-25
-Payaza,Fintech,Payment gateway leaning on debt/commercial paper rather than classic VC headlines.,Lagos,Unknown,Notable operator; equity totals not cleanly captured in VC roundups used.,2026-09-25
-Flutterwave alumni / smaller PSPs,Fintech,Assorted payment startups.,Lagos,Unknown,Many lack disclosed VC in free sources.,2026-09-25
-Andela alumni studios,SaaS,Software studios and products founded by alumni.,Lagos/remote,Unknown,Talent pool notable; individual funding varies.,2026-09-25
-KongaPay verticals,Fintech,Payments arm related to Konga ecosystem.,Lagos,Unknown,Often folded into Konga parent funding narrative.,2026-09-25
+Rulebase,AI,AI agents for fintech back-office compliance/disputes/QA.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Afrimash,Agritech,Online agro-inputs marketplace.,Nigeria,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Babban Gona,Agritech,Babban Gona: Listed on StartupMapAfrica Nigeria sector directories.,Nigeria,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Eja Ice,Cleantech,Eja-Ice: Listed on StartupMapAfrica Nigeria sector directories.,Nigeria,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Koolboks,Cleantech,Koolboks: Listed on StartupMapAfrica Nigeria sector directories.,Nigeria,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Mopo,Cleantech,Mopo: Listed on StartupMapAfrica Nigeria sector directories.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+ParkNCharge,Cleantech,ParkNCharge: Listed on StartupMapAfrica Nigeria sector directories.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Powerstove,Cleantech,Powerstove: Listed on StartupMapAfrica Nigeria sector directories.,Nigeria,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Releaf Earth,Cleantech,Turning food waste into Biochar to remove CO2 from the atmsophere,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+UPNEPA,Cleantech,Energy/power access consumer tech.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Zola Electric,Cleantech,Off-grid solar/energy storage with major Nigeria market.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Afrilearn,Edtech,Curriculum video learning for Nigerian students.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+CampusHut,Edtech,CampusHut: Listed on StartupMapAfrica Nigeria sector directories.,Nigeria,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Clastro,Edtech,Clastro: Listed on StartupMapAfrica Nigeria sector directories.,Nigeria,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Digitaley Drive,Edtech,Digitaley Drive: Listed on StartupMapAfrica Nigeria sector directories.,Nigeria,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Edves,Edtech,School management SaaS for Nigerian schools.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Klas,Edtech,Creator/cohort learning platform.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+PrepClass,Edtech,Tutoring marketplace brand.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Tuteria,Edtech,Tutoring marketplace.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+18. Xpress Payments Solution,Fintech,18. Xpress Payments Solution: CBN Switching and Processing licensee.,Nigeria,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Abeg / Pocket,Fintech,Consumer payments brand (Abeg Technologies); CBN MMO.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Accrue Savings,Fintech,Dollar savings/wealth product for Africans.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Anchor,Fintech,Embedded finance platform for African businesses; YC-backed.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Arca Payments Company,Fintech,Arca Payments Company: CBN Switching and Processing licensee.,Nigeria,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Bamboo,Fintech,Bamboo ― the first online brokerage service for Africans and their…,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Belema Financial Technology,Fintech,Belema Financial Technology: CBN Switching and Processing licensee.,Nigeria,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Blaaiz,Fintech,Cross-border payments/remittance (CBN IMTO).,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Bmoni,Fintech,Bmoni: Listed on StartupMapAfrica Nigeria sector directories.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Branch NG,Fintech,Mobile lending with major Nigeria book.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Bridgecard,Fintech,Card issuing infrastructure for Africa; YC-backed.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+BudPay,Fintech,Bud Infrastructure/BudPay payment collections.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+BuyCoins / Helicarrier,Fintech,Crypto brokerage/infrastructure (Helicarrier); YC heritage.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+BuyPower,Fintech,Bill payment platform for African businesses and consumers; YC-backed.,Abuja,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Cardtonic,Fintech,Cardtonic: Listed on StartupMapAfrica Nigeria sector directories.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Chaka,Fintech,Investment/brokerage app for Nigerians.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Chamswitch,Fintech,Chamswitch: CBN Switching and Processing licensee.,Nigeria,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+CoralPay,Fintech,Coralpay Technology: CBN Switching and Processing licensee.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+CrowdForce,Fintech,Agent/merchant network and data collection; YC-backed; CBN Super-Agent.,Abuja,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Dojah,Fintech,Fraud prevention and identity onboarding APIs; YC-backed.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Eazipay,Fintech,Eazipay powers effortless payroll and financial access in Africa.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Flux,Fintech,Cross border Payments infrastructure for internet businesses and…,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Habaripay,Fintech,Habaripay: CBN Switching and Processing licensee.,Nigeria,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Hydrogen Pay,Fintech,Hydrogen Payment Services switching/processing.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Hydrogen Payment Services,Fintech,Hydrogen Payment Services: CBN Switching and Processing licensee.,Nigeria,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Inter-Bank Settlement System,Fintech,Inter-Bank Settlement System: CBN Payments Terminal Service Aggregator.,Nigeria,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Interswitch PSHC,Fintech,Interswitch PSHC: CBN Payments Service Holding Company.,Nigeria,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Justxpend,Fintech,Justxpend Technologies: Listed on StartupMapAfrica Nigeria sector directories.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Kudi,Fintech,Agent banking/payments heritage brand.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Lidya,Fintech,SME lending/credit scoring platform in Nigeria.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25
+Middleman,Fintech,Midddleman Technologies: Listed on StartupMapAfrica Nigeria sector directories.,Lagos,,No clean disclosed funding total in free sources used for this build; listed for directory coverage.,2026-09-25

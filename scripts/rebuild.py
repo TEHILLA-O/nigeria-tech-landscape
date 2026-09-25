@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
-"""Merge data/companies_part*.json into ranked CSV/XLSX. Requires openpyxl."""
-print("Run the merge build from repo history or re-run the dataset builder.")
-print("Primary outputs: data/ranked_disclosed.csv and data/Nigeria_Fintech_Tech_Ranked.xlsx")
+"""Rebuild ranked + directory outputs. Requires openpyxl."""
+from pathlib import Path
+import runpy
+runpy.run_path(str(Path(__file__).with_name("expand_build.py")), run_name="__main__")

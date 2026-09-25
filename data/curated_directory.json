@@ -1,0 +1,954 @@
+[
+  {
+    "name": "Prembly",
+    "sector": "Fintech",
+    "product": "Identity verification API (formerly Identitypass); YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Dojah",
+    "sector": "Fintech",
+    "product": "Fraud prevention and identity onboarding APIs; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Bamboo",
+    "sector": "Fintech",
+    "product": "Online brokerage for African retail investors; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Anchor",
+    "sector": "Fintech",
+    "product": "Embedded finance platform for African businesses; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Bridgecard",
+    "sector": "Fintech",
+    "product": "Card issuing infrastructure for Africa; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "BuyPower",
+    "sector": "Fintech",
+    "product": "Bill payment platform for African businesses and consumers; YC-backed.",
+    "hq": "Abuja",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Schoolable",
+    "sector": "Fintech",
+    "product": "Tuition collection for K-12 private schools; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Aella",
+    "sector": "Fintech",
+    "product": "Credit infrastructure and consumer lending stack; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Flux",
+    "sector": "Fintech",
+    "product": "Cross-border payments infrastructure; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Plumter",
+    "sector": "Fintech",
+    "product": "Financial tools for cross-border trade; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Eazipay",
+    "sector": "Fintech",
+    "product": "Payroll and SME financial access; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Rank (Moni)",
+    "sector": "Fintech",
+    "product": "Group financing/thrift for SMEs (formerly Moni); YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Termii",
+    "sector": "SaaS",
+    "product": "Messaging/communications reliability infrastructure; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Tizeti",
+    "sector": "Other Tech",
+    "product": "Wireless ISP for African cities; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "CrowdForce",
+    "sector": "Fintech",
+    "product": "Agent/merchant network and data collection; YC-backed; CBN Super-Agent.",
+    "hq": "Abuja",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Sendbox",
+    "sector": "Logistics",
+    "product": "Fulfillment and shipping for African merchants; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Topship",
+    "sector": "Logistics",
+    "product": "Digital freight/logistics OS for African merchants; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "SEND",
+    "sector": "Logistics",
+    "product": "Digital freight forwarder and customs broker; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Suplias",
+    "sector": "Fintech",
+    "product": "Inventory credit for FMCG distributors; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "FoodCourt",
+    "sector": "Marketplace",
+    "product": "Virtual restaurants and cloud kitchens; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Heyfood",
+    "sector": "Marketplace",
+    "product": "On-demand food delivery (Ibadan-rooted); YC-backed.",
+    "hq": "Ibadan",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Shekel Mobility",
+    "sector": "Marketplace",
+    "product": "B2B marketplace for auto dealers; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Pivo",
+    "sector": "Fintech",
+    "product": "Digital banking/finance for freight carriers; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Remedial Health",
+    "sector": "Healthtech",
+    "product": "B2B ecommerce and fintech for pharmacies/hospitals; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Healthlane",
+    "sector": "Healthtech",
+    "product": "Preventative health system/diagnostics; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Infiuss Health",
+    "sector": "Healthtech",
+    "product": "Marketplace accelerating medical research; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Releaf Earth",
+    "sector": "Cleantech",
+    "product": "Biochar/food-waste climate tech; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Sendme",
+    "sector": "Marketplace",
+    "product": "On-demand meat supply to households and food businesses; YC-backed.",
+    "hq": "Ibadan",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Chow Central",
+    "sector": "Marketplace",
+    "product": "Asset-light virtual kitchen concept; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Simplifyd",
+    "sector": "SaaS",
+    "product": "Toll-free internet apps delivery; YC-backed with NG ops.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Touch & Pay",
+    "sector": "Fintech",
+    "product": "Microtransaction digitization; YC + CBN PSSP.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "BuyCoins / Helicarrier",
+    "sector": "Fintech",
+    "product": "Crypto brokerage/infrastructure (Helicarrier); YC heritage.",
+    "hq": "Lagos",
+    "source": "https://www.ycombinator.com/companies"
+  },
+  {
+    "name": "Golemon",
+    "sector": "Marketplace",
+    "product": "Grocery delivery from Paystack alumni; YC-backed.",
+    "hq": "Lagos",
+    "source": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/"
+  },
+  {
+    "name": "Middleman",
+    "sector": "Fintech",
+    "product": "Escrow-style ecommerce payments and China remittance for importers.",
+    "hq": "Lagos",
+    "source": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/"
+  },
+  {
+    "name": "Tyms Africa",
+    "sector": "SaaS",
+    "product": "Bookkeeping and accounting suite for African SMEs.",
+    "hq": "Lagos",
+    "source": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/"
+  },
+  {
+    "name": "Softcom",
+    "sector": "SaaS",
+    "product": "Enterprise digital solutions and platforms.",
+    "hq": "Lagos",
+    "source": "https://github.com/TEHILLA-O/nigeria-tech-landscape"
+  },
+  {
+    "name": "Printivo",
+    "sector": "Other Tech",
+    "product": "Online custom printing and branding.",
+    "hq": "Lagos",
+    "source": "https://github.com/TEHILLA-O/nigeria-tech-landscape"
+  },
+  {
+    "name": "Jobberman",
+    "sector": "Marketplace",
+    "product": "Jobs board and recruitment platform.",
+    "hq": "Lagos",
+    "source": "https://github.com/TEHILLA-O/nigeria-tech-landscape"
+  },
+  {
+    "name": "Hotels.ng",
+    "sector": "Marketplace",
+    "product": "Nigerian hotel booking platform.",
+    "hq": "Lagos",
+    "source": "https://github.com/TEHILLA-O/nigeria-tech-landscape"
+  },
+  {
+    "name": "Payaza",
+    "sector": "Fintech",
+    "product": "Payment gateway and collection infrastructure.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Cellulant",
+    "sector": "Fintech",
+    "product": "Pan-African payments/Tingg with major Nigeria ops.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Remita",
+    "sector": "Fintech",
+    "product": "SystemSpecs Remita bill payments and collections.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Hydrogen Pay",
+    "sector": "Fintech",
+    "product": "Hydrogen Payment Services switching/processing.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "CoralPay",
+    "sector": "Fintech",
+    "product": "CoralPay switching and processing.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "eTranzact",
+    "sector": "Fintech",
+    "product": "Listed electronic payments and switching operator.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Parkway / SWwipe",
+    "sector": "Fintech",
+    "product": "Parkway/SWwipe payments and agent banking.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Teasy",
+    "sector": "Fintech",
+    "product": "Early CBN mobile money/agent banking operator.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Fortis Mobile Money",
+    "sector": "Fintech",
+    "product": "Non-bank MMO focused on financial inclusion.",
+    "hq": "Abuja",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Chams Mobile",
+    "sector": "Fintech",
+    "product": "Chams Group mobile money/identity-adjacent payments.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Abeg / Pocket",
+    "sector": "Fintech",
+    "product": "Consumer payments brand (Abeg Technologies); CBN MMO.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "KongaPay",
+    "sector": "Fintech",
+    "product": "Payments arm in Konga ecosystem; CBN MMO.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "OnePipe",
+    "sector": "Fintech",
+    "product": "Open banking/financial data aggregation APIs.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Kora",
+    "sector": "Fintech",
+    "product": "Kora Payments PSP collections and payouts APIs.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Eyowo",
+    "sector": "Fintech",
+    "product": "Eyowo integrated payments/consumer fintech.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Clane",
+    "sector": "Fintech",
+    "product": "Payments and lifestyle fintech (PSSP/PTSP).",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Smile Identity",
+    "sector": "Fintech",
+    "product": "Identity verification/KYC APIs.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Youverify",
+    "sector": "Fintech",
+    "product": "Identity and address verification.",
+    "hq": "Lagos",
+    "source": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024"
+  },
+  {
+    "name": "Blaaiz",
+    "sector": "Fintech",
+    "product": "Cross-border payments/remittance (CBN IMTO).",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html"
+  },
+  {
+    "name": "Sharperly",
+    "sector": "Fintech",
+    "product": "Remittance/payments operator (CBN IMTO).",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html"
+  },
+  {
+    "name": "SimbaPay",
+    "sector": "Fintech",
+    "product": "Remittance operator (CBN IMTO).",
+    "hq": "Abuja",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html"
+  },
+  {
+    "name": "Cardtonic",
+    "sector": "Fintech",
+    "product": "Gift-card and digital asset trading platform.",
+    "hq": "Lagos",
+    "source": "https://startupmapafrica.com/startups/fintech/nigeria"
+  },
+  {
+    "name": "Bmoni",
+    "sector": "Fintech",
+    "product": "Digital banking/payments brand.",
+    "hq": "Lagos",
+    "source": "https://startupmapafrica.com/startups/fintech/nigeria"
+  },
+  {
+    "name": "Justxpend",
+    "sector": "Fintech",
+    "product": "WhatsApp-native crypto spend and invoicing.",
+    "hq": "Lagos",
+    "source": "https://startupmapafrica.com/startups/fintech/nigeria"
+  },
+  {
+    "name": "VBank",
+    "sector": "Fintech",
+    "product": "Digital banking brand in VFD Group ecosystem.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html"
+  },
+  {
+    "name": "VFD Group",
+    "sector": "Fintech",
+    "product": "Diversified financial services/tech group.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html"
+  },
+  {
+    "name": "Venture Garden Group",
+    "sector": "SaaS",
+    "product": "Enterprise software group (govtech, payments-adjacent).",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "SystemSpecs",
+    "sector": "SaaS",
+    "product": "Enterprise software house behind Remita.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Computer Warehouse Group",
+    "sector": "SaaS",
+    "product": "CWG enterprise IT / PTSP-licensed integrator.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Babban Gona",
+    "sector": "Agritech",
+    "product": "Agricultural franchise/smallholder productivity platform.",
+    "hq": "Nigeria",
+    "source": "https://startupmapafrica.com/startups/agritech/nigeria"
+  },
+  {
+    "name": "Eja Ice",
+    "sector": "Cleantech",
+    "product": "Cold-chain/ice solutions for fisheries and perishables.",
+    "hq": "Nigeria",
+    "source": "https://startupmapafrica.com/startups/agritech/nigeria"
+  },
+  {
+    "name": "Koolboks",
+    "sector": "Cleantech",
+    "product": "Solar-powered refrigeration/cold storage.",
+    "hq": "Nigeria",
+    "source": "https://startupmapafrica.com/startups/agritech/nigeria"
+  },
+  {
+    "name": "Powerstove",
+    "sector": "Cleantech",
+    "product": "Clean cookstove/energy product tech.",
+    "hq": "Nigeria",
+    "source": "https://startupmapafrica.com/startups/agritech/nigeria"
+  },
+  {
+    "name": "10mg Health",
+    "sector": "Healthtech",
+    "product": "Digital pharmacy/health access brand.",
+    "hq": "Lagos",
+    "source": "https://startupmapafrica.com/startups/healthtech/nigeria"
+  },
+  {
+    "name": "BetaCare Pharmacy",
+    "sector": "Healthtech",
+    "product": "Tech-enabled pharmacy brand.",
+    "hq": "Lagos",
+    "source": "https://startupmapafrica.com/startups/healthtech/nigeria"
+  },
+  {
+    "name": "ZAK Health",
+    "sector": "Healthtech",
+    "product": "Healthtech platform (StartupMapAfrica NG).",
+    "hq": "Lagos",
+    "source": "https://startupmapafrica.com/startups/healthtech/nigeria"
+  },
+  {
+    "name": "Gigmile",
+    "sector": "Logistics",
+    "product": "Logistics/mobility tech brand.",
+    "hq": "Lagos",
+    "source": "https://startupmapafrica.com/startups/logistics/nigeria"
+  },
+  {
+    "name": "LagRide",
+    "sector": "Logistics",
+    "product": "Lagos ride-hailing/mobility tech.",
+    "hq": "Lagos",
+    "source": "https://startupmapafrica.com/startups/mobility/nigeria"
+  },
+  {
+    "name": "ParkNCharge",
+    "sector": "Cleantech",
+    "product": "EV charging/parking energy tech.",
+    "hq": "Lagos",
+    "source": "https://startupmapafrica.com/startups/energy/nigeria"
+  },
+  {
+    "name": "UPNEPA",
+    "sector": "Cleantech",
+    "product": "Energy/power access consumer tech.",
+    "hq": "Lagos",
+    "source": "https://startupmapafrica.com/startups/energy/nigeria"
+  },
+  {
+    "name": "CampusHut",
+    "sector": "Edtech",
+    "product": "Campus services/edtech brand.",
+    "hq": "Nigeria",
+    "source": "https://startupmapafrica.com/startups/edtech/nigeria"
+  },
+  {
+    "name": "Digitaley Drive",
+    "sector": "Edtech",
+    "product": "Digital skills/edtech brand.",
+    "hq": "Nigeria",
+    "source": "https://startupmapafrica.com/startups/edtech/nigeria"
+  },
+  {
+    "name": "RentWaka",
+    "sector": "Other Tech",
+    "product": "Proptech/rentals brand.",
+    "hq": "Nigeria",
+    "source": "https://startupmapafrica.com/startups/proptech/nigeria"
+  },
+  {
+    "name": "Housmata",
+    "sector": "Other Tech",
+    "product": "Proptech housing brand.",
+    "hq": "Nigeria",
+    "source": "https://startupmapafrica.com/startups/proptech/nigeria"
+  },
+  {
+    "name": "Ojirehprime",
+    "sector": "Fintech",
+    "product": "Alternative banking/fintech services (2025 funded lists).",
+    "hq": "Lagos",
+    "source": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2025"
+  },
+  {
+    "name": "Pade HCM",
+    "sector": "SaaS",
+    "product": "HR and payroll tech.",
+    "hq": "Lagos",
+    "source": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2025"
+  },
+  {
+    "name": "Rulebase",
+    "sector": "AI",
+    "product": "AI agents for fintech back-office compliance/disputes/QA.",
+    "hq": "Lagos",
+    "source": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2025"
+  },
+  {
+    "name": "Rwazi",
+    "sector": "SaaS",
+    "product": "Consumer insights/market research tech with NG presence.",
+    "hq": "Lagos",
+    "source": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2025"
+  },
+  {
+    "name": "OmniRetail",
+    "sector": "Marketplace",
+    "product": "B2B commerce/retail distribution tech.",
+    "hq": "Lagos",
+    "source": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2025"
+  },
+  {
+    "name": "Sabi",
+    "sector": "Marketplace",
+    "product": "Commercial infrastructure for goods distribution.",
+    "hq": "Lagos",
+    "source": "https://sun-connect.org/wp-content/uploads/The-Nigerian-Startup-Ecosystem-Report-2022.pdf"
+  },
+  {
+    "name": "Lidya",
+    "sector": "Fintech",
+    "product": "SME lending/credit scoring platform in Nigeria.",
+    "hq": "Lagos",
+    "source": "https://disruptafrica.com/2022/10/14/nigerian-tech-startups-raised-over-2bn-between-2015-and-2022/"
+  },
+  {
+    "name": "Renmoney",
+    "sector": "Fintech",
+    "product": "Digital consumer/SME lending (microfinance heritage).",
+    "hq": "Lagos",
+    "source": "https://fccpc.gov.ng/registration-of-digital-money-lenders/approvals-of-dmls/"
+  },
+  {
+    "name": "Cars45",
+    "sector": "Marketplace",
+    "product": "Used-car marketplace/auction platform.",
+    "hq": "Lagos",
+    "source": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/"
+  },
+  {
+    "name": "Autochek",
+    "sector": "Marketplace",
+    "product": "Auto financing and vehicle marketplace with NG focus.",
+    "hq": "Lagos",
+    "source": "https://disruptafrica.com/2022/10/14/nigerian-tech-startups-raised-over-2bn-between-2015-and-2022/"
+  },
+  {
+    "name": "Afrilearn",
+    "sector": "Edtech",
+    "product": "Curriculum video learning for Nigerian students.",
+    "hq": "Lagos",
+    "source": "https://tracxn.com/d/explore/edtech-startups-in-nigeria/__cRSooeKK_qSvYO9N0to07twfBz6ccTKFBUr95JQ-PkU/companies"
+  },
+  {
+    "name": "Klas",
+    "sector": "Edtech",
+    "product": "Creator/cohort learning platform.",
+    "hq": "Lagos",
+    "source": "https://tracxn.com/d/explore/edtech-startups-in-nigeria/__cRSooeKK_qSvYO9N0to07twfBz6ccTKFBUr95JQ-PkU/companies"
+  },
+  {
+    "name": "Edves",
+    "sector": "Edtech",
+    "product": "School management SaaS for Nigerian schools.",
+    "hq": "Lagos",
+    "source": "https://techtally.ng/made-in-nigeria-saas-tools/"
+  },
+  {
+    "name": "Curacel",
+    "sector": "Insurtech",
+    "product": "Claims/insurance infrastructure SaaS.",
+    "hq": "Lagos",
+    "source": "https://techtally.ng/made-in-nigeria-saas-tools/"
+  },
+  {
+    "name": "Flowmono",
+    "sector": "SaaS",
+    "product": "Workflow/document automation SaaS.",
+    "hq": "Lagos",
+    "source": "https://techtally.ng/made-in-nigeria-saas-tools/"
+  },
+  {
+    "name": "OGApharmacy",
+    "sector": "Healthtech",
+    "product": "Pharmacy marketplace/healthtech.",
+    "hq": "Lagos",
+    "source": "https://tracxn.com/d/explore/healthtech-saas-startups-in-nigeria/__xC1CafNfPgol_bN4jyQ8CUVhK1Yx1SMkKuq-UTpqHoY"
+  },
+  {
+    "name": "MediPal",
+    "sector": "Healthtech",
+    "product": "Healthtech SaaS.",
+    "hq": "Lagos",
+    "source": "https://tracxn.com/d/explore/healthtech-saas-startups-in-nigeria/__xC1CafNfPgol_bN4jyQ8CUVhK1Yx1SMkKuq-UTpqHoY"
+  },
+  {
+    "name": "Trove",
+    "sector": "Fintech",
+    "product": "Fractional stock investing app for Nigerians.",
+    "hq": "Lagos",
+    "source": "https://disruptafrica.com/2022/10/14/nigerian-tech-startups-raised-over-2bn-between-2015-and-2022/"
+  },
+  {
+    "name": "Chaka",
+    "sector": "Fintech",
+    "product": "Investment/brokerage app for Nigerians.",
+    "hq": "Lagos",
+    "source": "https://disruptafrica.com/2022/10/14/nigerian-tech-startups-raised-over-2bn-between-2015-and-2022/"
+  },
+  {
+    "name": "Kwik",
+    "sector": "Logistics",
+    "product": "On-demand delivery/logistics brand in Lagos.",
+    "hq": "Lagos",
+    "source": "https://disruptafrica.com/2022/10/14/nigerian-tech-startups-raised-over-2bn-between-2015-and-2022/"
+  },
+  {
+    "name": "Mano",
+    "sector": "Marketplace",
+    "product": "Grocery delivery competitor in Lagos.",
+    "hq": "Lagos",
+    "source": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/"
+  },
+  {
+    "name": "Zola Electric",
+    "sector": "Cleantech",
+    "product": "Off-grid solar/energy storage with major Nigeria market.",
+    "hq": "Lagos",
+    "source": "https://www.startuplist.africa/countries/nigeria"
+  },
+  {
+    "name": "IHS Towers",
+    "sector": "Other Tech",
+    "product": "Telecom tower infrastructure (Nigeria-major ops).",
+    "hq": "Lagos",
+    "source": "https://www.startuplist.africa/countries/nigeria"
+  },
+  {
+    "name": "NIBSS",
+    "sector": "Fintech",
+    "product": "Nigeria Inter-Bank Settlement System national switch.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Verve",
+    "sector": "Fintech",
+    "product": "Domestic card scheme (Interswitch-linked).",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Afrigo",
+    "sector": "Fintech",
+    "product": "Nigeria card/payment scheme licensee.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "3Line",
+    "sector": "Fintech",
+    "product": "Card management / PTSP / super-agent.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Unified Payments",
+    "sector": "Fintech",
+    "product": "Historic NG payments switch / PTSA.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Global Accelerex",
+    "sector": "Fintech",
+    "product": "POS/PTSP and payment terminal networks.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "BudPay",
+    "sector": "Fintech",
+    "product": "Bud Infrastructure/BudPay payment collections.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Ercas",
+    "sector": "Fintech",
+    "product": "Government and merchant collections.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Woven Finance",
+    "sector": "Fintech",
+    "product": "B2B payments PSSP.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "VoguePay",
+    "sector": "Fintech",
+    "product": "Web payment gateway.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Shago Payments",
+    "sector": "Fintech",
+    "product": "Agent/bill payment and PTSP network.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "PrepClass",
+    "sector": "Edtech",
+    "product": "Tutoring marketplace brand.",
+    "hq": "Lagos",
+    "source": "https://disruptafrica.com/2022/10/14/nigerian-tech-startups-raised-over-2bn-between-2015-and-2022/"
+  },
+  {
+    "name": "Tuteria",
+    "sector": "Edtech",
+    "product": "Tutoring marketplace.",
+    "hq": "Lagos",
+    "source": "https://disruptafrica.com/2022/10/14/nigerian-tech-startups-raised-over-2bn-between-2015-and-2022/"
+  },
+  {
+    "name": "SideBrief",
+    "sector": "SaaS",
+    "product": "Legal/compliance ops tooling for African startups.",
+    "hq": "Lagos",
+    "source": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/"
+  },
+  {
+    "name": "The Price Marketplace",
+    "sector": "Marketplace",
+    "product": "Price discovery marketplace (StartupMapAfrica).",
+    "hq": "Nigeria",
+    "source": "https://startupmapafrica.com/startups/agritech/nigeria"
+  },
+  {
+    "name": "Sarta Logistics",
+    "sector": "Logistics",
+    "product": "Logistics tech brand.",
+    "hq": "Lagos",
+    "source": "https://startupmapafrica.com/startups/logistics/nigeria"
+  },
+  {
+    "name": "Clastro",
+    "sector": "Edtech",
+    "product": "Edtech brand (StartupMapAfrica NG).",
+    "hq": "Nigeria",
+    "source": "https://startupmapafrica.com/startups/edtech/nigeria"
+  },
+  {
+    "name": "Mopo",
+    "sector": "Cleantech",
+    "product": "Energy/solar consumer brand.",
+    "hq": "Lagos",
+    "source": "https://startupmapafrica.com/startups/energy/nigeria"
+  },
+  {
+    "name": "SafeTransact",
+    "sector": "Fintech",
+    "product": "Payments/escrow-style fintech brand.",
+    "hq": "Lagos",
+    "source": "https://startupmapafrica.com/startups/fintech/nigeria"
+  },
+  {
+    "name": "TGIPay",
+    "sector": "Fintech",
+    "product": "Payment solutions (CBN PSSP Tgipay).",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Redtech",
+    "sector": "Fintech",
+    "product": "Redtech Limited CBN PSSP.",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "name": "Accrue Savings",
+    "sector": "Fintech",
+    "product": "Dollar savings/wealth product for Africans.",
+    "hq": "Lagos",
+    "source": "https://startupmapafrica.com/startups/fintech/nigeria"
+  },
+  {
+    "name": "Imisi",
+    "sector": "Healthtech",
+    "product": "Healthtech SaaS / Imisi HealthCARE.",
+    "hq": "Lagos",
+    "source": "https://techtally.ng/made-in-nigeria-saas-tools/"
+  },
+  {
+    "name": "Xolani Health",
+    "sector": "Healthtech",
+    "product": "Healthtech brand in Nigeria indexes.",
+    "hq": "Lagos",
+    "source": "https://tracxn.com/d/explore/healthtech-saas-startups-in-nigeria/__xC1CafNfPgol_bN4jyQ8CUVhK1Yx1SMkKuq-UTpqHoY"
+  },
+  {
+    "name": "Kudi",
+    "sector": "Fintech",
+    "product": "Agent banking/payments heritage brand.",
+    "hq": "Lagos",
+    "source": "https://disruptafrica.com/2022/10/14/nigerian-tech-startups-raised-over-2bn-between-2015-and-2022/"
+  },
+  {
+    "name": "Page Finance",
+    "sector": "Fintech",
+    "product": "Digital lending brand in NG market.",
+    "hq": "Lagos",
+    "source": "https://fccpc.gov.ng/registration-of-digital-money-lenders/approvals-of-dmls/"
+  },
+  {
+    "name": "Branch NG",
+    "sector": "Fintech",
+    "product": "Mobile lending with major Nigeria book.",
+    "hq": "Lagos",
+    "source": "https://fccpc.gov.ng/registration-of-digital-money-lenders/approvals-of-dmls/"
+  },
+  {
+    "name": "Afrimash",
+    "sector": "Agritech",
+    "product": "Online agro-inputs marketplace.",
+    "hq": "Nigeria",
+    "source": "https://startupmapafrica.com/startups/agritech/nigeria"
+  },
+  {
+    "name": "Nala",
+    "sector": "Fintech",
+    "product": "Nala Payments remittance (CBN IMTO).",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html"
+  },
+  {
+    "name": "Brails",
+    "sector": "Fintech",
+    "product": "Brails Financial remittance/payments (CBN IMTO).",
+    "hq": "Lagos",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/InternationalMoneyTransferOperators.html"
+  }
+]

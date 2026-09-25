@@ -1,0 +1,1362 @@
+[
+  {
+    "legal": "3Line Card Management Limited",
+    "category": "CBN Card/Payment Scheme",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Afrigo Financial Services Limited",
+    "category": "CBN Card/Payment Scheme",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Payattitude",
+    "category": "CBN Card/Payment Scheme",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Verve International",
+    "category": "CBN Card/Payment Scheme",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Abeg Technologies Limited",
+    "category": "CBN Mobile Money Operator (MMO)",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Chams Mobile",
+    "category": "CBN Mobile Money Operator (MMO)",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "eTranzact International Limited",
+    "category": "CBN Mobile Money Operator (MMO)",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Fortis Mobile Money Limited",
+    "category": "CBN Mobile Money Operator (MMO)",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Funds And Electronic Transfer (FETS) Limited",
+    "category": "CBN Mobile Money Operator (MMO)",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Hedonmark Management Services Limited",
+    "category": "CBN Mobile Money Operator (MMO)",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "KongaPay Technologies Limited (Formerly Zinternet Limited )",
+    "category": "CBN Mobile Money Operator (MMO)",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Mkudi Limited",
+    "category": "CBN Mobile Money Operator (MMO)",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "NowNow Digital Systems Limited (Formerly Contec Global Infotech Limited)",
+    "category": "CBN Mobile Money Operator (MMO)",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Opay Digital Services Limited (Formerly Paycom Nigeria Limited)",
+    "category": "CBN Mobile Money Operator (MMO)",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Pagatech Limited",
+    "category": "CBN Mobile Money Operator (MMO)",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "PalmPay Limited",
+    "category": "CBN Mobile Money Operator (MMO)",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Parkway Projects Limited.",
+    "category": "CBN Mobile Money Operator (MMO)",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Teasy International Company Ltd",
+    "category": "CBN Mobile Money Operator (MMO)",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Visual ICT Limited",
+    "category": "CBN Mobile Money Operator (MMO)",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "VTNetwork Limited",
+    "category": "CBN Mobile Money Operator (MMO)",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Xpress MTS Limited",
+    "category": "CBN Mobile Money Operator (MMO)",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Arca Payments Company Limited",
+    "category": "CBN Switching & Processing",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Belema Financial Technology Limited",
+    "category": "CBN Switching & Processing",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Chamswitch Limited",
+    "category": "CBN Switching & Processing",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Coralpay Technology Nigeria Limited",
+    "category": "CBN Switching & Processing",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "eTranzact International Limited",
+    "category": "CBN Switching & Processing",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Flutterwave Technology Solutions Limited",
+    "category": "CBN Switching & Processing",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Habaripay Limited",
+    "category": "CBN Switching & Processing",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Hydrogen Payment Services Limited",
+    "category": "CBN Switching & Processing",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Interswitch Limited",
+    "category": "CBN Switching & Processing",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Paystack Payment Limited",
+    "category": "CBN Switching & Processing",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Remita Payment Service Limited",
+    "category": "CBN Switching & Processing",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Say Switch Limited",
+    "category": "CBN Switching & Processing",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Teamapt Limited",
+    "category": "CBN Switching & Processing",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Terra Switching & Processing Company Limited",
+    "category": "CBN Switching & Processing",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Unified Payment Services Limited",
+    "category": "CBN Switching & Processing",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Uniswitch Technology Limited",
+    "category": "CBN Switching & Processing",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "18. Xpress Payments Solution Limited",
+    "category": "CBN Switching & Processing",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Zone Payment Network Limited (Formerly Appzone Limited)",
+    "category": "CBN Switching & Processing",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "AccessPower Payments Solutions Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Afara Partners Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Akupay Services Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Alaje Technology Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Aliancepay Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Angala Financial Technologies Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Appglobal Technologies Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Appmart Integrated Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Aspapay Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Bestaff Payment Solutions Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Betastack Technology Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Billzone Solutions Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Bluesalt Financial Services Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "BT Payments Services Nigeria Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Bud Infrastructure Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Bvnk Services Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Callphone Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Capricorn Digital Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "CBI Technologies Ltd",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Cellulant Nigeria Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Centric Gateway Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Ceviant Payments Nigeria Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Clane Company Nig. Ltd.",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Cyberpay Limited (Formerly known as Cyberspace Limited)",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Demerge Nigeria Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Dot Financial Inclusion Technologies Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Duplo Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Easypay International Services Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Echezona Digital Gateway Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Egole Pay Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Elipa Payments Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "End2end Technologies Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Epic Payment Technologies Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Ercas Integrated Solutions Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "E-Settlement Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Eyowo Integrated Payments Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Fairsure Payments Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Figours Innovation Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Fincra Technologies Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Fountain Payment Systems Solution",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Futurepay Tech Solutions Nigeria Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Gemspay Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Global Accelerex Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Gpay Instant Solution Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "GTP Client Services Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Hea-Dew Solutions Nigeria Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Hellopay Africa Integrated Service Ltd.",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Huiospay Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "ICAD Concord Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Infiniti Segments Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Integrated Revenue Collection and Management Solution(IRCMS) Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Irecharge Technology Innovations Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Irofit Technologies LimitedD",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Itex Integrated Services Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Jupiter Payment Services Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Karrabo Financial Solutions Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Katsu Network Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Klasha Technologies Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Konetpay Nigeria Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Kora Payments",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Leadremit Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Linq Payment Technology Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Moment Nigeria Pay2 Ltd",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Moneta Technology Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Montra Technology Solutions Limited (Formerly Artha Fintech Limited)",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Msia Oculus Technologies Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Multigate Payment Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Netapps Technologies Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Netplusdotcom Nigeria Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Nomba Financial Services Limited (Formerly Cosmic Intelligence Lab Limited)",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Novac Payment Solutions Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Okra Technologies Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Olive Payment Solutions Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Onepipe.Io Services Ltd",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Payaza Africa Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Payfixy Nigeria Limited (Formerly Innovate 1 Pay Limited)",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Payinvert Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Paylode Services Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Payment Access System Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Payment Island Services Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Paysharp Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Paymi Solutions Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Paymishtech Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Paysure Technologies Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Payu Payments Nigeria Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Pethahiah Rehoboth International Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Pixelplay Systems Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Prophius Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Qrios Networks Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Redtech Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Resident Fintech Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Rexel Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "R-Lab Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Routepay Fintech Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Soti Payment Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Saanapay Corporate Investments Management Limited (SAANACORP)",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Shago Payments Ltd",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "SID Digital Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Simplify International Synergy Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Smile Identity Nigeria Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Soft Alliance & Resources Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Spay Business Solutions Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Spout Payment Solutions",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Swift Link-NZ Global Services Ltd.",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Swift Paygate Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "SWWIPE Financial Services Limited (Formerly Parkway Projects Limited)",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Teinnovate Capital Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Tgipay Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Touch & Pay Technologies Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Traction Payments Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Transactworld Digital Services Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Unlimint Nigeria Ltd",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Upperlink Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Value Payment Solutions Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Vas2net Technologies Ltd",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Vendy Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Venture Garden Nigeria Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Vestrapay Nigeria Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Voguepay Web Solution Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Waxed Mobile Nigeria Ltd",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Waya Multilinks Technologies Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Wingtip Flow Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Woven Finance Limited",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Zest Payments Limited (Stanbic Financial Services Limited)",
+    "category": "CBN PSSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "3gee Pay Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "3Line Card Management",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Appmart Integrated Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Bestaff Payment Solutions Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Betastack Technology Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Bizzdesk Global Solutions Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Blusalt Financial Services Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Callphone Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Capricorn Digital Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "CBI Technologies Ltd",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Clane Company Nig. Ltd.",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Citiserve Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Computer Warehouse Group",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "C24 Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Cyberpay Limited (Formerly known as Cyberspace Limited)",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Dot Financial Inclusion Technologies Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Egole Pay Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Epic Payment Technologies Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Etop Nigeria Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Eyowo Integrated Payments Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Funds Konnect Limited (Formerly Funds and Electronic Transfers (FETs)Limited)",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Fidesic Nigeria Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Global Accelerex Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Intergrated Revenue Collection and Management Solution (IRCMS) Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Intellifin Solution Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Itex Integrated Services Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Irofit Technologies Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Jupiter Payment Services Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Karrabo Financial Solutions Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Katsu Network Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Konetpay Nigeria Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Netplusdotcom Nigeria Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Netop Business Systems Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Nomba Financial Services Limited (Fromerly Cosmic Intelligence Lab Limited)",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Olive Payment Solutions Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Onecard Topup Services Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Paymi Solutions Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Prophius Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Reedpriceman Technologies Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Shago Payments LTD",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Soti Investments Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Spout Payment Solutions",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Swift Link-NZ Global Services LTD",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Traction Payments Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Waxed Mobile Nigeria LTD 46.",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Upperlink Limited",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Wi-Pay",
+    "category": "CBN PTSP",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "3Line Card Management",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "5554 Technologies Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Accelerex Networks Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Africa Mama Atm Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Africave Technologies Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Allstream Information Technology Solutions Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Angala Financial Technologies Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Appmart Integrated Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "ATN Wayya Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Bestaff Payment Solutions Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Betastack Technology Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "C24 Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Callphone Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Capricorn Digital Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "CBI Technologies Ltd",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Cicoserve Payments Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Citiserve Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Clane Company Nig. Ltd",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Connectpoint Technology Solutions Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Crowd Force Limited (Formerly Mobile Forms Limited)",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Dot Financial Inclusion Technologies Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Egole Pay Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Epic Payment Technologies Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Errand P Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "E-Settlement Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Fountain Payment Systems Solution",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Fucil Datatech Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Gwills Payments Service Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Horizonpay Nigeria Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Infibranches Technology Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Intergrated Revenue Collection and Management Solution (IRCMS) Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Interswitch Financial Inclusion Services Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Irofit Technologies Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Itex Integrated Services Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Jupiter Payment Services Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Kadick Integrated Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Katsu Network Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Liberty Pay Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Lukeport Nigeria Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Microsystems Investment And Development Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Moneymaster Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Montra Technology Solutions Limited (Formerly Artha Fintech Limited)",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Nomba Financial Services Limited (Formerly Cosmic Intelligence Lab Limited)",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Olive Payment Solutions Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Olivepeak International Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Paycluster Technology Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Paygo Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Paymi Solutions Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Shago Payments Ltd",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Spout Payment Solutions",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Supplysmart Nigeria Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Swift Link-Nz Global Services Ltd",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Traction Payments Ltd",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Transbill Solution Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Upperlink Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Vatebra Pay Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Waxed Mobile Nigeria Ltd",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Xchange Box Solutions Limited",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Y'ello Digital Financial Services..",
+    "category": "CBN Super-Agent",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Interswitch PSHC Nigeria Limited",
+    "category": "CBN Payments Service Holding",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Nigeria Inter-Bank Settlement System PLC",
+    "category": "CBN PTSA",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  },
+  {
+    "legal": "Unified Payment Services Limited",
+    "category": "CBN PTSA",
+    "source": "https://www.cbn.gov.ng/PaymentsSystem/PSPs.html"
+  }
+]
