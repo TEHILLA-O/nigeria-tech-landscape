@@ -1,0 +1,20 @@
+{
+  "before": {
+    "ranked": 102,
+    "website": 93,
+    "founders": 89
+  },
+  "after": {
+    "ranked": 101,
+    "website": 101,
+    "founders": 100,
+    "directory": 981
+  },
+  "lemfi_funding_kept": "85000000",
+  "lemonade_funding_retired": "32700000",
+  "remaining_website": [],
+  "remaining_founders": [
+    "PalmPay"
+  ],
+  "lemfi_new_rank": "13"
+}

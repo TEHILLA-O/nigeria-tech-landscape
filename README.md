@@ -14,8 +14,8 @@ Builders, operators, and consultants need an honest map of who is licensed, who 
 
 | Sheet / file | Rows |
 |---|---|
-| Ranked with disclosed funding (`Ranked_Disclosed`) | **102** |
-| Directory without clean disclosed totals (`Directory`) | **980** |
+| Ranked with disclosed funding (`Ranked_Disclosed`) | **101** |
+| Directory without clean disclosed totals (`Directory`) | **981** |
 | Notable no-funding subset (`No_Disclosed_Funding`) | **50** |
 | Sourced funding rounds (`funding_rounds.csv`) | **129** |
 | Investors appearing in sourced rounds (`investors.csv`) | **119** |
@@ -27,19 +27,19 @@ Directory volume is driven by **CBN** payment-licence lists, **FCCPC** digital m
 
 | Field | Coverage |
 |---|---|
-| Website | 93/102 (91%) |
-| Founders | 89/102 (87%) |
-| CEO / lead | 64/102 (62%) |
-| High data confidence | 37/102 (36%) |
-| Opportunity angle for builders | 102/102 (100%) |
-| Company status | 102/102 (100%) |
-| Exit_Type (incl. None) | 102/102 (100%) |
-| Omnific_Hand_Motion | 102/102 (100%) |
-| Omnific_Hand_Rationale | 102/102 (100%) |
-| JTBD / ICP | 102/102 (100%) |
-| Peers | 102/102 (100%) |
-| Sector_Primary / Secondary | 102/102 (100%) |
-**Status / exit note:** Known public exits on the ranked sheet include Jumia (IPO 2019), Paystack to Stripe (2020), Brass to a Paystack-led consortium (2024), Mono to Flutterwave (2026), plus shutdowns for Okra (2025), 54gene (~2023), and Bundle Africa exchange (2023). Lemonade Finance is marked **Pivoted** (rebrand to LemFi; same entity as Rank 13). All other ranked rows are **Active** with `Exit_Type=None` unless a public exit source is found. Never invent exits.
+| Website | 101/101 (100%) |
+| Founders | 100/101 (99%) |
+| CEO / lead | 75/101 (74%) |
+| High data confidence | 37/101 (36%) |
+| Opportunity angle for builders | 101/101 (100%) |
+| Company status | 101/101 (100%) |
+| Exit_Type (incl. None) | 101/101 (100%) |
+| Omnific_Hand_Motion | 101/101 (100%) |
+| Omnific_Hand_Rationale | 101/101 (100%) |
+| JTBD / ICP | 101/101 (100%) |
+| Peers | 101/101 (100%) |
+| Sector_Primary / Secondary | 101/101 (100%) |
+**Status / exit note:** Known public exits on the ranked sheet include Jumia (IPO 2019), Paystack to Stripe (2020), Brass to a Paystack-led consortium (2024), Mono to Flutterwave (2026), plus shutdowns for Okra (2025), 54gene (~2023), and Bundle Africa exchange (2023). Lemonade Finance was **deduped into LemFi** (Directory alias; same May 2023 rebrand entity). LemFi remains the sole ranked row. All other ranked rows are **Active** with `Exit_Type=None` unless a public exit source is found. Never invent exits.
 
 **Omnific Hand note:** `Omnific_Hand_Motion` is scored for a small London ML/automation/product-tooling consultancy (not a bank). Most large licensed payments, agent networks, and capital-heavy platforms are `Clone_avoid`; vendor/partner motions dominate the rest.
 
@@ -106,7 +106,7 @@ CITATION.cff
 2. Figures may include equity and debt when press reported a combined total. See Methodology and per-row notes (especially Moove, VertoFX, Grey, Fincra).
 3. Valuations: only when publicly reported. Status is `Reported`, `Estimated_by_press`, or `Undisclosed`.
 4. **Ease_to_Replicate** is 1 (hardest) to 5 (easiest) for a small London digital consultancy / builder profile (ML, automation, product tooling), not for a bank with unlimited capital.
-5. Aliases merged where obvious (TeamApt -> Moniepoint, Appzone -> Zone, PayHippo -> Rivy, Paylater -> Carbon, Mkudi -> Nomba).
+5. Aliases merged where obvious (TeamApt -> Moniepoint, Appzone -> Zone, PayHippo -> Rivy, Paylater -> Carbon, Mkudi -> Nomba, Lemonade Finance -> LemFi).
 6. **Directory** holds everyone else we could identify from regulators or credible directories without inventing a funding total.
 
 Full detail: [`docs/methodology.md`](docs/methodology.md).

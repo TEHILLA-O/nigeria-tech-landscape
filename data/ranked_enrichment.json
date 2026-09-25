@@ -264,7 +264,7 @@
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning PalmPay unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
     "Latest_Round_Date": "2019-11",
     "Twitter_X_URL": "https://x.com/PalmPayNG",
-    "Research_Notes": "Company is Transsnet JV (Transsion + NetEase). Early CEO Greg Reeve widely cited at launch; Chika Nwosu is MD Nigeria. Individual 'founders' naming is inconsistent across press; left blank."
+    "Research_Notes": "Transsnet / Transsion-backed (JV). Public leadership names (e.g. launch-era Greg Reeve; Nigeria MD Chika Nwosu) are executives, not a clean public founder slate. Founders left blank per policy."
   },
   "Lumos Global": {
     "Website": "https://www.lumos-global.com",
@@ -393,8 +393,8 @@
   "LemFi": {
     "Website": "https://lemfi.com",
     "LinkedIn_URL": "https://www.linkedin.com/company/lemfi",
-    "Founders": "Ridwan Bello; Rian Bello",
-    "CEO_or_Lead": "",
+    "Founders": "Ridwan Olalere; Rian Cochran",
+    "CEO_or_Lead": "Ridwan Olalere",
     "HQ_City": "London",
     "HQ_Country": "UK / Nigeria-linked",
     "Operating_Countries": "UK; North America corridors; emerging-market payouts incl. Nigeria",
@@ -415,13 +415,14 @@
     "Risk_Flags": "AML; FX; licensing; corridor competition",
     "Opportunity_Angle_for_Builder": "Build payout partner orchestration, FX insight tooling, or compliance case management for remittance firms serving Nigeria corridors.",
     "Data_Confidence": "High",
-    "Source_URLs": "https://techcrunch.com/2025/01/13/lemfi-moves-remittances-further-into-asia-and-europe-with-53m-in-new-funding/; https://www.highlandeurope.com/lemfi-has-secured-53m-in-series-b-funding-led-by-highland-europe/",
+    "Source_URLs": "https://nairametrics.com/2025/05/31/nigerias-startups-raised-over-100-million-in-q1-2025-here-are-the-top-10-deals/; https://techcrunch.com/2025/01/13/lemfi-moves-remittances-further-into-asia-and-europe-with-53m-in-new-funding/; https://www.highlandeurope.com/lemfi-has-secured-53m-in-series-b-funding-led-by-highland-europe/; https://disruptafrica.com/2023/05/31/nigerias-lemonade-finance-rebrands-to-lemfi-as-it-expands-vision/; https://techcabal.com/2023/05/29/from-lemonade-finance-to-lemfi-international-payments-for-everyone/; https://www.ycombinator.com/companies/lemfi; https://www.prnewswire.com/news-releases/lemfi-raises-33-million-to-transform-financial-services-for-immigrants-everywhere-301908843.html",
     "Exit_Type": "None",
     "Acquirer": "",
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning LemFi unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning LemFi unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product. Former brand Lemonade Finance is the same entity; do not treat as a separate remittance target.",
+    "Research_Notes": "Formerly Lemonade Finance (rebranded May 2023; same legal/product entity). Canonical ranked row after 2026-09-25 dedupe \u2014 Lemonade Finance removed from Ranked and filed in Directory as alias. Do not double-count funding: LemFi Total_Disclosed_Funding_USD=85000000 is the cumulative disclosed figure; legacy Lemonade ranked total (32700000) overlapped and is retired. Pre-seed YC round kept under LemFi in funding_rounds."
   },
   "Helium Health": {
     "Website": "https://heliumhealth.com",
@@ -822,29 +823,6 @@
     "CEO_or_Lead": "Olumide Fayankin",
     "LinkedIn_URL": "https://www.linkedin.com/company/vendease",
     "Notable_Investors": "Partech Africa; TLcom Capital; Y Combinator"
-  },
-  "Lemonade Finance": {
-    "Website": "https://lemfi.com",
-    "Company_Status": "Pivoted",
-    "Business_Model": "B2B; B2C multi-currency",
-    "Target_Customers": "African businesses and individuals",
-    "Core_Products": "Multi-currency payments and accounts",
-    "Moat_Notes": "Cross-border rails and compliance dominate.",
-    "Replication_Capital_Intensity": "High",
-    "Replication_Time_Estimate": "Estimate: 6-12 mo product on partner EMI; years for own licences",
-    "Risk_Flags": "FX; AML; licensing",
-    "Opportunity_Angle_for_Builder": "Provide treasury dashboards or compliance case tools for multi-currency account providers.",
-    "Data_Confidence": "Med",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024; https://disruptafrica.com/2023/05/31/nigerias-lemonade-finance-rebrands-to-lemfi-as-it-expands-vision/; https://techcabal.com/2023/05/29/from-lemonade-finance-to-lemfi-international-payments-for-everyone/",
-    "Exit_Type": "None",
-    "Acquirer": "",
-    "Exit_Year": "",
-    "Exit_Source_URL": "https://disruptafrica.com/2023/05/31/nigerias-lemonade-finance-rebrands-to-lemfi-as-it-expands-vision/",
-    "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Lemonade Finance rebranded to LemFi (same entity as Rank 13). Treat as duplicate identity; do not build a parallel remittance bank. Sell compliance or ops tooling to licensed IMTOs instead.",
-    "Founders": "Ridwan Olalere; Rian Cochran",
-    "CEO_or_Lead": "Ridwan Olalere",
-    "Research_Notes": "DUPLICATE ENTITY RISK: Lemonade Finance rebranded to LemFi (May 2023). Rank 28 and Rank 13 (LemFi) are the same company; funding totals may overlap. Prefer LemFi as canonical; keep row with note until parent dedupes ranks."
   },
   "iROKOtv": {
     "Website": "https://irokotv.com",
@@ -1315,13 +1293,15 @@
     "Risk_Flags": "Agronomic; FX; plant capex",
     "Opportunity_Angle_for_Builder": "Sell yield forecasting, farmer payment rails, or quality inspection ML to processors.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://nairametrics.com/2025/02/25/top-10-nigerian-startups-by-funds-raised-in-2024/",
+    "Source_URLs": "https://nairametrics.com/2025/02/25/top-10-nigerian-startups-by-funds-raised-in-2024/; https://tomatojos.net/management-team/",
     "Exit_Type": "None",
     "Acquirer": "",
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Tomato Jos unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Tomato Jos unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
+    "Founders": "Mira Mehta",
+    "CEO_or_Lead": "Mira Mehta"
   },
   "Paystack": {
     "Website": "https://paystack.com",
@@ -1367,13 +1347,15 @@
     "Risk_Flags": "Capital markets; energy regs",
     "Opportunity_Angle_for_Builder": "Build credit assessment or project pipeline tools for climate finance platforms.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024",
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024; https://odysseyenergysolutions.com/about-us; https://techcrunch.com/2023/05/19/odyssey-energy-solutions-series-a-seven-months/",
     "Exit_Type": "None",
     "Acquirer": "",
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Odyssey Energy Solutions unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Odyssey Energy Solutions unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
+    "Founders": "Emily McAteer; Piyush Mathur",
+    "CEO_or_Lead": "Emily McAteer"
   },
   "Field": {
     "Website": "https://www.field.inc",
@@ -1465,13 +1447,14 @@
     "Risk_Flags": "Credit; FX; energy regs",
     "Opportunity_Angle_for_Builder": "Sell portfolio risk models or remote asset verification to energy financiers.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://nithio.com; https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024",
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024; https://nithio.com; https://nithio.com/team/; https://mcj.vc/inevitable-podcast/nithio; https://nithio.com/nithio-selected-as-one-of-world-economic-forums-technology-pioneers/",
     "Exit_Type": "None",
     "Acquirer": "",
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Nithio unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Nithio unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
+    "Founders": "Bobby Pittman; Queen Chinyere Quinn; Kate Steel"
   },
   "Zone": {
     "Website": "https://zone.ng",
@@ -1653,13 +1636,15 @@
     "Risk_Flags": "Bank partners; FX",
     "Opportunity_Angle_for_Builder": "High fit: expense automation, invoice OCR, and accounting sync for SME banking apps.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://www.tryduplo.com/; https://www.ycombinator.com/companies",
+    "Source_URLs": "Africa press seed round summaries (~$4.3M); https://www.tryduplo.com/; https://www.ycombinator.com/companies; https://tryduplo.com/about-us/",
     "Exit_Type": "None",
     "Acquirer": "",
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Duplo unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Duplo unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
+    "Founders": "Yele Oyekola; Tunde Akinnuwa",
+    "CEO_or_Lead": "Yele Oyekola"
   },
   "Risevest": {
     "Website": "https://risevest.com",
@@ -1711,7 +1696,7 @@
     "Hiring_Signal": "Unknown"
   },
   "Aladdin Digital Bank": {
-    "Website": "",
+    "Website": "https://www.aladdin.ng",
     "Company_Status": "Active",
     "Business_Model": "B2C digital bank",
     "Target_Customers": "Underserved Africans",
@@ -1722,7 +1707,7 @@
     "Risk_Flags": "Regulation; capital",
     "Opportunity_Angle_for_Builder": "Sell compliance and onboarding automation to aspiring digital banks.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2022; https://www.startuplist.africa/startups/aladdin-digital-bank; https://www.startuplist.africa/people/darlington-onyeagoro",
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2022; https://www.startuplist.africa/startups/aladdin-digital-bank; https://www.startuplist.africa/people/darlington-onyeagoro; https://nairametrics.com/2022/05/17/how-aladdin-digital-bank-is-strengthening-africas-smb-economy/; https://www.startuplist.africa/startup/aladdin-digital-bank",
     "Exit_Type": "None",
     "Acquirer": "",
     "Exit_Year": "",
@@ -1730,7 +1715,7 @@
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Aladdin Digital Bank unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
     "Founders": "Darlington Onyeagoro; Avi Umukoro",
-    "Research_Notes": "Website URL from StartupList; verify live."
+    "Research_Notes": "Website widely cited as www.aladdin.ng (Nairametrics, StartupList). Live fetch intermittently empty/unreachable from some networks; URL retained as public canonical."
   },
   "Rivy": {
     "Website": "https://payhippo.africa",
@@ -2074,7 +2059,7 @@
     "CEO_or_Lead": "Onyeka Akumah"
   },
   "Vesti": {
-    "Website": "",
+    "Website": "https://wevesti.com",
     "Company_Status": "Active",
     "Business_Model": "B2C immigration fintech",
     "Target_Customers": "African immigrants",
@@ -2085,13 +2070,15 @@
     "Risk_Flags": "IMTO/payments partners; compliance",
     "Opportunity_Angle_for_Builder": "Sell document automation or immigration checklist products adjacent to immigrant fintech.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/",
+    "Source_URLs": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/; https://wevesti.com/; https://www.techcityng.com/vesti-app-a-redefining-solution-for-peer-to-peer-payments-and-more-courtesy-of-the-amusan-brothers/; https://techmoney.com.ng/index.php/2022/05/28/techstars-backed-nigerian-fintech-vesti/",
     "Exit_Type": "None",
     "Acquirer": "",
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Vesti unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Vesti unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
+    "Founders": "Olusola Amusan; Abimbola Amusan",
+    "CEO_or_Lead": "Olusola Amusan"
   },
   "Renda": {
     "Website": "https://renda.co",
@@ -2170,13 +2157,15 @@
     "Risk_Flags": "Clinical sales; data privacy",
     "Opportunity_Angle_for_Builder": "High Omnific fit: accent ASR, clinical NLP, EHR voice plugins.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024",
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024; https://techcrunch.com/2024/07/25/intron-health-raises-1-6m-pre-seed/; https://disruptafrica.com/2024/08/13/how-nigerias-intron-health-is-bridging-the-gap-in-speech-recognition-for-minorities-in-healthcare/",
     "Exit_Type": "None",
     "Acquirer": "",
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Partner",
-    "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with Intron Health on integrations, model ops, or vertical workflows without competing head-on."
+    "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with Intron Health on integrations, model ops, or vertical workflows without competing head-on.",
+    "Founders": "Tobi Olatunji; Olakunle Asekun",
+    "CEO_or_Lead": "Tobi Olatunji"
   },
   "Accrue": {
     "Website": "https://accrue.finance",
@@ -2265,7 +2254,7 @@
     "CEO_or_Lead": "Rotimi Thomas"
   },
   "Payday": {
-    "Website": "",
+    "Website": "https://www.usepayday.com",
     "Company_Status": "Active",
     "Business_Model": "B2C global accounts",
     "Target_Customers": "African remote workers",
@@ -2276,13 +2265,16 @@
     "Risk_Flags": "AML; partner EMI",
     "Opportunity_Angle_for_Builder": "Same remote-work fintech ISV opportunities.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.tekedia.com/mono-raises-15m-in-series-a-as-payday-secures-1m-seed-fund/",
+    "Source_URLs": "https://www.tekedia.com/mono-raises-15m-in-series-a-as-payday-secures-1m-seed-fund/; https://www.startuplist.africa/startup/payday; https://thecondia.com/payday-raise-3-million-seed-funding/; https://businesspost.ng/technology/software-engineer-favour-ori-disrupts-fintech-space-with-payday/",
     "Exit_Type": "None",
     "Acquirer": "",
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Sell_to",
-    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Payday as a vendor (recon, KYC, collections, logistics, support), not a clone."
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Payday as a vendor (recon, KYC, collections, logistics, support), not a clone.",
+    "Founders": "Favour Ori",
+    "CEO_or_Lead": "Favour Ori",
+    "Research_Notes": "Website usepayday.com cited by StartupList/press; HTTP intermittently failing after reported Bitmama/Changera acquisition \u2014 URL kept as last public site. Founder Favour Ori consistently named; later co-founding-team adds not treated as original founders."
   },
   "Talstack": {
     "Website": "https://www.talstack.com",
@@ -2306,7 +2298,7 @@
     "Founders": "Seni Sulyman; Kayode Oyewole"
   },
   "Agriarche": {
-    "Website": "",
+    "Website": "https://agriarche.com",
     "Company_Status": "Active",
     "Business_Model": "B2B ag logistics",
     "Target_Customers": "Farmers needing storage/logistics",
@@ -2317,7 +2309,7 @@
     "Risk_Flags": "Debt; ops; commodity",
     "Opportunity_Angle_for_Builder": "Sell warehouse IoT and inventory finance tooling.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://nairametrics.com/2025/05/31/nigerias-startups-raised-over-100-million-in-q1-2025-here-are-the-top-10-deals/",
+    "Source_URLs": "https://nairametrics.com/2025/05/31/nigerias-startups-raised-over-100-million-in-q1-2025-here-are-the-top-10-deals/; https://agriarche.com/",
     "Exit_Type": "None",
     "Acquirer": "",
     "Exit_Year": "",
@@ -2361,14 +2353,15 @@
     "Risk_Flags": "Shutdown; crypto regs",
     "Opportunity_Angle_for_Builder": "Study as failure mode; prefer compliant stablecoin B2B rails.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://linkedin.com/company/bundle-africa; https://www.linkedin.com/company/bundle-africa; https://techcabal.com/ (Bundle shutdown coverage - verify)",
+    "Source_URLs": "https://linkedin.com/company/bundle-africa; https://www.linkedin.com/company/bundle-africa; https://techcabal.com/ (Bundle shutdown coverage - verify); https://en.wikipedia.org/wiki/Bundle_Africa; https://technext24.com/news/yele-bademosi-steps-down-as-bundle-africa-ceo-emmanuel-babalola-takes-over/",
     "Exit_Type": "Shutdown",
     "Acquirer": "",
     "Exit_Year": "2023",
     "Exit_Source_URL": "https://techcabal.com/2023/07/22/bundle-africa-shuts-down-its-exchange-platform/",
     "Omnific_Hand_Motion": "Adjacent_tooling",
     "Omnific_Hand_Rationale": "Bundle Africa is shut down or wound down per public sources. Do not clone. Mine the category gap for adjacent tooling sold to remaining operators.",
-    "Research_Notes": "Widely reported shutdown 2023; keep historical funding only."
+    "Research_Notes": "Widely reported shutdown 2023; keep historical funding only.",
+    "Founders": "Yele Bademosi"
   },
   "Crop2Cash": {
     "Website": "https://crop2cash.com.ng",
@@ -2394,7 +2387,7 @@
     "Founders": "Michael Ogundare; Seyi Paul"
   },
   "Carbin Africa": {
-    "Website": "",
+    "Website": "https://carbin.africa",
     "Company_Status": "Active",
     "Business_Model": "B2B marketplace",
     "HQ_City": "Lagos",
@@ -2407,16 +2400,18 @@
     "Risk_Flags": "Trust; fraud; liquidity",
     "Opportunity_Angle_for_Builder": "Direct build niche; or sell VIN/fraud checks and dealer CRM.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/",
+    "Source_URLs": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/; https://carbin.africa/; https://thecondia.com/carbin-africa-hits-%E2%82%A61bn-gmv/; https://www.techinafrica.com/how-carbin-africa-is-revolutionizing-nigerias-automotive-market-with-data-driven-solutions/",
     "Exit_Type": "None",
     "Acquirer": "",
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Sell_to",
-    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Carbin Africa as a vendor (recon, KYC, collections, logistics, support), not a clone."
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Carbin Africa as a vendor (recon, KYC, collections, logistics, support), not a clone.",
+    "Founders": "Femi Oriowo; Fawaz Abdul",
+    "CEO_or_Lead": "Femi Oriowo"
   },
   "Earthbond": {
-    "Website": "",
+    "Website": "https://www.earthbond.co",
     "Company_Status": "Active",
     "Business_Model": "B2B climate fintech",
     "Target_Customers": "Solar financiers and communities",
@@ -2427,16 +2422,18 @@
     "Risk_Flags": "Guarantee risk; carbon market integrity",
     "Opportunity_Angle_for_Builder": "Build MRV (measurement/reporting/verification) tooling for climate finance.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024",
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024; https://www.earthbond.co/; https://greentownlabs.com/members/earthbond/; https://greentownlabs.com/earthbond-empowers-under-grided-nigerian-businesses-with-affordable-solar-energy/",
     "Exit_Type": "None",
     "Acquirer": "",
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Sell_to",
-    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Earthbond as a vendor (recon, KYC, collections, logistics, support), not a clone."
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Earthbond as a vendor (recon, KYC, collections, logistics, support), not a clone.",
+    "Founders": "Chidalu Onyenso",
+    "CEO_or_Lead": "Chidalu Onyenso"
   },
   "Zebra CropBank": {
-    "Website": "",
+    "Website": "https://zebracropbank.com",
     "Company_Status": "Active",
     "Business_Model": "B2B ag storage / finance",
     "HQ_City": "Abuja",
@@ -2449,16 +2446,18 @@
     "Risk_Flags": "Commodity; warehouse regs",
     "Opportunity_Angle_for_Builder": "Sell warehouse inventory systems and receipt digitization.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024",
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024; https://zebracropbank.com/; https://acumen.org/blog/zebra-cropbanks-1960s-inspired-vision-for-nigerian-agriculture/",
     "Exit_Type": "None",
     "Acquirer": "",
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Sell_to",
-    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Zebra CropBank as a vendor (recon, KYC, collections, logistics, support), not a clone."
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Zebra CropBank as a vendor (recon, KYC, collections, logistics, support), not a clone.",
+    "Founders": "Buffy Okeke-Ojiudu",
+    "CEO_or_Lead": "Buffy Okeke-Ojiudu"
   },
   "Mira": {
-    "Website": "",
+    "Website": "https://usemira.com",
     "Company_Status": "Active",
     "Business_Model": "B2B payments / POS",
     "Target_Customers": "Restaurants and vendors",
@@ -2469,13 +2468,15 @@
     "Risk_Flags": "PSP dependency; merchant acquisition",
     "Opportunity_Angle_for_Builder": "Direct build niche for hospitality POS; or sell menu/order ML add-ons.",
     "Data_Confidence": "Med",
-    "Source_URLs": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/",
+    "Source_URLs": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/; https://usemira.com/; https://thecondia.com/mira-register-digitise-food-retail-businesses-africa/; https://techcabal.com/2024/09/02/mira-recipe-for-differentiation/",
     "Exit_Type": "None",
     "Acquirer": "",
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Sell_to",
-    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Mira as a vendor (recon, KYC, collections, logistics, support), not a clone."
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Mira as a vendor (recon, KYC, collections, logistics, support), not a clone.",
+    "Founders": "Ted Oladele",
+    "CEO_or_Lead": "Ted Oladele"
   },
   "Pullus Africa": {
     "Website": "https://pullus.africa",
@@ -2526,7 +2527,7 @@
     "CEO_or_Lead": "Wole Ayodele"
   },
   "Trade Lenda": {
-    "Website": "",
+    "Website": "https://tradelenda.com",
     "Company_Status": "Active",
     "Business_Model": "B2B digital bank / credit",
     "Target_Customers": "Underserved MSMEs",
@@ -2537,14 +2538,15 @@
     "Risk_Flags": "Regulation; capital",
     "Opportunity_Angle_for_Builder": "Sell MSME underwriting and compliance tooling.",
     "Data_Confidence": "Low",
-    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024",
+    "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024; https://tradelenda.com/about_us; https://techmoran.com/2023/02/13/nigerias-trade-lenda-building-a-digital-bank-for-the-underserved/",
     "Exit_Type": "None",
     "Acquirer": "",
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Trade Lenda unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
-    "Founders": "Oluwatosin Ayodele"
+    "Founders": "Adeshina Adewumi; Shina Arogundade; Oluwatosin Ayodele",
+    "CEO_or_Lead": "Adeshina Adewumi"
   },
   "VertoFX": {
     "Website": "https://vertofx.com",

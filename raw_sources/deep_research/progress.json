@@ -15,8 +15,8 @@
       "LinkedIn_URL": "https://www.linkedin.com/company/palmpay",
       "Twitter_X_URL": "https://x.com/PalmPayNG",
       "Data_Confidence": "High",
-      "Source_URLs": "https://techcrunch.com/2019/11/12/palmpay-launches-in-nigeria-on-40m-round-led-by-chinas-transsion/; https://en.wikipedia.org/wiki/PalmPay; https://technext24.com/interview/palmpays-revolutionary-banking-drive/",
-      "Research_Notes": "Company is Transsnet JV (Transsion + NetEase). Early CEO Greg Reeve widely cited at launch; Chika Nwosu is MD Nigeria. Individual 'founders' naming is inconsistent across press; left blank."
+      "Source_URLs": "https://linkedin.com/company/palmpay; https://techcrunch.com/2025/06/05/profitable-african-fintech-palmpay-is-in-talks-to-raise-as-much-as-100m/; https://www.linkedin.com/company/palmpay; https://techcrunch.com/2019/11/12/palmpay-launches-in-nigeria-on-40m-round-led-by-chinas-transsion/; https://en.wikipedia.org/wiki/PalmPay; https://technext24.com/interview/palmpays-revolutionary-banking-drive/",
+      "Research_Notes": "Transsnet / Transsion-backed (JV). Public leadership names (e.g. launch-era Greg Reeve; Nigeria MD Chika Nwosu) are executives, not a clean public founder slate. Founders left blank per policy."
     },
     "Lumos Global": {
       "Website": "https://www.lumos-global.com/",
@@ -136,11 +136,9 @@
       "Website": "https://lemfi.com",
       "Founders": "Ridwan Olalere; Rian Cochran",
       "CEO_or_Lead": "Ridwan Olalere",
-      "Company_Status": "Rebranded to LemFi (same entity)",
-      "Exit_Type": "None",
-      "Research_Notes": "DUPLICATE ENTITY RISK: Lemonade Finance rebranded to LemFi (May 2023). Rank 28 and Rank 13 (LemFi) are the same company; funding totals may overlap. Prefer LemFi as canonical; keep row with note until parent dedupes ranks.",
-      "Data_Confidence": "Med",
-      "Source_URLs": "https://disruptafrica.com/2023/05/31/nigerias-lemonade-finance-rebrands-to-lemfi-as-it-expands-vision/; https://techcabal.com/2023/05/29/from-lemonade-finance-to-lemfi-international-payments-for-everyone/"
+      "Company_Status": "Pivoted",
+      "Research_Notes": "MERGED 2026-09-25 into canonical LemFi ranked row. Not separately ranked. Alias only in Directory.",
+      "Source_URLs": "https://disruptafrica.com/2023/05/31/nigerias-lemonade-finance-rebrands-to-lemfi-as-it-expands-vision/; https://techcabal.com/2023/05/29/from-lemonade-finance-to-lemfi-international-payments-for-everyone/; https://www.ycombinator.com/companies/lemfi; https://www.prnewswire.com/news-releases/lemfi-raises-33-million-to-transform-financial-services-for-immigrants-everywhere-301908843.html"
     },
     "Beacon Power Services": {
       "Website": "https://beaconpowerservices.com",
@@ -372,11 +370,11 @@
       "Source_URLs": "https://seamfix.com; https://en.wikipedia.org/wiki/Seamfix; https://guardian.ng/business-services/business/seamfix-celebrates-17-years-of-empowering-identity-trust/"
     },
     "Aladdin Digital Bank": {
-      "Website": "",
+      "Website": "https://www.aladdin.ng",
       "Founders": "Darlington Onyeagoro; Avi Umukoro",
       "Data_Confidence": "Low",
-      "Source_URLs": "https://www.startuplist.africa/startups/aladdin-digital-bank; https://www.startuplist.africa/people/darlington-onyeagoro",
-      "Research_Notes": "Website URL from StartupList; verify live. Website aladdin.ng returned empty/unreliable; left blank."
+      "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2022; https://www.startuplist.africa/startups/aladdin-digital-bank; https://www.startuplist.africa/people/darlington-onyeagoro; https://nairametrics.com/2022/05/17/how-aladdin-digital-bank-is-strengthening-africas-smb-economy/; https://www.startuplist.africa/startup/aladdin-digital-bank",
+      "Research_Notes": "Website widely cited as www.aladdin.ng (Nairametrics, StartupList). Live fetch intermittently empty/unreachable from some networks; URL retained as public canonical."
     },
     "Rivy": {
       "Website": "https://www.rivy.co",
@@ -422,8 +420,9 @@
       "Exit_Type": "Shutdown",
       "Exit_Year": "2023",
       "Data_Confidence": "Med",
-      "Source_URLs": "https://techcabal.com/ (Bundle shutdown coverage - verify)",
-      "Research_Notes": "Widely reported shutdown 2023; keep historical funding only."
+      "Source_URLs": "https://linkedin.com/company/bundle-africa; https://www.linkedin.com/company/bundle-africa; https://techcabal.com/ (Bundle shutdown coverage - verify); https://en.wikipedia.org/wiki/Bundle_Africa; https://technext24.com/news/yele-bademosi-steps-down-as-bundle-africa-ceo-emmanuel-babalola-takes-over/",
+      "Research_Notes": "Widely reported shutdown 2023; keep historical funding only.",
+      "Founders": "Yele Bademosi"
     },
     "Jumia": {
       "Exit_Type": "IPO",
@@ -635,23 +634,37 @@
     },
     "Duplo": {
       "Website": "https://www.duplo.africa",
-      "Data_Confidence": "Low"
+      "Data_Confidence": "Low",
+      "Founders": "Yele Oyekola; Tunde Akinnuwa",
+      "CEO_or_Lead": "Yele Oyekola",
+      "Source_URLs": "https://www.tryduplo.com/; https://www.ycombinator.com/companies; https://tryduplo.com/about-us/"
     },
     "Intron Health": {
       "Website": "https://intron.io",
-      "Data_Confidence": "Low"
+      "Data_Confidence": "Low",
+      "Founders": "Tobi Olatunji; Olakunle Asekun",
+      "CEO_or_Lead": "Tobi Olatunji",
+      "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024; https://techcrunch.com/2024/07/25/intron-health-raises-1-6m-pre-seed/; https://disruptafrica.com/2024/08/13/how-nigerias-intron-health-is-bridging-the-gap-in-speech-recognition-for-minorities-in-healthcare/"
     },
     "Agriarche": {
       "Founders": "Deina Mayaki; Nancy Chinemerem Nwaka",
-      "Data_Confidence": "Low"
+      "Data_Confidence": "Low",
+      "Website": "https://agriarche.com",
+      "Source_URLs": "https://nairametrics.com/2025/05/31/nigerias-startups-raised-over-100-million-in-q1-2025-here-are-the-top-10-deals/; https://agriarche.com/"
     },
     "Trade Lenda": {
-      "Founders": "Oluwatosin Ayodele",
-      "Data_Confidence": "Low"
+      "Founders": "Adeshina Adewumi; Shina Arogundade; Oluwatosin Ayodele",
+      "Data_Confidence": "Low",
+      "Website": "https://tradelenda.com",
+      "CEO_or_Lead": "Adeshina Adewumi",
+      "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024; https://tradelenda.com/about_us; https://techmoran.com/2023/02/13/nigerias-trade-lenda-building-a-digital-bank-for-the-underserved/"
     },
     "Odyssey Energy Solutions": {
       "Website": "https://odysseyenergysolutions.com",
-      "Data_Confidence": "Low"
+      "Data_Confidence": "Low",
+      "Founders": "Emily McAteer; Piyush Mathur",
+      "CEO_or_Lead": "Emily McAteer",
+      "Source_URLs": "https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024; https://odysseyenergysolutions.com/about-us; https://techcrunch.com/2023/05/19/odyssey-energy-solutions-series-a-seven-months/"
     },
     "Winich Farms": {
       "Website": "https://winichfarms.com",
@@ -660,7 +673,9 @@
     },
     "Nithio": {
       "Website": "https://nithio.com",
-      "Data_Confidence": "Low"
+      "Data_Confidence": "Low",
+      "Founders": "Bobby Pittman; Queen Chinyere Quinn; Kate Steel",
+      "Source_URLs": "https://nithio.com; https://www.startuplist.africa/lists/top-funded-nigeria-startups-2024; https://nithio.com/team/; https://mcj.vc/inevitable-podcast/nithio; https://nithio.com/nithio-selected-as-one-of-world-economic-forums-technology-pioneers/"
     },
     "SeamlessHR": {
       "Website": "https://seamlesshr.com",
@@ -678,6 +693,55 @@
       "Website": "https://www.piggyvest.com",
       "Careers_URL": "https://www.piggyvest.com/careers",
       "Hiring_Signal": "Unknown"
+    },
+    "LemFi": {
+      "Website": "https://lemfi.com",
+      "Founders": "Ridwan Olalere; Rian Cochran",
+      "CEO_or_Lead": "Ridwan Olalere",
+      "Research_Notes": "Formerly Lemonade Finance (rebranded May 2023; same legal/product entity). Canonical ranked row after 2026-09-25 dedupe \u2014 Lemonade Finance removed from Ranked and filed in Directory as alias. Do not double-count funding: LemFi Total_Disclosed_Funding_USD=85000000 is the cumulative disclosed figure; legacy Lemonade ranked total (32700000) overlapped and is retired. Pre-seed YC round kept under LemFi in funding_rounds.",
+      "Source_URLs": "https://techcrunch.com/2025/01/13/lemfi-moves-remittances-further-into-asia-and-europe-with-53m-in-new-funding/; https://www.highlandeurope.com/lemfi-has-secured-53m-in-series-b-funding-led-by-highland-europe/; https://disruptafrica.com/2023/05/31/nigerias-lemonade-finance-rebrands-to-lemfi-as-it-expands-vision/; https://techcabal.com/2023/05/29/from-lemonade-finance-to-lemfi-international-payments-for-everyone/; https://www.ycombinator.com/companies/lemfi; https://www.prnewswire.com/news-releases/lemfi-raises-33-million-to-transform-financial-services-for-immigrants-everywhere-301908843.html"
+    },
+    "Vesti": {
+      "Website": "https://wevesti.com",
+      "Founders": "Olusola Amusan; Abimbola Amusan",
+      "CEO_or_Lead": "Olusola Amusan",
+      "Source_URLs": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/; https://wevesti.com/; https://www.techcityng.com/vesti-app-a-redefining-solution-for-peer-to-peer-payments-and-more-courtesy-of-the-amusan-brothers/; https://techmoney.com.ng/index.php/2022/05/28/techstars-backed-nigerian-fintech-vesti/"
+    },
+    "Payday": {
+      "Website": "https://www.usepayday.com",
+      "Founders": "Favour Ori",
+      "CEO_or_Lead": "Favour Ori",
+      "Source_URLs": "https://www.tekedia.com/mono-raises-15m-in-series-a-as-payday-secures-1m-seed-fund/; https://www.startuplist.africa/startup/payday; https://thecondia.com/payday-raise-3-million-seed-funding/; https://businesspost.ng/technology/software-engineer-favour-ori-disrupts-fintech-space-with-payday/",
+      "Research_Notes": "Website usepayday.com cited by StartupList/press; HTTP intermittently failing after reported Bitmama/Changera acquisition \u2014 URL kept as last public site. Founder Favour Ori consistently named; later co-founding-team adds not treated as original founders."
+    },
+    "Carbin Africa": {
+      "Website": "https://carbin.africa",
+      "Founders": "Femi Oriowo; Fawaz Abdul",
+      "CEO_or_Lead": "Femi Oriowo",
+      "Source_URLs": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/; https://carbin.africa/; https://thecondia.com/carbin-africa-hits-%E2%82%A61bn-gmv/; https://www.techinafrica.com/how-carbin-africa-is-revolutionizing-nigerias-automotive-market-with-data-driven-solutions/"
+    },
+    "Earthbond": {
+      "Website": "https://www.earthbond.co",
+      "Founders": "Chidalu Onyenso",
+      "CEO_or_Lead": "Chidalu Onyenso",
+      "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024; https://www.earthbond.co/; https://greentownlabs.com/members/earthbond/; https://greentownlabs.com/earthbond-empowers-under-grided-nigerian-businesses-with-affordable-solar-energy/"
+    },
+    "Zebra CropBank": {
+      "Website": "https://zebracropbank.com",
+      "Founders": "Buffy Okeke-Ojiudu",
+      "CEO_or_Lead": "Buffy Okeke-Ojiudu",
+      "Source_URLs": "https://www.startuplist.africa/lists/top-funded-fintech-startups-in-nigeria-2024; https://zebracropbank.com/; https://acumen.org/blog/zebra-cropbanks-1960s-inspired-vision-for-nigerian-agriculture/"
+    },
+    "Mira": {
+      "Website": "https://usemira.com",
+      "Founders": "Ted Oladele",
+      "CEO_or_Lead": "Ted Oladele",
+      "Source_URLs": "https://technext24.com/explainer/10-nigerian-startups-to-watch-in-2025/; https://usemira.com/; https://thecondia.com/mira-register-digitise-food-retail-businesses-africa/; https://techcabal.com/2024/09/02/mira-recipe-for-differentiation/"
+    },
+    "Tomato Jos": {
+      "Founders": "Mira Mehta",
+      "CEO_or_Lead": "Mira Mehta",
+      "Source_URLs": "https://nairametrics.com/2025/02/25/top-10-nigerian-startups-by-funds-raised-in-2024/; https://tomatojos.net/management-team/"
     }
   }
 }
