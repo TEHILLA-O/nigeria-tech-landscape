@@ -101,3 +101,11 @@ Outputs: enriched CSVs, `funding_rounds.csv`, `investors.csv`, `companies_enrich
 ## Change policy
 
 When adding a company or changing a funding cell, include a `Source_URLs` entry and update `Last_Verified_Date`. See `CONTRIBUTING.md`.
+
+
+## Status, exits, and Omnific Hand motions (2026-09-25)
+
+- `Company_Status` / `Exit_Type` are filled only from public sources. Unknown exits stay `Active` + `Exit_Type=None`.
+- `Omnific_Hand_Motion` judges a small London ML/automation consultancy, not a bank: `Clone_avoid`, `Sell_to`, `Partner`, or `Adjacent_tooling`.
+- Facelift columns (JTBD, ICP, Peers, Sector_Primary/Secondary, licence depth, last signal) are best-effort public research. Ticket sizes default to `Unknown` unless public.
+- Paid Crunchbase/Tracxn merges remain blocked without a licensed export (`data/imports/`).

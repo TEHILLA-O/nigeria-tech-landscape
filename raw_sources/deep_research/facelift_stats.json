@@ -1,0 +1,17 @@
+{
+  "ranked": 102,
+  "website": 94,
+  "founders": 89,
+  "ceo": 64,
+  "linkedin": 51,
+  "high_conf": 37,
+  "exit_type": 102,
+  "omnific": 102,
+  "jtbd": 102,
+  "peers": 102,
+  "sector_primary": 102,
+  "rounds": 129,
+  "investors": 119,
+  "sqlite": "/workspace/nigeria-tech-report/data/nigeria_tech_landscape.sqlite",
+  "dashboard": "/workspace/nigeria-tech-report/docs/dashboard/index.html"
+}

@@ -1,0 +1,683 @@
+{
+  "updated": "2026-09-25",
+  "notes": "Deep research pass on Ranked_Disclosed 1-102. Prefer blank over guess.",
+  "companies": {
+    "PalmPay": {
+      "Founders": "",
+      "CEO_or_Lead": "Chika Nwosu (MD PalmPay Nigeria)",
+      "Notable_Investors": "Transsion; NetEase; MediaTek (seed press)",
+      "Latest_Round_Type": "Seed",
+      "Latest_Round_Amount_USD": "40000000",
+      "Latest_Round_Date": "2019-11",
+      "Licence_Types_Held": "CBN payments / MMO-class (verify current CBN PSP list)",
+      "Key_Competitors": "OPay; Moniepoint; Paga; FairMoney; Kuda",
+      "Employee_Range": "",
+      "LinkedIn_URL": "https://www.linkedin.com/company/palmpay",
+      "Twitter_X_URL": "https://x.com/PalmPayNG",
+      "Data_Confidence": "High",
+      "Source_URLs": "https://techcrunch.com/2019/11/12/palmpay-launches-in-nigeria-on-40m-round-led-by-chinas-transsion/; https://en.wikipedia.org/wiki/PalmPay; https://technext24.com/interview/palmpays-revolutionary-banking-drive/",
+      "Research_Notes": "Company is Transsnet JV (Transsion + NetEase). Early CEO Greg Reeve widely cited at launch; Chika Nwosu is MD Nigeria. Individual 'founders' naming is inconsistent across press; left blank."
+    },
+    "Lumos Global": {
+      "Website": "https://www.lumos-global.com/",
+      "LinkedIn_URL": "https://www.linkedin.com/company/lumos-global",
+      "Founders": "Nir Marom; Davidi Vortman",
+      "CEO_or_Lead": "Alistair Gordon (Group CEO, press 2020); Ren\u00e9e Como\u00eb Seka listed as CEO on LinkedIn (verify current)",
+      "HQ_City": "Amstelveen (group) / Lagos ops",
+      "HQ_Country": "Netherlands / Nigeria",
+      "Notable_Investors": "DFC; FMO; OPIC (historical); Pembani Remgro; All On; MTN (partner)",
+      "Latest_Round_Type": "Debt / DFI facility",
+      "Latest_Round_Amount_USD": "35000000",
+      "Latest_Round_Date": "2020-09",
+      "Key_Competitors": "d.light; PEG Africa; Arnergy; Starsight Energy",
+      "Data_Confidence": "High",
+      "Source_URLs": "https://www.lumos-global.com/; https://www.pv-magazine.com/2020/09/29/lumos-receives-35-million-from-dfc-to-expand-renewable-energy-access-to-over-1-million-nigerians/; https://www.howwemadeitinafrica.com/p/the-journey-so-far-nir-marom-co-founder-and-president-lumos-global; https://ashden.org/awards/winners/lumos-global/",
+      "Research_Notes": "Adam Howard sometimes listed as co-founder in secondary profiles; primary interviews emphasize Nir Marom and Davidi Vortman. CEO title appears to have changed over time."
+    },
+    "iSON Xperiences": {
+      "Website": "https://isonxperiences.com/",
+      "LinkedIn_URL": "https://www.linkedin.com/company/isonxperiences",
+      "Founders": "Pravin Kumar",
+      "CEO_or_Lead": "Vitul Kwatra (Global CEO from 2024); Pravin Kumar (founder, Vice-Chairman)",
+      "HQ_City": "Dubai (HQ) / Nigeria ops (Ibadan, Abeokuta, Ilorin)",
+      "HQ_Country": "UAE / Nigeria",
+      "Employee_Range": "10001+",
+      "Key_Competitors": "Other African CXM/BPO providers",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://isonxperiences.com/about-us/; https://www.startuplist.africa/people/pravin-kumar; https://www.outsourceaccelerator.com/company/ison-xperiences/",
+      "Product_Summary": "Global customer experience management and BPO provider with major Nigeria delivery centres serving telecom, BFSI, and enterprise clients across Africa and EMEA."
+    },
+    "54gene": {
+      "Website": "https://www.54gene.com",
+      "Founders": "Abasi Ene-Obong; Ogochukwu Francis Osifo; Gatumi Aliyu; Damilola Oni",
+      "CEO_or_Lead": "Abasi Ene-Obong (founder/CEO until Oct 2022); company later wound down",
+      "Company_Status": "Shut down / wound down (press; ~2023)",
+      "Notable_Investors": "Y Combinator; Adjuvant Capital; Cathay Innovation; Fifty Years; Endeavor",
+      "Latest_Round_Type": "Series B",
+      "Latest_Round_Amount_USD": "25000000",
+      "Latest_Round_Date": "2021-09",
+      "Key_Competitors": "Syndicate Bio (successor venture by founder); other genomics players",
+      "Data_Confidence": "High",
+      "LinkedIn_URL": "https://www.linkedin.com/company/54gene",
+      "Source_URLs": "https://www.ycombinator.com/companies/54gene; https://en.wikipedia.org/wiki/Abasi_Ene-Obong; https://www.startuplist.africa/startups/54gene",
+      "Research_Notes": "YC lists Inactive. Wikipedia notes cessation ~2023. Website may be inactive; keep last known URL. Series B $25M often reported as part of ~$45M total; verify round split vs Series A $15M."
+    },
+    "Wakanow": {
+      "Website": "https://www.wakanow.com",
+      "Founders": "Obinna Ekezie; Ralph Tamuno",
+      "CEO_or_Lead": "Adenike Macaulay (CEO Wakanow Nigeria, from 2023); Bayo Adedeji (Group CEO, press)",
+      "LinkedIn_URL": "https://www.linkedin.com/company/wakanow",
+      "Key_Competitors": "Travelstart; Expedia; Booking.com; local OTAs",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://www.wakanow.com; https://thenextweb.com/news/interview-with-obinna-ekezie-former-nba-player-and-ceo-wakanow-com-a-travel-reservation-website; https://investdata.com.ng/wakanow-group-names-adenike-macaulay-as-ceo-of-nigerian-arm/"
+    },
+    "ThriveAgric": {
+      "Website": "https://thriveagric.com",
+      "Founders": "Uka Eje",
+      "CEO_or_Lead": "Uka Eje",
+      "LinkedIn_URL": "https://www.linkedin.com/company/thriveagric",
+      "Key_Competitors": "Farmcrowdy; Crop2Cash; Hello Tractor",
+      "Data_Confidence": "Med",
+      "Last_Signal_Date": "2026-08",
+      "Last_Signal_Type": "Funding",
+      "Last_Signal_URL": "https://thriveagric.com/resources/hectare/thrive-agric-records-successful-oversubscribed-debut-with-5-3-billion-commercial-paper-issuance",
+      "Source_URLs": "https://thriveagric.com/management; https://restofworld.org/2023/3-minutes-with-uka-eje/; https://thriveagric.com/resources/hectare/thrive-agric-records-successful-oversubscribed-debut-with-5-3-billion-commercial-paper-issuance",
+      "Product_Summary": "Tech-enabled network connecting smallholder farmers to financing, inputs, data services, and commodity offtake across Nigerian states."
+    },
+    "MAX.ng": {
+      "Website": "https://www.max.ng",
+      "Founders": "Adetayo Bamiduro; Chinedu Azodoh",
+      "CEO_or_Lead": "Adetayo Bamiduro",
+      "LinkedIn_URL": "https://www.linkedin.com/company/max-ng",
+      "Latest_Round_Type": "Series B",
+      "Latest_Round_Amount_USD": "31000000",
+      "Latest_Round_Date": "2021-12",
+      "Notable_Investors": "Goodwater Capital; others (Series B press)",
+      "Key_Competitors": "Gokada; Moove; inDrive",
+      "Data_Confidence": "High",
+      "Source_URLs": "https://techcrunch.com/2021/12/19/nigerian-mobility-tech-max-bags-31-million-in-series-b-round-set-to-expand-across-africa-build-ev-infrastructure/; https://africa.businessinsider.com/local/leaders/adetayo-bamiduro-ceo-of-metro-africa-xpress-discusses-the-mission-to-bring-the-future/pzdl6wz"
+    },
+    "Kobo360": {
+      "Website": "https://www.kobo360.com",
+      "Founders": "Obi Ozor; Ife Oyedele II",
+      "CEO_or_Lead": "Obi Ozor",
+      "LinkedIn_URL": "https://www.linkedin.com/company/kobo360",
+      "Latest_Round_Type": "Series A",
+      "Latest_Round_Amount_USD": "20000000",
+      "Latest_Round_Date": "2019-08",
+      "Notable_Investors": "Goldman Sachs; Y Combinator; IFC (historical press)",
+      "Key_Competitors": "Truckr; Lori Systems; Sendy",
+      "Data_Confidence": "High",
+      "Source_URLs": "https://www.ycombinator.com/companies/kobo360; https://en.wikipedia.org/wiki/Kobo360; https://techcrunch.com/2019/08/14/goldman-sachs-leads-20-million-investment-in-african-logistics-startup-kobo360/"
+    },
+    "Migo": {
+      "Website": "https://www.migo.ng",
+      "Founders": "Ekechi Nwokah; Kunle Olukotun",
+      "LinkedIn_URL": "https://www.linkedin.com/company/migomoney",
+      "Key_Competitors": "FairMoney; Carbon; Branch",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://www.migo.ng/company/about; https://www.linkedin.com/company/migomoney",
+      "Research_Notes": "Nigeria ops majority-owned by First Ally Capital after 2024 merger with Mathesis Analytics (press); confirm current status carefully."
+    },
+    "Vendease": {
+      "Website": "https://www.vendease.com",
+      "Founders": "Tunde Kara; Olumide Fayankin; Gatumi Aliyu; Wale Oyepeju",
+      "CEO_or_Lead": "Olumide Fayankin",
+      "LinkedIn_URL": "https://www.linkedin.com/company/vendease",
+      "Latest_Round_Type": "Series A",
+      "Latest_Round_Amount_USD": "30000000",
+      "Latest_Round_Date": "2022-09",
+      "Notable_Investors": "Partech Africa; TLcom Capital; Y Combinator",
+      "Key_Competitors": "TradeDepot; Omnibiz",
+      "Data_Confidence": "High",
+      "Source_URLs": "https://www.ycombinator.com/companies/vendease; https://techcrunch.com/2022/09/26/vendease-a-food-procurement-platform-for-african-restaurants-nabs-30m-led-by-partech-africa-and-tlcom/"
+    },
+    "Lemonade Finance": {
+      "Website": "https://lemfi.com",
+      "Founders": "Ridwan Olalere; Rian Cochran",
+      "CEO_or_Lead": "Ridwan Olalere",
+      "Company_Status": "Rebranded to LemFi (same entity)",
+      "Exit_Type": "None",
+      "Research_Notes": "DUPLICATE ENTITY RISK: Lemonade Finance rebranded to LemFi (May 2023). Rank 28 and Rank 13 (LemFi) are the same company; funding totals may overlap. Prefer LemFi as canonical; keep row with note until parent dedupes ranks.",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://disruptafrica.com/2023/05/31/nigerias-lemonade-finance-rebrands-to-lemfi-as-it-expands-vision/; https://techcabal.com/2023/05/29/from-lemonade-finance-to-lemfi-international-payments-for-everyone/"
+    },
+    "Beacon Power Services": {
+      "Website": "https://beaconpowerservices.com",
+      "Founders": "Bimbola Adisa",
+      "CEO_or_Lead": "Bimbola Adisa",
+      "LinkedIn_URL": "https://www.linkedin.com/company/beacon-power-services",
+      "Latest_Round_Type": "Series A",
+      "Latest_Round_Amount_USD": "29800000",
+      "Latest_Round_Date": "2024-11",
+      "Notable_Investors": "Partech; Seedstars Africa Ventures (earlier); Proparco (press)",
+      "Key_Competitors": "Grid utilities software peers; Odyssey Energy Solutions",
+      "Data_Confidence": "High",
+      "Source_URLs": "https://techcrunch.com/2022/08/05/beacon-power-services-raises-2-7m-to-improve-electricity-access-for-sub-saharan-african-cities/; https://partechpartners.com/news/beacon-power-services-secures-series-a-funding-to-accelerate-sustainable-data-driven-solutions-for-africas-power-sector"
+    },
+    "Starsight Energy": {
+      "Website": "https://starsightenergy.com/",
+      "Founders": "Tony Carr (founding CEO; press)",
+      "CEO_or_Lead": "Tony Carr",
+      "LinkedIn_URL": "https://www.linkedin.com/company/starsight-energy",
+      "Notable_Investors": "AIIM; Helios Investment Partners; Nigeria Infrastructure Debt Fund (debt)",
+      "Latest_Round_Type": "Growth equity",
+      "Latest_Round_Amount_USD": "30000000",
+      "Latest_Round_Date": "2018",
+      "Key_Competitors": "Arnergy; Rensource; Daystar Power",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://starsightenergy.com/; https://aiimafrica.com/media/media-centre/aiim-and-helios-investment-partners-join-forces-to-build-out-market-leading-nigerian-energy-services-company-starsight-power-utility-ltd/; https://starsightenergy.com/who-we-are/"
+    },
+    "Rensource": {
+      "Website": "https://rensource.energy/",
+      "Founders": "Ademola Adesina; Jussi Savukoski",
+      "CEO_or_Lead": "Ademola Adesina",
+      "LinkedIn_URL": "https://www.linkedin.com/company/rensource-energy",
+      "Latest_Round_Type": "Series A",
+      "Latest_Round_Amount_USD": "20000000",
+      "Latest_Round_Date": "2019-12",
+      "Notable_Investors": "Omidyar Network; CRE Venture Capital; Sin Capital; others (press)",
+      "Key_Competitors": "Starsight Energy; Arnergy; Daystar Power",
+      "Data_Confidence": "High",
+      "Source_URLs": "https://rensource.energy/; https://techcrunch.com/2019/12/17/nigerias-rensource-raises-20m-to-power-african-markets-by-solar/; https://rensource.energy/2019/12/18/rensource-to-power-nigerian-sme-productivity-with-20-million-funding/"
+    },
+    "Jiji": {
+      "Website": "https://jiji.ng/",
+      "Founders": "Anton Volianskyi; Mykola Zorin",
+      "LinkedIn_URL": "https://www.linkedin.com/company/jiji.ng",
+      "Latest_Round_Type": "Series C",
+      "Latest_Round_Amount_USD": "21000000",
+      "Latest_Round_Date": "2019-12",
+      "Notable_Investors": "Goldman Sachs; IFC; Omidyar Network (press)",
+      "Key_Competitors": "Konga; Jumia; OLX-class classifieds",
+      "Data_Confidence": "High",
+      "Source_URLs": "https://jiji.ng/; https://techcrunch.com/2019/12/09/jiji-raises-21m-for-its-africa-online-classifieds-business/; https://www.startuplist.africa/startups/jiji/team",
+      "Research_Notes": "Vladimir Mnogoletniy sometimes listed as co-founder in secondary profiles; primary founders cited as Anton Volianskyi and Mykola Zorin."
+    },
+    "Husk Power Systems": {
+      "Website": "https://huskpowersystems.com/",
+      "Founders": "Manoj Sinha; Gyanesh Pandey; Ratnesh Yadav; Chip Ransler",
+      "CEO_or_Lead": "Manoj Sinha",
+      "LinkedIn_URL": "https://www.linkedin.com/company/husk-power-systems",
+      "Notable_Investors": "Shell Ventures; Swedfund; Engie; FMO; Rockefeller Foundation; Acumen; IFC; First Solar",
+      "Key_Competitors": "Renewvia; PowerGen; other minigrid operators",
+      "Data_Confidence": "High",
+      "Last_Signal_Date": "2025-03",
+      "Last_Signal_Type": "Press",
+      "Last_Signal_URL": "https://news.darden.virginia.edu/2025/03/04/husk-power-systems-eyes-ipo-and-aims-to-provide-clean-energy-to-100-million/",
+      "Source_URLs": "https://huskpowersystems.com/; https://en.wikipedia.org/wiki/Husk_Power_Systems; https://www.huskpowersystems.com/Investor-Relations"
+    },
+    "Omnibiz": {
+      "Website": "https://omnibiz.com",
+      "Founders": "Deepankar Rustagi",
+      "CEO_or_Lead": "Deepankar Rustagi",
+      "LinkedIn_URL": "https://www.linkedin.com/company/omnibiz",
+      "Latest_Round_Type": "Pre-Series A",
+      "Latest_Round_Amount_USD": "15000000",
+      "Latest_Round_Date": "2022-08",
+      "Notable_Investors": "Timon Capital; Ventures Platform; Chapel Hill Denham; Chandaria Capital; Musha Ventures",
+      "Key_Competitors": "TradeDepot; Vendease",
+      "Data_Confidence": "High",
+      "Careers_URL": "mailto:hrbp@omnibiz.com",
+      "Source_URLs": "https://omnibiz.com/about-us; https://techcrunch.com/2022/08/19/nigerian-b2b-e-commerce-platform-omnibiz-raises-millions-to-gain-and-retain-retail-customers/"
+    },
+    "Konexa": {
+      "Website": "https://www.konexa.io",
+      "Founders": "Pradeep Pursnani",
+      "CEO_or_Lead": "Pradeep Pursnani",
+      "Latest_Round_Type": "Project / climate finance",
+      "Latest_Round_Amount_USD": "18000000",
+      "Latest_Round_Date": "2024-03",
+      "Notable_Investors": "Climate Fund Managers; Microsoft Climate Innovation Fund",
+      "Licence_Types_Held": "NERC private electricity trading licence (press)",
+      "Key_Competitors": "Other NESI traders / IPPs",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://climatefundmanagers.com/2024/03/11/climate-fund-managers-and-microsoft-invest-usd-18-million-in-konexa-to-launch-nigerias-first-private-renewable-energy-trading-platform/"
+    },
+    "Mono": {
+      "Website": "https://mono.co",
+      "Founders": "Abdulhamid Hassan; Prakhar Singh",
+      "CEO_or_Lead": "Abdulhamid Hassan",
+      "LinkedIn_URL": "https://www.linkedin.com/company/withmono",
+      "Company_Status": "Acquired",
+      "Exit_Type": "Acquired",
+      "Acquirer": "Flutterwave",
+      "Exit_Year": "2026",
+      "Exit_Source_URL": "https://mono.co/blog/flutterwave-mono-acquisition",
+      "Latest_Round_Type": "Acquisition",
+      "Latest_Round_Date": "2026-01",
+      "Notable_Investors": "Y Combinator; Entr\u00e9e Capital (seed press); Flutterwave (acquirer)",
+      "Key_Competitors": "Okra (shut down); OnePipe",
+      "Data_Confidence": "High",
+      "Source_URLs": "https://www.ycombinator.com/companies/mono; https://mono.co/blog/flutterwave-mono-acquisition; https://techcrunch.com/2021/05/24/nigerias-mono-raises-millions-to-power-the-internet-economy-in-africa/"
+    },
+    "Okra": {
+      "Website": "https://okra.ng",
+      "Founders": "Fara Ashiru Jituboh; David Peterside",
+      "CEO_or_Lead": "Fara Ashiru Jituboh",
+      "Company_Status": "Shut down",
+      "Exit_Type": "Shutdown",
+      "Exit_Year": "2025",
+      "Key_Competitors": "Mono; OnePipe",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://okra.ng; https://techcabal.com/ (Okra shutdown coverage - verify primary)",
+      "Research_Notes": "Press reports Okra shut down ~May 2025; website may redirect or be inactive. Prefer blank licence fields.",
+      "Exit_Source_URL": "https://techcabal.com/2025/05/07/okra-shuts-down/"
+    },
+    "CredPal": {
+      "Website": "https://credpal.com",
+      "Founders": "Fehintolu Olaogun; Olorunfemi Jegede",
+      "CEO_or_Lead": "Fehintolu Olaogun",
+      "LinkedIn_URL": "https://www.linkedin.com/company/credpal",
+      "Latest_Round_Type": "Seed",
+      "Latest_Round_Amount_USD": "1500000",
+      "Latest_Round_Date": "2020-12",
+      "Notable_Investors": "Y Combinator; GreenHouse Capital; Tangerine Life",
+      "Key_Competitors": "Carbon; FairMoney; SoftPay BNPL peers",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://techpoint.africa/news/nigerian-fintech-startup-credpal-raises-1-5m/; https://credpal.com"
+    },
+    "Umba": {
+      "Website": "https://umba.com",
+      "Founders": "Tiernan Kennedy; Barry O'Mahony",
+      "CEO_or_Lead": "Tiernan Kennedy",
+      "Latest_Round_Type": "Series A",
+      "Latest_Round_Amount_USD": "15000000",
+      "Latest_Round_Date": "2022",
+      "Notable_Investors": "Costanoa Ventures; Lux Capital; Palm Drive Capital; Lachy Groom; ACT Ventures",
+      "Key_Competitors": "Kuda; FairMoney; Carbon",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://umba.com; https://www.awesomefintech.com/blog/pj3m6g8ve6/financial-services-startup-umba-raised-series-a-round-of-15m/"
+    },
+    "Raenest": {
+      "Website": "https://www.raenest.com",
+      "Founders": "Victor Alade; Sodruldeen Mustapha; Richard Oyome",
+      "CEO_or_Lead": "Victor Alade",
+      "LinkedIn_URL": "https://www.linkedin.com/company/raenest",
+      "Latest_Round_Type": "Series A",
+      "Latest_Round_Amount_USD": "11000000",
+      "Latest_Round_Date": "2025-02",
+      "Notable_Investors": "QED Investors; Norrsken22; Ventures Platform; P1 Ventures; Seedstars",
+      "Key_Competitors": "Grey; Payday; LemFi; Afriex",
+      "Data_Confidence": "High",
+      "Source_URLs": "https://www.raenest.com/about-us; https://fintechnews.africa/44723/fintech-nigeria/raenest-raises-11m-series-a-to-expand-global-banking-for-africans/"
+    },
+    "NowNow": {
+      "Website": "https://nownow.ng",
+      "Founders": "Sahir Berry; Mahesh Nair",
+      "Latest_Round_Type": "Seed",
+      "Latest_Round_Amount_USD": "13000000",
+      "Latest_Round_Date": "2022-09",
+      "Key_Competitors": "OPay; PalmPay; Nomba",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://techcabal.com/2022/09/07/nownow-raises-13-million-in-seed-funding-to-expand-services-across-africa/; https://nownow.ng"
+    },
+    "Andela": {
+      "CEO_or_Lead": "Jeremy Johnson (co-founder; leadership changes over time - verify current)",
+      "Research_Notes": "CEO/lead has changed; Jeremy Johnson co-founder historically. Prefer verifying current CEO before High confidence bump on that field alone."
+    },
+    "Field": {
+      "Website": "https://www.field.inc",
+      "Founders": "Michael Moreland",
+      "CEO_or_Lead": "Michael Moreland",
+      "LinkedIn_URL": "https://www.linkedin.com/company/field-intel-inc",
+      "HQ_City": "Abuja",
+      "Key_Competitors": "Pharmaceutical distributors; health supply-chain SaaS",
+      "Hiring_Signal": "Yes",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://www.field.inc; https://www.startuplist.africa/startups/field/team; https://www.linkedin.com/in/mfcm"
+    },
+    "Afriex": {
+      "Website": "https://afriexapp.com",
+      "Founders": "Tope Alabi",
+      "CEO_or_Lead": "Tope Alabi",
+      "LinkedIn_URL": "https://www.linkedin.com/company/afriex",
+      "Key_Competitors": "LemFi; Grey; Sendwave; WorldRemit",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://afriexapp.com; https://www.linkedin.com/in/topealabi"
+    },
+    "Zone": {
+      "Website": "https://www.zone-pay.com",
+      "Founders": "Obi Emetarom; Elendu Uche",
+      "CEO_or_Lead": "Obi Emetarom",
+      "LinkedIn_URL": "https://www.linkedin.com/company/zonenetwork",
+      "Licence_Types_Held": "CBN Switching and Processing (as Appzone/Zone lineage; verify current list)",
+      "Key_Competitors": "Interswitch; NIBSS; Flutterwave rails",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://appzonegroup.com/about/; https://www.linkedin.com/in/obiemetarom"
+    },
+    "Cowrywise": {
+      "Website": "https://cowrywise.com",
+      "Founders": "Razaq Ahmed; Edward Popoola",
+      "CEO_or_Lead": "Razaq Ahmed",
+      "LinkedIn_URL": "https://www.linkedin.com/company/cowrywise",
+      "Key_Competitors": "PiggyVest; Risevest; Bamboo",
+      "Data_Confidence": "High",
+      "Source_URLs": "https://cowrywise.com; https://www.linkedin.com/in/razaqa; https://www.linkedin.com/in/edwardpopoola"
+    },
+    "Gokada": {
+      "Website": "https://www.gokada.ng",
+      "Founders": "Fahim Saleh",
+      "Company_Status": "Active (ops constrained historically by Lagos okada bans; verify)",
+      "Key_Competitors": "MAX.ng; inDrive",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://techcrunch.com/2019/05/24/nigerias-gokada-raises-5-3m-round-for-its-motorcycle-ride-hail-biz/; https://startup-weekly.com/Startup-Interview-Fahim-Saleh-Founder-Gokada-Nigeria/"
+    },
+    "Seamfix": {
+      "Website": "https://seamfix.com",
+      "Founders": "Chimezie Emewulu; Chibuzor Onwurah",
+      "LinkedIn_URL": "https://www.linkedin.com/company/seamfix",
+      "Key_Competitors": "Youverify; Smile Identity; Prembly",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://seamfix.com; https://en.wikipedia.org/wiki/Seamfix; https://guardian.ng/business-services/business/seamfix-celebrates-17-years-of-empowering-identity-trust/"
+    },
+    "Aladdin Digital Bank": {
+      "Website": "",
+      "Founders": "Darlington Onyeagoro; Avi Umukoro",
+      "Data_Confidence": "Low",
+      "Source_URLs": "https://www.startuplist.africa/startups/aladdin-digital-bank; https://www.startuplist.africa/people/darlington-onyeagoro",
+      "Research_Notes": "Website URL from StartupList; verify live. Website aladdin.ng returned empty/unreliable; left blank."
+    },
+    "Rivy": {
+      "Website": "https://www.rivy.co",
+      "Founders": "Dami Olawoye; Chioma Okotcha-Faloughi",
+      "LinkedIn_URL": "https://www.linkedin.com/company/rivyhq",
+      "Latest_Round_Type": "Seed / climate",
+      "Latest_Round_Amount_USD": "4000000",
+      "Key_Competitors": "SunFi; Arnergy financing peers",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://www.rivy.co; https://www.linkedin.com/company/rivyhq"
+    },
+    "Arnergy": {
+      "Website": "https://www.arnergy.com",
+      "Founders": "Femi Adeyemo; Kunle Odebunmi",
+      "CEO_or_Lead": "Femi Adeyemo",
+      "LinkedIn_URL": "https://www.linkedin.com/company/arnergy",
+      "Key_Competitors": "Starsight Energy; Rensource; Daystar Power",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://www.arnergy.com"
+    },
+    "Paystack": {
+      "Company_Status": "Acquired",
+      "Exit_Type": "Acquired",
+      "Acquirer": "Stripe",
+      "Exit_Year": "2020",
+      "Exit_Source_URL": "https://paystack.com",
+      "Data_Confidence": "High"
+    },
+    "Brass": {
+      "Website": "https://www.trybrass.com",
+      "Company_Status": "Acquired",
+      "Exit_Type": "Acquired",
+      "Acquirer": "Paystack / Stripe consortium (press 2024)",
+      "Exit_Year": "2024",
+      "Research_Notes": "Press reported Paystack-led consortium acquisition of Brass in 2024; confirm primary source before High.",
+      "Data_Confidence": "Med",
+      "Founders": "Sola Akindolu; Emmanuel Okeke",
+      "Source_URLs": "https://nairametrics.com/2024/05/28/paystack-led-investment-group-acquires-nigerian-fintech-brass/"
+    },
+    "Bundle Africa": {
+      "Website": "https://bundle.africa",
+      "Company_Status": "Shut down",
+      "Exit_Type": "Shutdown",
+      "Exit_Year": "2023",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://techcabal.com/ (Bundle shutdown coverage - verify)",
+      "Research_Notes": "Widely reported shutdown 2023; keep historical funding only."
+    },
+    "Jumia": {
+      "Exit_Type": "IPO",
+      "Exit_Year": "2019",
+      "Exit_Source_URL": "https://en.wikipedia.org/wiki/Jumia",
+      "Company_Status": "Active (public)"
+    },
+    "Mansa": {
+      "Website": "https://mansa.xyz",
+      "Founders": "Mouloukou Sanoh; Nkiru Uwaje",
+      "CEO_or_Lead": "Mouloukou Sanoh",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://mansa.xyz/about.html",
+      "Key_Competitors": "Afriex; LemFi liquidity peers"
+    },
+    "Waza": {
+      "Website": "https://waza.co",
+      "Founders": "Maxwell Obi; Emmanuel Igbodudu",
+      "CEO_or_Lead": "Maxwell Obi",
+      "LinkedIn_URL": "https://www.linkedin.com/company/wazahq",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://waza.co; https://www.ycombinator.com/companies/waza"
+    },
+    "Klasha": {
+      "Website": "https://klasha.com",
+      "Founders": "Jessica Anuna",
+      "CEO_or_Lead": "Jessica Anuna",
+      "LinkedIn_URL": "https://www.linkedin.com/company/klasha",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://klasha.com; https://guardian.ng/features/focus/klasha-is-simplifying-cross-border-payment-driving-financial-globalization-with-world-class-solutions-jessica-anuna-founder-ceo-klasha/"
+    },
+    "Risevest": {
+      "Website": "https://risevest.com",
+      "Founders": "Eke Urum; Bosun Olanrewaju",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://risevest.com",
+      "Key_Competitors": "Cowrywise; PiggyVest; Bamboo"
+    },
+    "Stears": {
+      "Website": "https://www.stears.co",
+      "Founders": "Preston Ideh",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://www.stears.co"
+    },
+    "BFREE": {
+      "Website": "https://bfree.io",
+      "Founders": "Julian Flosbach; Chukwudi Enyi",
+      "CEO_or_Lead": "Julian Flosbach",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://bfree.io; https://seedtable.com/companies/bfree"
+    },
+    "MDaaS Global": {
+      "Website": "https://www.mdaas.io",
+      "Founders": "Olusoga Oni; Genevieve Bernard Oni; Opeyemi Ologun",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://www.mdaas.io"
+    },
+    "Chowdeck": {
+      "Website": "https://chowdeck.com",
+      "Founders": "Femi Aluko; Olumide Ojo; Lanre Yusuf",
+      "CEO_or_Lead": "Femi Aluko",
+      "LinkedIn_URL": "https://www.linkedin.com/company/chowdeck",
+      "Data_Confidence": "High",
+      "Source_URLs": "https://chowdeck.com; https://www.ycombinator.com/companies/chowdeck"
+    },
+    "Youverify": {
+      "Website": "https://youverify.co",
+      "Founders": "Gbenga Odegbami; Famous Ehichioya",
+      "CEO_or_Lead": "Gbenga Odegbami",
+      "Data_Confidence": "Med",
+      "Key_Competitors": "Smile Identity; Prembly; Seamfix",
+      "Source_URLs": "https://youverify.co; https://thecondia.com/people/gbenga-odegbami/"
+    },
+    "Mecho Autotech": {
+      "Website": "https://www.mechoautotech.com",
+      "Founders": "Olusegun Owoade; Ayoola Akinkunmi",
+      "CEO_or_Lead": "Olusegun Owoade",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://techcrunch.com/2022/02/09/mecho-autotech-gets-2-15m-to-expand-vehicle-maintenance-and-repair-services-in-nigeria/"
+    },
+    "Kredete": {
+      "Website": "https://kredete.com",
+      "Founders": "Adeola Adedewe",
+      "CEO_or_Lead": "Adeola Adedewe",
+      "Data_Confidence": "Low",
+      "Source_URLs": "https://kredete.com"
+    },
+    "AMAKA Studio": {
+      "Website": "https://amaka.studio",
+      "Founders": "Adaora O-Njoku",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://amaka.studio/who-we-are"
+    },
+    "Axmed": {
+      "Website": "https://www.axmed.com",
+      "Founders": "Emmanuel Akpakwu; Sof\u00eda Radley-Searle; Felix Ohnma",
+      "CEO_or_Lead": "Emmanuel Akpakwu",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://www.axmed.com; https://www.linkedin.com/in/emmanuelakpakwu"
+    },
+    "Cleva": {
+      "Website": "https://www.getcleva.com",
+      "Founders": "Tolu Alabi; Philip Adama Abel",
+      "CEO_or_Lead": "Tolu Alabi",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://www.ycombinator.com/companies/cleva"
+    },
+    "Juicyway": {
+      "Website": "https://www.juicyway.com",
+      "Founders": "Ife Johnson; Justin Ziegler; Idris Ibrahim",
+      "CEO_or_Lead": "Ife Johnson",
+      "Data_Confidence": "High",
+      "Source_URLs": "https://www.juicyway.com/team; https://www.juicyway.com/company"
+    },
+    "Renda": {
+      "Website": "https://renda.co",
+      "Founders": "Ope Onaboye; Bimbo Onaboye",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://renda.co/about"
+    },
+    "Startbutton Africa": {
+      "Website": "https://www.startbutton.africa",
+      "Founders": "Bolakale Mallick; Kelechi Oti; Charles Idem",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://www.startbutton.africa/about-us"
+    },
+    "Talstack": {
+      "Website": "https://www.talstack.com",
+      "Founders": "Seni Sulyman; Kayode Oyewole",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://www.talstack.com/about"
+    },
+    "Grey": {
+      "Website": "https://grey.co",
+      "Founders": "Joseph Femi Aghedo",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://grey.co; https://www.linkedin.com/in/aghedo-joseph"
+    },
+    "Crop2Cash": {
+      "Website": "https://crop2cash.com.ng",
+      "Founders": "Michael Ogundare; Seyi Paul",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://crop2cash.com.ng"
+    },
+    "Fincra": {
+      "Website": "https://fincra.com",
+      "Founders": "Wole Ayodele",
+      "CEO_or_Lead": "Wole Ayodele",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://fincra.com; https://www.linkedin.com/in/woleayodele"
+    },
+    "VertoFX": {
+      "Website": "https://vertofx.com",
+      "Founders": "Ola Oyetayo",
+      "CEO_or_Lead": "Ola Oyetayo",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://vertofx.com; https://www.fintechprofile.com/ola-oyetayo-co-founder-ceo-verto/"
+    },
+    "SunFi": {
+      "Website": "https://www.sunfi.co",
+      "Founders": "Rotimi Thomas; Tomiwa Igun; Olaoluwa Faniyi",
+      "CEO_or_Lead": "Rotimi Thomas",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://www.sunfi.co"
+    },
+    "Farmcrowdy": {
+      "Website": "https://www.farmcrowdy.com",
+      "Founders": "Onyeka Akumah",
+      "CEO_or_Lead": "Onyeka Akumah",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://www.farmcrowdy.com"
+    },
+    "Vendy": {
+      "Website": "https://vendy.co",
+      "Founders": "Peter Ekunkoya",
+      "Data_Confidence": "Low",
+      "Source_URLs": "https://vendy.co"
+    },
+    "Pullus Africa": {
+      "Website": "https://pullus.africa",
+      "Founders": "Opeoluwa Fayomi",
+      "CEO_or_Lead": "Opeoluwa Fayomi",
+      "Data_Confidence": "Low",
+      "Source_URLs": "https://pullus.africa"
+    },
+    "Regxta": {
+      "Website": "https://regxta.com",
+      "Founders": "Rukayat Kolawole-Bello; Afis Bello",
+      "Data_Confidence": "Low",
+      "Source_URLs": "https://regxta.com"
+    },
+    "Billboxx": {
+      "Website": "https://billboxx.com",
+      "Founders": "Justus Obaoye; Abdulazeez Ogunjobi",
+      "Data_Confidence": "Med",
+      "Source_URLs": "https://billboxx.com"
+    },
+    "Accrue": {
+      "Website": "https://accrue.finance",
+      "Founders": "Adesuwa Omoruyi; Zino Asamaige",
+      "Data_Confidence": "Low",
+      "Source_URLs": "https://accrue.finance"
+    },
+    "Eden Life": {
+      "Website": "https://www.edenlife.ng",
+      "Founders": "Nadayar Enegesi",
+      "Data_Confidence": "Low",
+      "Source_URLs": "https://www.edenlife.ng"
+    },
+    "Duplo": {
+      "Website": "https://www.duplo.africa",
+      "Data_Confidence": "Low"
+    },
+    "Intron Health": {
+      "Website": "https://intron.io",
+      "Data_Confidence": "Low"
+    },
+    "Agriarche": {
+      "Founders": "Deina Mayaki; Nancy Chinemerem Nwaka",
+      "Data_Confidence": "Low"
+    },
+    "Trade Lenda": {
+      "Founders": "Oluwatosin Ayodele",
+      "Data_Confidence": "Low"
+    },
+    "Odyssey Energy Solutions": {
+      "Website": "https://odysseyenergysolutions.com",
+      "Data_Confidence": "Low"
+    },
+    "Winich Farms": {
+      "Website": "https://winichfarms.com",
+      "Founders": "Chichebem Jibunoh",
+      "Data_Confidence": "Low"
+    },
+    "Nithio": {
+      "Website": "https://nithio.com",
+      "Data_Confidence": "Low"
+    },
+    "SeamlessHR": {
+      "Website": "https://seamlesshr.com",
+      "Data_Confidence": "Med"
+    },
+    "uLesson": {
+      "Website": "https://ulesson.com",
+      "Data_Confidence": "Med"
+    },
+    "Carbon": {
+      "Website": "https://getcarbon.co",
+      "Data_Confidence": "Med"
+    },
+    "PiggyVest": {
+      "Website": "https://www.piggyvest.com",
+      "Careers_URL": "https://www.piggyvest.com/careers",
+      "Hiring_Signal": "Unknown"
+    }
+  }
+}

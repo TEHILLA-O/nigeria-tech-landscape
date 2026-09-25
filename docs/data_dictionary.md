@@ -55,6 +55,24 @@ Last verified: **2026-09-25**.
 | Last_Verified_Date | date | ISO date of last human/script verification |
 | Notes | text | Caveats (optional in some builds) |
 
+| JTBD | text | Jobs-to-be-done summary for the company's customer |
+| ICP | text | Ideal customer profile (public) |
+| Ticket_Size_Band | text | Public ACV/ticket band or Unknown |
+| Licence_IDs_or_Categories | text | Licence categories / IDs when public |
+| Licence_Status | text | Active / Listed / Unknown / Revoked |
+| Register_Last_Checked | date | When licence register fields were checked |
+| Peers | text | 2-4 peer company names from dataset where possible |
+| Last_Signal_Date | text | Date of last notable public signal |
+| Last_Signal_Type | text | Funding / Product / Press / Hiring / Other |
+| Last_Signal_URL | URL | Source for last signal |
+| Founder_LinkedIn_URLs | text | Semicolon URLs aligned with Founders when public |
+| Sector_Primary | text | Taxonomy v2 primary |
+| Sector_Secondary | text | Taxonomy v2 secondary (may use pipe subtypes) |
+| Operating_Cities_NG | text | Nigerian cities with known ops |
+| Careers_URL | URL | Careers page if public |
+| Hiring_Signal | text | Yes / No / Unknown |
+| Logo_URL | URL | Official logo or brand-kit URL only; see docs/assets/README.md |
+
 ## Directory (`data/directory.csv`)
 
 | Column | Type | Definition |
