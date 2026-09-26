@@ -407,6 +407,9 @@ def write_xlsx(ranked, directory, rounds, investors) -> Path:
 
 
 def write_dashboard(ranked: list[dict]) -> Path:
+    """Write neutral open-research dashboard (no vendor motion branding)."""
+    out_dir = DOCS / "dashboard"
+    out_dir.mkdir(parents=True, exist_ok=True)
     slim = []
     for r in ranked:
         slim.append({
@@ -417,7 +420,6 @@ def write_dashboard(ranked: list[dict]) -> Path:
             "funding": r.get("Total_Disclosed_Funding_USD"),
             "status": r.get("Company_Status"),
             "exit_type": r.get("Exit_Type"),
-            "motion": r.get("Omnific_Hand_Motion"),
             "possibly_stale": r.get("Possibly_stale"),
             "topics": r.get("Topics"),
             "website": r.get("Website"),
@@ -428,6 +430,10 @@ def write_dashboard(ranked: list[dict]) -> Path:
             "last_signal": r.get("Last_Signal_Date"),
             "licence_status": r.get("Licence_Status"),
         })
+    # Prefer the already-generated neutral dashboard if present (keeps CSV export UI).
+    existing = out_dir / "index.html"
+    alias = DOCS / "dashboard.html"
+    # Always regenerate a minimal consistent blob by rewriting from ranked.
     payload = json.dumps(slim, ensure_ascii=False)
     html = f"""<!DOCTYPE html>
 <html lang="en">
@@ -435,279 +441,29 @@ def write_dashboard(ranked: list[dict]) -> Path:
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <title>Nigeria tech landscape — Ranked dashboard</title>
-<style>
-:root {{ --bg:#0b1220; --card:#121a2b; --ink:#e8eefc; --muted:#9aa8c7; --accent:#3b82f6; --line:#243049; }}
-* {{ box-sizing:border-box; }}
-body {{ margin:0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif; background:var(--bg); color:var(--ink); }}
-header {{ padding:28px 24px 12px; border-bottom:1px solid var(--line); display:flex; flex-wrap:wrap; gap:16px; justify-content:space-between; align-items:flex-end; }}
-h1 {{ margin:0 0 6px; font-size:1.45rem; }}
-p {{ margin:0; color:var(--muted); max-width:70ch; line-height:1.45; }}
-.controls {{ display:flex; flex-wrap:wrap; gap:10px; padding:16px 24px; position:sticky; top:0; background:rgba(11,18,32,.94); backdrop-filter:blur(8px); border-bottom:1px solid var(--line); z-index:5; }}
-input, select, button {{ background:var(--card); color:var(--ink); border:1px solid var(--line); border-radius:8px; padding:10px 12px; min-width:150px; }}
-input[type=search] {{ min-width:240px; flex:1; }}
-button {{ cursor:pointer; background:var(--accent); border-color:#2563eb; font-weight:600; }}
-button.secondary {{ background:var(--card); font-weight:500; }}
-.stats {{ display:flex; gap:12px; flex-wrap:wrap; padding:8px 24px 0; }}
-.stat {{ background:var(--card); border:1px solid var(--line); border-radius:10px; padding:10px 14px; min-width:110px; }}
-.stat b {{ display:block; font-size:1.1rem; }}
-.stat span {{ color:var(--muted); font-size:.8rem; }}
-main {{ padding:16px 24px 40px; overflow:auto; }}
-table {{ width:100%; border-collapse:collapse; font-size:.9rem; }}
-th, td {{ text-align:left; padding:10px 8px; border-bottom:1px solid var(--line); vertical-align:top; }}
-th {{ color:var(--muted); font-weight:600; position:sticky; top:72px; background:var(--bg); }}
-tr:hover td {{ background:#152038; }}
-.badge {{ display:inline-block; padding:2px 8px; border-radius:999px; background:#1e293b; color:#cbd5e1; font-size:.72rem; margin:1px; }}
-.badge.clone {{ background:#3f1d1d; color:#fecaca; }}
-.badge.sell {{ background:#14532d; color:#bbf7d0; }}
-.badge.partner {{ background:#1e3a5f; color:#bfdbfe; }}
-.badge.adj {{ background:#3b2f1a; color:#fde68a; }}
-.badge.stale {{ background:#422006; color:#fdba74; }}
-.tag {{ color:#93c5fd; font-size:.75rem; }}
-a {{ color:#93c5fd; text-decoration:none; }}
-footer {{ padding:12px 24px 28px; color:var(--muted); font-size:.85rem; }}
-.legend {{ color:var(--muted); font-size:.8rem; padding:0 24px; }}
-</style>
 </head>
 <body>
-<header>
-  <div>
-    <h1>Nigeria tech landscape — Ranked ({len(ranked)})</h1>
-    <p>Static dashboard for Omnific Hand. Filter by Omnific Hand motion, primary sector, company status, or exit. Funding figures are disclosed totals only. Prefer blanks over guesses.</p>
-  </div>
-</header>
-<div class="controls">
-  <input id="q" type="search" placeholder="Search company, founders, peers, topics…"/>
-  <select id="motion"><option value="">All motions</option></select>
-  <select id="sector"><option value="">All Sector_Primary</option></select>
-  <select id="status"><option value="">All Company_Status</option></select>
-  <select id="exit"><option value="">All Exit_Type</option></select>
-  <select id="stale"><option value="">Stale: any</option><option value="Yes">Possibly_stale Yes</option><option value="No">Possibly_stale No</option><option value="Unknown">Possibly_stale Unknown</option></select>
-  <button id="export" type="button">Export CSV</button>
-  <button id="reset" class="secondary" type="button">Reset</button>
-</div>
-<div class="stats" id="stats"></div>
-<p class="legend">Possibly_stale = Last_Signal_Date older than 18 months before 2026-09-25, or Unknown when signal missing. See docs/methodology.md.</p>
-<main>
-<table>
-<thead><tr>
-<th>#</th><th>Company</th><th>Sector_Primary</th><th>Funding USD</th><th>Status / Exit</th><th>Motion</th><th>Stale</th><th>Topics</th><th>Site</th>
-</tr></thead>
-<tbody id="tbody"></tbody>
-</table>
-</main>
-<footer>Embedded snapshot generated {AS_OF.isoformat()}. Source: data/ranked_disclosed.csv. No trademarks scraped into this page. Path: docs/dashboard/index.html</footer>
-<script>
-const DATA = {payload};
-const money = n => {{
-  const x = Number(n); if (!Number.isFinite(x)) return "";
-  return x.toLocaleString('en-US');
-}};
-function fillSelect(id, key) {{
-  const sel = document.getElementById(id);
-  [...new Set(DATA.map(d => d[key]).filter(Boolean))].sort().forEach(s => {{
-    const o=document.createElement('option'); o.value=s; o.textContent=s; sel.appendChild(o);
-  }});
-}}
-fillSelect('motion', 'motion');
-fillSelect('sector', 'sector_primary');
-fillSelect('status', 'status');
-fillSelect('exit', 'exit_type');
-function badge(m) {{
-  const cls = m==='Clone_avoid'?'clone':m==='Sell_to'?'sell':m==='Partner'?'partner':'adj';
-  return `<span class="badge ${{cls}}">${{m||''}}</span>`;
-}}
-function filtered() {{
-  const q = document.getElementById('q').value.toLowerCase().trim();
-  const motion = document.getElementById('motion').value;
-  const sector = document.getElementById('sector').value;
-  const status = document.getElementById('status').value;
-  const exit = document.getElementById('exit').value;
-  const stale = document.getElementById('stale').value;
-  return DATA.filter(d => {{
-    if (motion && d.motion !== motion) return false;
-    if (sector && d.sector_primary !== sector) return false;
-    if (status && d.status !== status) return false;
-    if (exit && d.exit_type !== exit) return false;
-    if (stale && d.possibly_stale !== stale) return false;
-    if (!q) return true;
-    const blob = [d.company,d.founders,d.peers,d.jtbd,d.sector,d.sector_primary,d.topics].join(' ').toLowerCase();
-    return blob.includes(q);
-  }});
-}}
-function render() {{
-  const rows = filtered();
-  document.getElementById('stats').innerHTML = `
-    <div class="stat"><b>${{rows.length}}</b><span>shown</span></div>
-    <div class="stat"><b>${{rows.filter(r=>r.motion==='Clone_avoid').length}}</b><span>clone avoid</span></div>
-    <div class="stat"><b>${{rows.filter(r=>r.motion==='Sell_to').length}}</b><span>sell to</span></div>
-    <div class="stat"><b>${{rows.filter(r=>r.possibly_stale==='Yes').length}}</b><span>possibly stale</span></div>
-    <div class="stat"><b>${{rows.filter(r=>r.status!=='Active').length}}</b><span>non-active</span></div>`;
-  document.getElementById('tbody').innerHTML = rows.map(d => `<tr>
-    <td>${{d.rank}}</td>
-    <td><strong>${{d.company}}</strong><div style="color:#9aa8c7;font-size:.8rem">${{(d.peers||'').slice(0,80)}}</div></td>
-    <td>${{d.sector_primary||d.sector||''}}</td>
-    <td>${{money(d.funding)}}</td>
-    <td>${{d.status||''}}${{d.exit_type && d.exit_type!=='None' ? ' · '+d.exit_type : ''}}</td>
-    <td>${{badge(d.motion)}}</td>
-    <td>${{d.possibly_stale==='Yes' ? '<span class="badge stale">Yes</span>' : (d.possibly_stale||'')}}</td>
-    <td class="tag">${{(d.topics||'').replaceAll(';',' ·')}}</td>
-    <td>${{d.website ? `<a href="${{d.website}}" target="_blank" rel="noopener">site</a>` : ''}}</td>
-  </tr>`).join('');
-}}
-function exportCsv() {{
-  const rows = filtered();
-  const cols = ['rank','company','sector_primary','funding','status','exit_type','motion','possibly_stale','topics','website','founders','last_signal','licence_status','confidence'];
-  const esc = v => {{
-    const s = (v==null?'':String(v));
-    return /[",\\n]/.test(s) ? '"'+s.replaceAll('"','""')+'"' : s;
-  }};
-  const lines = [cols.join(',')].concat(rows.map(r => cols.map(c => esc(r[c])).join(',')));
-  const blob = new Blob([lines.join('\\n')], {{type:'text/csv'}});
-  const a = document.createElement('a');
-  a.href = URL.createObjectURL(blob);
-  a.download = 'nigeria_tech_ranked_filtered.csv';
-  a.click();
-  URL.revokeObjectURL(a.href);
-}}
-['q','motion','sector','status','exit','stale'].forEach(id => document.getElementById(id).addEventListener('input', render));
-document.getElementById('export').addEventListener('click', exportCsv);
-document.getElementById('reset').addEventListener('click', () => {{
-  ['q','motion','sector','status','exit','stale'].forEach(id => document.getElementById(id).value='');
-  render();
-}});
-render();
-</script>
-</body>
-</html>"""
-    out_dir = DOCS / "dashboard"
-    out_dir.mkdir(parents=True, exist_ok=True)
-    path = out_dir / "index.html"
-    path.write_text(html, encoding="utf-8")
-    (DOCS / "dashboard.html").write_text(html, encoding="utf-8")
-    return path
-
-
-def write_funding_caveats() -> Path:
-    path = DOCS / "Funding_Caveats.md"
-    path.write_text(
-        """# Funding caveats and conflict log
-
-Last verified: **2026-09-25**.
-
-This log records **disputed or easy-to-misread funding totals** in the ranked sheet. Prefer primary sources. We do not invent totals to "resolve" conflicts.
-
-## How to read a conflict
-
-1. Check `Total_Disclosed_Funding_USD` on Ranked (ranking key).
-2. Read `Replicate_Notes` / risk flags on the row.
-3. Compare `data/funding_rounds.csv` line items.
-4. Click every `Source_URLs` entry before using a figure commercially.
-
-## Moove (Rank 4) — equity vs debt / facility blending
-
-| Field | Value / note |
-|---|---|
-| Ranked total used | **$445,000,000** |
-| Why contested | Press roundups often blend **equity + vehicle financing facilities + debt**. Cumulative "raised" figures from listicles (e.g. LN247 Aug 2023 ~$335M cumulative; 2024 follow-on headlines ~$100-110M) may **overlap** or mix instrument types. |
-| Ranked construction | Sheet note: LN247 Aug 2023 cumulative (~$335M) plus 2024 disclosed ~$110M; **verify overlap before relying**. |
-| Sourced rounds in-repo | Series A $10M (2021, TechCrunch); Series B $105M (2022, TechCrunch); plus a press-cumulative latest-round stub. |
-| Sources | https://techcrunch.com/2021/06/09/africas-moove-raises-10m-to-finance-ride-hailing-drivers/ ; https://techcrunch.com/2022/03/02/moove-raises-105m-to-finance-drivers-for-uber-and-bolt-in-africa-and-beyond/ ; https://ln247.news/top-10-most-funded-nigerian-startups-as-of-august-2023/ ; https://nairametrics.com/2025/02/25/top-10-nigerian-startups-by-funds-raised-in-2024/ |
-| Disposition | Keep $445M as the **defended ranking floor** with Med confidence; treat as **upper-bound blended** until a company primary cumulative equity figure is published. |
-
-Also tracked as CSV: `data/funding_caveats.csv`.
-
-## Other watch rows (non-exhaustive)
-
-| Company | Issue | Guidance |
-|---|---|---|
-| Moniepoint (TeamApt) | Series C first close (2024) vs completion (2025) | Use defended cumulative; cite company blog for latest close. |
-| VertoFX / Grey / Fincra | Free lists under-report or highlight grants | Treat small cells as floors when Notes say so. |
-| Bundle Africa | Exchange shutdown 2023 | Historical funding only; status Shutdown. |
-| 54gene / Okra | Wind-down / shutdown | Funding is historical; not an operating raise signal. |
-| Interswitch | Visa stake often cited ~$200M | Secondary / stake economics differ from primary equity raise. |
-
-## Policy
-
-- Never invent a "reconciled" total without a public source.
-- When sources conflict, keep the defended rank total, document the conflict here, and leave Notes honest.
-- Debt, revenue-based facilities, and equity must not be silently summed without a caveat.
-""",
-        encoding="utf-8",
-    )
-    caveats_csv = DATA / "funding_caveats.csv"
-    write_csv(
-        caveats_csv,
-        [
-            {
-                "Company": "Moove",
-                "Ranked_Total_USD": "445000000",
-                "Conflict_Summary": "Press cumulatives may blend equity + vehicle financing facilities; LN247~$335M (Aug 2023) + 2024 ~$110M may overlap.",
-                "Disposition": "Keep $445M as defended ranking floor with Med confidence; verify overlap before commercial use.",
-                "Source_URLs": "https://techcrunch.com/2021/06/09/africas-moove-raises-10m-to-finance-ride-hailing-drivers/; https://techcrunch.com/2022/03/02/moove-raises-105m-to-finance-drivers-for-uber-and-bolt-in-africa-and-beyond/; https://ln247.news/top-10-most-funded-nigerian-startups-as-of-august-2023/; https://nairametrics.com/2025/02/25/top-10-nigerian-startups-by-funds-raised-in-2024/",
-                "Last_Reviewed": AS_OF.isoformat(),
-            },
-            {
-                "Company": "Moniepoint (TeamApt)",
-                "Ranked_Total_USD": "328158694",
-                "Conflict_Summary": "Series C first close (2024) vs later completion announcement (2025).",
-                "Disposition": "Use defended cumulative; cite company completion announcement for latest round fields.",
-                "Source_URLs": "https://moniepoint.com",
-                "Last_Reviewed": AS_OF.isoformat(),
-            },
-            {
-                "Company": "Interswitch",
-                "Ranked_Total_USD": "310000000",
-                "Conflict_Summary": "Visa stake (~$200M often cited) is secondary / stake economics, not a simple primary equity round.",
-                "Disposition": "Keep ranked cumulative; label Visa line as secondary/stake in rounds notes.",
-                "Source_URLs": "https://www.visa.co.uk/about-visa/newsroom/press-releases.2915709.html",
-                "Last_Reviewed": AS_OF.isoformat(),
-            },
-        ],
-        ["Company", "Ranked_Total_USD", "Conflict_Summary", "Disposition", "Source_URLs", "Last_Reviewed"],
-    )
-    return path
-
-
-def patch_methodology() -> None:
-    path = DOCS / "methodology.md"
-    text = path.read_text(encoding="utf-8")
-    block = """
-
-## Possibly_stale signal rule (2026-09-25)
-
-As-of date for this build: **2026-09-25**.
-
-| Possibly_stale | Rule |
-|---|---|
-| **Yes** | `Last_Signal_Date` parses to a date **strictly before 2025-03-25** (older than 18 months before as-of). |
-| **No** | `Last_Signal_Date` is on or after 2025-03-25. |
-| **Unknown** | `Last_Signal_Date` is blank or unparseable. |
-
-Partial dates: `YYYY` is treated as year-end; `YYYY-MM` as day 28 of that month. This is a hygiene flag for research refresh, not a claim that the company is dead.
-
-## Licence register refresh
-
-1. Open the live CBN payments / IMTO lists and FCCPC digital money lender approvals (see `docs/licences.md`).
-2. For each regulated ranked name, confirm the category still appears (or company primary claims).
-3. Set `Register_Last_Checked` to the check date (ISO).
-4. Set `Licence_Status` to `Listed` when the public register or company primary page confirms; otherwise leave `Unknown` (never invent Active vs Revoked without a register hit).
-5. Re-run `scripts/facelift_backlog_3_10.py` or edit `data/ranked_disclosed.csv` and rebuild sqlite/xlsx.
-
-## Directory quality pass (2026-09-25)
-
-Parse artefacts from FCCPC/CBN HTML (concatenated app names, address fragments mistaken for legal names) are **dropped**. Counts are recorded in `raw_sources/deep_research/directory_quality_pass.json` and CHANGELOG. Template lender blurbs may remain thin; prefer blank honesty over invented product copy.
+<header><h1>Nigeria tech landscape — Ranked ({len(ranked)})</h1>
+<p>Open research dashboard. Filter by primary sector, company status, or exit. Funding figures are disclosed totals only.</p></header>
+<p>For the full interactive UI see the committed docs/dashboard/index.html (regenerated without vendor motion filters). Embedded data snapshot:</p>
+<script>const DATA = {payload};</script>
+<footer>Generated {AS_OF.isoformat()}. Source: data/ranked_disclosed.csv</footer>
+</body></html>
 """
-    if "Possibly_stale signal rule" not in text:
-        path.write_text(text.rstrip() + block + "\n", encoding="utf-8")
+    # If a full dashboard already exists (with Export CSV), only refresh DATA blob via regex.
+    if existing.exists() and "Export CSV" in existing.read_text():
+        cur = existing.read_text()
+        cur2, n = re.subn(r"const DATA = \[.*?\];", "const DATA = " + payload + ";", cur, count=1, flags=re.S)
+        if n:
+            existing.write_text(cur2)
+            alias.write_text(cur2)
+            return existing
+    existing.write_text(html)
+    alias.write_text(html)
+    return existing
 
 
-def patch_data_dictionary() -> None:
-    path = DOCS / "data_dictionary.md"
-    text = path.read_text(encoding="utf-8")
-    extras = """
-| Possibly_stale | text | Yes / No / Unknown — Last_Signal_Date older than 18 months before 2026-09-25 (see methodology) |
-| Topics | text | Semicolon tags (cross-border, agent-network, credit-scoring, HR, energy-PAYG, etc.) |
-"""
+
     if "Possibly_stale" not in text:
         text = text.replace(
             "| Logo_URL | URL | Official logo or brand-kit URL only; see docs/assets/README.md |\n",
@@ -813,7 +569,7 @@ def patch_changelog(stats: dict) -> None:
 - Counts: Yes {stats['stale_yes']}, No {stats['stale_no']}, Unknown {stats['stale_unknown']}.
 
 ### 5. Dashboard polish
-- `docs/dashboard/index.html`: filters for Omnific_Hand_Motion, Sector_Primary, Company_Status, Exit_Type, Possibly_stale; **CSV export** of filtered view; reset control.
+- `docs/dashboard/index.html`: filters for Sector_Primary, Company_Status, Exit_Type, Possibly_stale; **CSV export** of filtered view; reset control.
 
 ### 6. Founder LinkedIn fill-rate
 - Before: **{stats['linkedin_before']}/101** with Founder_LinkedIn_URLs.

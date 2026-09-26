@@ -1,5 +1,20 @@
 # Changelog
 
+## 2026-09-26 - Remove Omnific Hand ROI / shortlist layer
+
+### Removed
+- Deleted `data/omnific_hand_shortlist.csv`, `docs/omnific_hand_shortlist.md`.
+- Dropped xlsx sheet `Omnific_Hand_Shortlist` and sqlite table `omnific_hand_shortlist`.
+- Removed Ranked/Directory/enrichment columns `Omnific_Hand_Motion`, `Omnific_Hand_Rationale`, and shortlist-only `Outreach_One_Liner`.
+- Dashboard no longer filters on Omnific Hand motion branding.
+
+### Renamed / neutralized
+- `Opportunity_Angle_for_Builder` -> `Builder_Notes` (kept as generic research notes; Omnific-branded wording neutralized on BFREE, Billboxx, Intron Health).
+- README, methodology, data dictionary, scripts, and example sync docs stripped of Omnific Hand ROI / sales-pipeline framing. Repo remains an open research dataset compiled by Tehilla Obanor.
+
+### Rebuild
+- Regenerated sqlite, xlsx, `companies_enriched.json`, `ranked_enrichment.json`, dashboard HTML. No invented funding.
+
 ## 2026-09-26 - High-ROI: Omnific Hand shortlist + LinkedIn fill + profile link
 
 ### Sell_to shortlist

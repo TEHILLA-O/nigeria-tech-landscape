@@ -98,8 +98,8 @@ ICP_BY_SECTOR = {
     "Other Tech": "Enterprises outsourcing a complex service.",
 }
 
-def omnific_already_ok(r):
-    return not blank(r.get("Omnific_Hand_Motion"))
+def builder_notes_ok(r):
+    return not blank(r.get("Builder_Notes"))
 
 def peers_for(name, sector, rows_by_sector, n=3):
     peers = [c for c in rows_by_sector.get(sector, []) if c != name][:n]
@@ -267,7 +267,7 @@ def merge_progress(rows, enr):
         e = enr.setdefault(name, {})
         for k, v in vals.items():
             if not v or k in {"Research_Notes","Company_Status","Exit_Type","Acquirer","Exit_Year",
-                              "Exit_Source_URL","Omnific_Hand_Motion","Omnific_Hand_Rationale"}:
+                              "Exit_Source_URL"}:
                 if k == "Research_Notes" and v:
                     e["Research_Notes"] = v
                 continue
@@ -457,6 +457,7 @@ def export_sqlite(ranked, directory, rounds, investors):
     return path
 
 def write_dashboard(ranked):
+    """Write neutral open-research dashboard (no vendor motion filter)."""
     out_dir = DOCS / "dashboard"
     out_dir.mkdir(parents=True, exist_ok=True)
     slim = []
@@ -465,131 +466,44 @@ def write_dashboard(ranked):
             "rank": r.get("Rank"),
             "company": r.get("Company"),
             "sector": r.get("Sector"),
-            "sector_primary": r.get("Sector_Primary"),
+            "sector_primary": r.get("Sector_Primary") or r.get("Sector"),
             "funding": r.get("Total_Disclosed_Funding_USD"),
             "status": r.get("Company_Status"),
             "exit_type": r.get("Exit_Type"),
-            "motion": r.get("Omnific_Hand_Motion"),
+            "possibly_stale": r.get("Possibly_stale"),
+            "topics": r.get("Topics"),
             "website": r.get("Website"),
             "founders": r.get("Founders"),
             "confidence": r.get("Data_Confidence"),
             "jtbd": r.get("JTBD"),
             "peers": r.get("Peers"),
+            "last_signal": r.get("Last_Signal_Date"),
+            "licence_status": r.get("Licence_Status"),
         })
-    payload = json.dumps(slim)
+    payload = json.dumps(slim, ensure_ascii=False)
+    existing = out_dir / "index.html"
+    alias = DOCS / "dashboard.html"
+    if existing.exists() and "Export CSV" in existing.read_text() and 'id="motion"' not in existing.read_text():
+        cur = existing.read_text()
+        cur2, n = re.subn(r"const DATA = \[.*?\];", "const DATA = " + payload + ";", cur, count=1, flags=re.S)
+        if n:
+            existing.write_text(cur2)
+            alias.write_text(cur2)
+            return existing
+    # Fallback minimal page without motion branding
     html = f"""<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Nigeria tech landscape — Ranked dashboard</title>
-<style>
-:root {{ --bg:#0b1220; --card:#121a2b; --ink:#e8eefc; --muted:#9aa8c7; --accent:#3b82f6; --line:#243049; }}
-* {{ box-sizing:border-box; }}
-body {{ margin:0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif; background:var(--bg); color:var(--ink); }}
-header {{ padding:28px 24px 12px; border-bottom:1px solid var(--line); }}
-h1 {{ margin:0 0 6px; font-size:1.45rem; }}
-p {{ margin:0; color:var(--muted); max-width:70ch; line-height:1.45; }}
-.controls {{ display:flex; flex-wrap:wrap; gap:10px; padding:16px 24px; position:sticky; top:0; background:rgba(11,18,32,.92); backdrop-filter:blur(8px); border-bottom:1px solid var(--line); }}
-input, select {{ background:var(--card); color:var(--ink); border:1px solid var(--line); border-radius:8px; padding:10px 12px; min-width:160px; }}
-input[type=search] {{ min-width:260px; flex:1; }}
-.stats {{ display:flex; gap:12px; flex-wrap:wrap; padding:8px 24px 0; }}
-.stat {{ background:var(--card); border:1px solid var(--line); border-radius:10px; padding:10px 14px; min-width:120px; }}
-.stat b {{ display:block; font-size:1.1rem; }}
-.stat span {{ color:var(--muted); font-size:.8rem; }}
-main {{ padding:16px 24px 40px; overflow:auto; }}
-table {{ width:100%; border-collapse:collapse; font-size:.92rem; }}
-th, td {{ text-align:left; padding:10px 8px; border-bottom:1px solid var(--line); vertical-align:top; }}
-th {{ color:var(--muted); font-weight:600; position:sticky; top:64px; background:var(--bg); }}
-tr:hover td {{ background:#152038; }}
-.badge {{ display:inline-block; padding:2px 8px; border-radius:999px; background:#1e293b; color:#cbd5e1; font-size:.75rem; }}
-.badge.clone {{ background:#3f1d1d; color:#fecaca; }}
-.badge.sell {{ background:#14532d; color:#bbf7d0; }}
-.badge.partner {{ background:#1e3a5f; color:#bfdbfe; }}
-.badge.adj {{ background:#3b2f1a; color:#fde68a; }}
-a {{ color:#93c5fd; text-decoration:none; }}
-footer {{ padding:12px 24px 28px; color:var(--muted); font-size:.85rem; }}
-</style>
-</head>
+<html lang="en"><head><meta charset="utf-8"/><title>Nigeria tech landscape dashboard</title></head>
 <body>
-<header>
-  <h1>Nigeria tech landscape — Ranked (102)</h1>
-  <p>Static dashboard for Omnific Hand. Filter by sector, status, or sell-vs-clone motion. Funding figures are disclosed totals only. Prefer blanks over guesses.</p>
-</header>
-<div class="controls">
-  <input id="q" type="search" placeholder="Search company, founders, peers…"/>
-  <select id="sector"><option value="">All sectors</option></select>
-  <select id="status"><option value="">All statuses</option></select>
-  <select id="motion"><option value="">All motions</option>
-    <option>Clone_avoid</option><option>Sell_to</option><option>Partner</option><option>Adjacent_tooling</option>
-  </select>
-</div>
-<div class="stats" id="stats"></div>
-<main>
-<table>
-<thead><tr>
-<th>#</th><th>Company</th><th>Sector</th><th>Funding USD</th><th>Status</th><th>Motion</th><th>Founders</th><th>Site</th>
-</tr></thead>
-<tbody id="tbody"></tbody>
-</table>
-</main>
-<footer>Embedded snapshot generated {TODAY}. Source: data/ranked_disclosed.csv. No trademarks scraped into this page.</footer>
-<script>
-const DATA = {payload};
-const money = n => {{
-  const x = Number(n); if (!Number.isFinite(x)) return "";
-  return x.toLocaleString('en-US');
-}};
-const sectorSel = document.getElementById('sector');
-const statusSel = document.getElementById('status');
-[...new Set(DATA.map(d => d.sector).filter(Boolean))].sort().forEach(s => {{
-  const o=document.createElement('option'); o.value=s; o.textContent=s; sectorSel.appendChild(o);
-}});
-[...new Set(DATA.map(d => d.status).filter(Boolean))].sort().forEach(s => {{
-  const o=document.createElement('option'); o.value=s; o.textContent=s; statusSel.appendChild(o);
-}});
-function badge(m) {{
-  const cls = m==='Clone_avoid'?'clone':m==='Sell_to'?'sell':m==='Partner'?'partner':'adj';
-  return `<span class="badge ${{cls}}">${{m||''}}</span>`;
-}}
-function render() {{
-  const q = document.getElementById('q').value.toLowerCase().trim();
-  const sector = sectorSel.value;
-  const status = statusSel.value;
-  const motion = document.getElementById('motion').value;
-  const rows = DATA.filter(d => {{
-    if (sector && d.sector !== sector) return false;
-    if (status && d.status !== status) return false;
-    if (motion && d.motion !== motion) return false;
-    if (!q) return true;
-    const blob = [d.company,d.founders,d.peers,d.jtbd,d.sector].join(' ').toLowerCase();
-    return blob.includes(q);
-  }});
-  document.getElementById('stats').innerHTML = `
-    <div class="stat"><b>${{rows.length}}</b><span>shown</span></div>
-    <div class="stat"><b>${{rows.filter(r=>r.motion==='Clone_avoid').length}}</b><span>clone avoid</span></div>
-    <div class="stat"><b>${{rows.filter(r=>r.motion==='Sell_to').length}}</b><span>sell to</span></div>
-    <div class="stat"><b>${{rows.filter(r=>r.status!=='Active').length}}</b><span>non-active</span></div>`;
-  document.getElementById('tbody').innerHTML = rows.map(d => `<tr>
-    <td>${{d.rank}}</td>
-    <td><strong>${{d.company}}</strong><div style="color:#9aa8c7;font-size:.8rem">${{(d.peers||'').slice(0,80)}}</div></td>
-    <td>${{d.sector||''}}</td>
-    <td>${{money(d.funding)}}</td>
-    <td>${{d.status||''}}${{d.exit_type && d.exit_type!=='None' ? ' · '+d.exit_type : ''}}</td>
-    <td>${{badge(d.motion)}}</td>
-    <td>${{d.founders||''}}</td>
-    <td>${{d.website ? `<a href="${{d.website}}" target="_blank" rel="noopener">site</a>` : ''}}</td>
-  </tr>`).join('');
-}}
-['q','sector','status','motion'].forEach(id => document.getElementById(id).addEventListener('input', render));
-render();
-</script>
-</body>
-</html>"""
-    (out_dir / "index.html").write_text(html)
-    # also root alias
-    (DOCS / "dashboard.html").write_text(html)
-    return out_dir / "index.html"
+<h1>Nigeria tech landscape — Ranked ({len(ranked)})</h1>
+<p>Open research dashboard. Funding figures are disclosed totals only.</p>
+<script>const DATA = {payload};</script>
+<footer>Generated {TODAY}. Source: data/ranked_disclosed.csv</footer>
+</body></html>
+"""
+    existing.write_text(html)
+    alias.write_text(html)
+    return existing
+
 
 def main():
     rows = read_csv(DATA / "ranked_disclosed.csv")
@@ -597,8 +511,8 @@ def main():
     n = merge_progress(rows, enr)
     print("merged progress fields", n)
     rows, cols = add_facelift_columns(rows)
-    # ensure status/omnific still present
-    assert all(r.get("Omnific_Hand_Motion") for r in rows)
+    # ensure status still present
+    assert all(r.get("Company_Status") for r in rows)
     write_csv(DATA / "ranked_disclosed.csv", rows, cols)
     (DATA / "ranked_enrichment.json").write_text(json.dumps(enr, indent=2) + "\n")
 
@@ -628,7 +542,7 @@ def main():
         "linkedin": filled("LinkedIn_URL"),
         "high_conf": sum(1 for r in rows if r.get("Data_Confidence") == "High"),
         "exit_type": filled("Exit_Type"),
-        "omnific": filled("Omnific_Hand_Motion"),
+        "builder_notes": filled("Builder_Notes"),
         "jtbd": filled("JTBD"),
         "peers": filled("Peers"),
         "sector_primary": filled("Sector_Primary"),

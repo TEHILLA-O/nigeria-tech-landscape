@@ -47,9 +47,7 @@ Last verified: **2026-09-25**.
 | Replication_Capital_Intensity | text | Low / Med / High |
 | Replication_Time_Estimate | text | Rough months/years; labelled estimate |
 | Risk_Flags | text | FX, fraud, regulation, unit economics, etc. |
-| Opportunity_Angle_for_Builder | text | Where a small automation/ML consultancy could sell |
-| Omnific_Hand_Motion | text | Sell_to / Partner / Adjacent_tooling / Clone_avoid (explicit motion for Omnific Hand) |
-| Omnific_Hand_Rationale | text | 1-2 sentences judging fit for a small London ML/automation/product-tooling consultancy |
+| Builder_Notes | text | Optional research notes on adjacent tooling or builder-relevant context (not a sales pipeline) |
 | Data_Confidence | text | High / Med / Low |
 | Source_URLs | text | Semicolon-separated sources |
 | Last_Verified_Date | date | ISO date of last human/script verification |
@@ -97,7 +95,7 @@ Last verified: **2026-09-25**.
 | Replicate_Notes | text | Short rationale |
 | Licences_Regs_Needed | text | Category default or specific |
 | Heuristic | text | Yes if Ease/licences from category defaults |
-| Opportunity_Angle_for_Builder | text | Short optional wedge |
+| Builder_Notes | text | Short optional research note |
 | Data_Confidence | text | High / Med / Low |
 | Source_URLs | text | Semicolon-separated |
 | Notes | text | Optional |
@@ -131,25 +129,4 @@ Only real sourced rounds. Incomplete by design.
 ## companies_enriched.json
 
 Array of Ranked companies as nested objects (funding, valuation, licences, replication, sources) for builders who prefer JSON.
-
-## omnific_hand_shortlist.csv
-
-Filter of Ranked where `Omnific_Hand_Motion` is Sell_to, Adjacent_tooling, or Partner (Clone_avoid excluded). Also sheet `Omnific_Hand_Shortlist` and sqlite table `omnific_hand_shortlist`.
-
-| Column | Type | Notes |
-|---|---|---|
-| Rank | int | From Ranked_Disclosed |
-| Company | text | Brand name |
-| Sector_Primary | text | Coarse sector |
-| Omnific_Hand_Motion | text | Sell_to / Adjacent_tooling / Partner |
-| Omnific_Hand_Rationale | text | Why that motion |
-| JTBD | text | Job to be done |
-| ICP | text | Ideal customer profile |
-| Website | text | Public site |
-| Careers_URL | text | Careers page if known |
-| Last_Signal_Date | date | Last public signal on Ranked |
-| Possibly_stale | text | Yes / No / Unknown from Ranked |
-| Outreach_One_Liner | text | One natural sentence Tehilla/Omnific Hand could send; edit before use; no invented facts |
-
-How to use: [`docs/omnific_hand_shortlist.md`](omnific_hand_shortlist.md).
 

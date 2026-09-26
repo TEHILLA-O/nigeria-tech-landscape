@@ -1,6 +1,6 @@
 # Slack export / digest (example)
 
-Optional weekly digest of ranked movers for Omnific Hand. **Never** send unsolicited Slack messages. Only post when the user explicitly asks and `SLACK_BOT_TOKEN` + `SLACK_CHANNEL_ID` are set locally.
+Optional weekly digest of ranked movers for personal research. **Never** send unsolicited Slack messages. Only post when the user explicitly asks and `SLACK_BOT_TOKEN` + `SLACK_CHANNEL_ID` are set locally.
 
 ## Example message shape
 
@@ -8,7 +8,6 @@ Optional weekly digest of ranked movers for Omnific Hand. **Never** send unsolic
 Nigeria tech landscape digest
 - Ranked rows: 102
 - New exits / status changes this week: ...
-- Omnific motions: Clone_avoid / Sell_to / Partner / Adjacent_tooling counts
 - Link: GitHub repo README + docs/dashboard/index.html
 ```
 

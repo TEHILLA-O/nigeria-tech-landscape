@@ -1,6 +1,6 @@
 # Notion sync (example)
 
-This dataset can be mirrored into Notion for Omnific Hand ops. **Do not** require live Notion tokens in CI. Sync only when `NOTION_TOKEN` and `NOTION_DATABASE_ID` are present in the local environment and the user asked for a sync.
+This dataset can be mirrored into Notion for personal research ops. **Do not** require live Notion tokens in CI. Sync only when `NOTION_TOKEN` and `NOTION_DATABASE_ID` are present in the local environment and the user asked for a sync.
 
 ## Suggested mapping
 
@@ -12,9 +12,7 @@ This dataset can be mirrored into Notion for Omnific Hand ops. **Do not** requir
 | Total_Disclosed_Funding_USD | Number |
 | Company_Status | Select |
 | Exit_Type | Select |
-| Omnific_Hand_Motion | Select |
 | Website | URL |
-| Omnific_Hand_Rationale | Rich text |
 | Source_URLs | Rich text |
 
 ## Example flow

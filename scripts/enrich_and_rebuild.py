@@ -27,13 +27,13 @@ RANKED_NEW_COLS = [
     "Latest_Round_Amount_USD", "Latest_Round_Date", "Notable_Investors",
     "Licence_Types_Held", "Key_Competitors", "Moat_Notes",
     "Replication_Capital_Intensity", "Replication_Time_Estimate", "Risk_Flags",
-    "Opportunity_Angle_for_Builder", "Omnific_Hand_Motion", "Omnific_Hand_Rationale", "Data_Confidence",
+    "Builder_Notes", "Data_Confidence",
 ]
 
 DIR_NEW_COLS = [
     "Website", "Regulator_Source", "Licence_or_Category", "Licence_Status",
     "HQ_City", "HQ_Country", "Business_Model", "Heuristic",
-    "Opportunity_Angle_for_Builder", "Omnific_Hand_Motion", "Omnific_Hand_Rationale", "Data_Confidence",
+    "Builder_Notes", "Data_Confidence",
 ]
 
 # Category heuristics for directory Ease / licences / opportunity
@@ -184,7 +184,7 @@ def enrich_ranked() -> tuple[list[dict], list[str]]:
         "Notable_Investors", "Valuation_USD", "Valuation_Status",
         "Licence_Types_Held", "Licences_Regs_Needed", "Key_Competitors", "Moat_Notes",
         "Ease_to_Replicate", "Replicate_Notes", "Replication_Capital_Intensity", "Replication_Time_Estimate",
-        "Risk_Flags", "Opportunity_Angle_for_Builder", "Omnific_Hand_Motion", "Omnific_Hand_Rationale", "Data_Confidence", "Source_URLs", "Last_Verified_Date",
+        "Risk_Flags", "Builder_Notes", "Data_Confidence", "Source_URLs", "Last_Verified_Date",
     ]:
         if c not in cols:
             cols.append(c)
@@ -351,7 +351,7 @@ def enrich_directory(ranked_names: set[str]) -> tuple[list[dict], list[str]]:
         row["Ease_to_Replicate"] = ease
         row["Licences_Regs_Needed"] = licences
         row["Heuristic"] = "Yes"
-        row["Opportunity_Angle_for_Builder"] = heur.get("opp", "")
+        row["Builder_Notes"] = heur.get("opp", "")
         row["Data_Confidence"] = conf
         row["Source_URLs"] = source
         row["Last_Verified_Date"] = TODAY
@@ -375,7 +375,7 @@ def enrich_directory(ranked_names: set[str]) -> tuple[list[dict], list[str]]:
         "Licence_Status", "HQ_or_Primary_Market", "HQ_City", "HQ_Country", "Founded_Year",
         "Business_Model", "Total_Disclosed_Funding_USD", "Valuation_USD", "Valuation_Status",
         "Ease_to_Replicate", "Replicate_Notes", "Licences_Regs_Needed", "Heuristic",
-        "Opportunity_Angle_for_Builder", "Omnific_Hand_Motion", "Omnific_Hand_Rationale", "Data_Confidence", "Source_URLs", "Notes", "Last_Verified_Date",
+        "Builder_Notes", "Data_Confidence", "Source_URLs", "Notes", "Last_Verified_Date",
     ]
     write_csv(DATA / "directory.csv", deduped, cols)
     return deduped, cols
@@ -597,7 +597,7 @@ def write_ranked_json(ranked: list[dict]) -> None:
                 "time_estimate": r.get("Replication_Time_Estimate", ""),
             },
             "risk_flags": r.get("Risk_Flags", ""),
-            "opportunity_angle_for_builder": r.get("Opportunity_Angle_for_Builder", ""),
+            "builder_notes": r.get("Builder_Notes", ""),
             "data_confidence": r.get("Data_Confidence", ""),
             "source_urls": [x.strip() for x in (r.get("Source_URLs") or "").split(";") if x.strip()],
             "last_verified_date": r.get("Last_Verified_Date", TODAY),
@@ -677,7 +677,7 @@ def write_xlsx(ranked, ranked_cols, directory, dir_cols, rounds, investors):
         ("Data_Confidence", "High / Med / Low based on source quality"),
         ("Heuristic", "Directory only: Yes if Ease/licences from category defaults"),
         ("Licence_Types_Held", "Licences company is reported to hold (verify on regulator sites)"),
-        ("Opportunity_Angle_for_Builder", "Where a small automation/ML consultancy could sell"),
+        ("Builder_Notes", "Optional research notes on adjacent tooling (not a sales pipeline)"),
     ]
     ws6 = wb.create_sheet("Data_Dictionary")
     ws6.append(["Column", "Definition"])
@@ -735,12 +735,12 @@ def coverage_stats(ranked, directory):
         "ranked_latest_round": filled(ranked, "Latest_Round_Type"),
         "ranked_investors": filled(ranked, "Notable_Investors"),
         "ranked_status": filled(ranked, "Company_Status"),
-        "ranked_opportunity": filled(ranked, "Opportunity_Angle_for_Builder"),
+        "ranked_builder_notes": filled(ranked, "Builder_Notes"),
         "ranked_confidence_high": sum(1 for r in ranked if r.get("Data_Confidence") == "High"),
         "dir_website": filled(directory, "Website"),
         "dir_regulator": filled(directory, "Regulator_Source"),
         "dir_licence_cat": filled(directory, "Licence_or_Category"),
-        "dir_opportunity": filled(directory, "Opportunity_Angle_for_Builder"),
+        "dir_builder_notes": filled(directory, "Builder_Notes"),
         "last_verified": TODAY,
     }
     (DATA / "build_meta.json").write_text(json.dumps(stats, indent=2))

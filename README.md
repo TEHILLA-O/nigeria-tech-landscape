@@ -1,6 +1,6 @@
 # Nigeria tech landscape (fintech + tech)
 
-Open research dataset for **Tehilla Obanor / Omnific Hand**: Nigerian fintech and adjacent tech companies, ranked by **total disclosed funding (USD)**, plus a large **Directory** of real firms drawn from regulators and public lists.
+Open research dataset compiled by **Tehilla Obanor**: Nigerian fintech and adjacent tech companies, ranked by **total disclosed funding (USD)**, plus a large **Directory** of real firms drawn from regulators and public lists.
 
 This is careful public-source research, not a scraped Crunchbase dump. Funding and valuations appear only when a public figure could be pointed at. Unknown stays blank, `Unknown`, or `Undisclosed`. Nothing here is invented.
 
@@ -8,7 +8,7 @@ This is careful public-source research, not a scraped Crunchbase dump. Funding a
 
 ## Why this exists
 
-Builders, operators, and consultants need an honest map of who is licensed, who has raised, what is hard to copy, and where a small automation or ML team can sell. Most Africa startup lists either invent numbers or stop at logos. This repo prefers blanks over guesses.
+Builders, operators, and researchers need an honest map of who is licensed, who has raised, and what is hard to copy. Most Africa startup lists either invent numbers or stop at logos. This repo prefers blanks over guesses.
 
 ## Coverage (2026-09-26)
 
@@ -19,7 +19,6 @@ Builders, operators, and consultants need an honest map of who is licensed, who 
 | Notable no-funding subset (`No_Disclosed_Funding`) | **50** |
 | Sourced funding rounds (`funding_rounds.csv`) | **129** |
 | Investors appearing in sourced rounds (`investors.csv`) | **119** |
-| Omnific Hand shortlist (`Sell_to` / `Adjacent_tooling` / `Partner`) | **43** |
 | **Grand unique company rows** | **1078** |
 
 Directory volume is driven by **CBN** payment-licence lists, **FCCPC** digital money lender registrations, YC Nigeria cohorts, and curated press / map roundups. Licence rows keep thin but real blurbs. Funding is never guessed for Directory.
@@ -32,11 +31,9 @@ Directory volume is driven by **CBN** payment-licence lists, **FCCPC** digital m
 | Founders | 100/101 (99%) |
 | CEO / lead | 75/101 (74%) |
 | High data confidence | 37/101 (36%) |
-| Opportunity angle for builders | 101/101 (100%) |
+| Builder_Notes | 101/101 (100%) |
 | Company status | 101/101 (100%) |
 | Exit_Type (incl. None) | 101/101 (100%) |
-| Omnific_Hand_Motion | 101/101 (100%) |
-| Omnific_Hand_Rationale | 101/101 (100%) |
 | JTBD / ICP | 101/101 (100%) |
 | Peers | 101/101 (100%) |
 | Sector_Primary / Secondary | 101/101 (100%) |
@@ -46,9 +43,7 @@ Directory volume is driven by **CBN** payment-licence lists, **FCCPC** digital m
 | Register_Last_Checked (regulated subset) | 30/101 |
 **Status / exit note:** Known public exits on the ranked sheet include Jumia (IPO 2019), Paystack to Stripe (2020), Brass to a Paystack-led consortium (2024), Mono to Flutterwave (2026), plus shutdowns for Okra (2025), 54gene (~2023), and Bundle Africa exchange (2023). Lemonade Finance was **deduped into LemFi** (Directory alias; same May 2023 rebrand entity). LemFi remains the sole ranked row. All other ranked rows are **Active** with `Exit_Type=None` unless a public exit source is found. Never invent exits.
 
-**Omnific Hand note:** `Omnific_Hand_Motion` is scored for a small London ML/automation/product-tooling consultancy (not a bank). Most large licensed payments, agent networks, and capital-heavy platforms are `Clone_avoid`; vendor/partner motions dominate the rest. The actionable cut lives in [`data/omnific_hand_shortlist.csv`](data/omnific_hand_shortlist.csv).
-
-Directory: regulator tagged for CBN (277), FCCPC (562), YC (37), Press (63), Other (38). Category heuristics fill Ease / licences / builder angles (`Heuristic=Yes`).
+Directory: regulator tagged for CBN (277), FCCPC (562), YC (37), Press (63), Other (38). Category heuristics fill Ease / licences / builder notes (`Heuristic=Yes`).
 
 ## Top 10 by disclosed funding
 
@@ -73,7 +68,7 @@ Take **Moniepoint (TeamApt)** in `Ranked_Disclosed`:
 2. **Latest round:** Series C completed above $200M (company blog, Oct 2025), led by DPI with LeapFrog and others. That is also in `funding_rounds.csv`.
 3. **People:** Founders Tosin Eniolorunda and Felix Ike; Group CEO Tosin Eniolorunda (company sources).
 4. **Moat:** Agent/POS density plus MFB / payments licences. The software layer is copyable; the distribution and licence stack are not.
-5. **Builder angle:** Do not clone POS acquiring. Sell bookkeeping automation, credit decisioning features, agent analytics, or dispute/fraud ops tooling to Moniepoint-class merchants and peer MFBs.
+5. **Builder notes:** Adjacent research angles include bookkeeping automation, credit decisioning features, agent analytics, or dispute/fraud ops tooling around Moniepoint-class merchants and peer MFBs. This is research context, not a sales target list.
 6. **Confidence:** High when company + major press agree. Still click `Source_URLs` before any commercial decision.
 
 Flutterwave is the payments-infrastructure twin of this pattern: multi-market licences and bank integrations are the moat; checkout UX alone is not.
@@ -82,7 +77,6 @@ Flutterwave is the payments-infrastructure twin of this pattern: multi-market li
 
 ```
 data/ranked_disclosed.csv
-data/omnific_hand_shortlist.csv
 data/directory.csv
 data/no_disclosed_funding.csv
 data/funding_rounds.csv
@@ -92,7 +86,6 @@ data/companies_enriched.json
 data/Nigeria_Fintech_Tech_Ranked.xlsx
 data/ranked_enrichment.json
 docs/methodology.md
-docs/omnific_hand_shortlist.md
 docs/data_dictionary.md
 docs/sector_playbooks.md
 docs/licences.md
@@ -112,7 +105,7 @@ CITATION.cff
 1. Primary key: **Total_Disclosed_Funding_USD** (descending).
 2. Figures may include equity and debt when press reported a combined total. See Methodology and per-row notes (especially Moove, VertoFX, Grey, Fincra).
 3. Valuations: only when publicly reported. Status is `Reported`, `Estimated_by_press`, or `Undisclosed`.
-4. **Ease_to_Replicate** is 1 (hardest) to 5 (easiest) for a small London digital consultancy / builder profile (ML, automation, product tooling), not for a bank with unlimited capital.
+4. **Ease_to_Replicate** is 1 (hardest) to 5 (easiest) for a small digital product / ML tooling team, not for a bank with unlimited capital.
 5. Aliases merged where obvious (TeamApt -> Moniepoint, Appzone -> Zone, PayHippo -> Rivy, Paylater -> Carbon, Mkudi -> Nomba, Lemonade Finance -> LemFi).
 6. **Directory** holds everyone else we could identify from regulators or credible directories without inventing a funding total.
 
@@ -120,11 +113,10 @@ Full detail: [`docs/methodology.md`](docs/methodology.md).
 
 ## How to use
 
-- Open the CSV in Sheets/Excel, or the xlsx workbook (`Ranked_Disclosed` + `Directory` + `Omnific_Hand_Shortlist` + reference sheets).
-- For Omnific Hand outreach, start with [`data/omnific_hand_shortlist.csv`](data/omnific_hand_shortlist.csv) and [`docs/omnific_hand_shortlist.md`](docs/omnific_hand_shortlist.md) (Sell_to / Adjacent_tooling / Partner only).
+- Open the CSV in Sheets/Excel, or the xlsx workbook (`Ranked_Disclosed` + `Directory` + reference sheets).
 - Prefer JSON (`data/companies_enriched.json`) if you want nested objects for builders.
 - Filter by `Sector`, `Licence_or_Category`, or `Ease_to_Replicate`.
-- Use `Opportunity_Angle_for_Builder` when hunting consultancy / product wedges.
+- Use `Builder_Notes` for optional research context on adjacent tooling; it is not a go-to-market pipeline.
 - Always click through `Source_URLs` before making a commercial decision. Numbers drift after every round.
 
 ## Docs map
@@ -132,7 +124,6 @@ Full detail: [`docs/methodology.md`](docs/methodology.md).
 | Doc | Purpose |
 |---|---|
 | [Methodology](docs/methodology.md) | Ranking rules, FX, debt vs equity, heuristic vs researched |
-| [Omnific Hand shortlist](docs/omnific_hand_shortlist.md) | Sell_to / Partner / Adjacent_tooling cut + outreach one-liners |
 | [Data dictionary](docs/data_dictionary.md) | Column definitions |
 | [Sector playbooks](docs/sector_playbooks.md) | Payments, lending, banking, SaaS, logistics, health, edtech, energy, HR |
 | [Licences](docs/licences.md) | High-level Nigeria licence paths (not legal advice) |

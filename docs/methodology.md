@@ -52,7 +52,7 @@ Always read `Replicate_Notes` / `Notes` and click `Source_URLs`.
 |---|---|---|
 | Funding / valuation / founders / licences held | Researched or blank | Almost always blank / Undisclosed |
 | Ease_to_Replicate, default Licences_Regs_Needed | Manual notes + judgement | **Category heuristics** (`Heuristic=Yes`) |
-| Opportunity_Angle_for_Builder | Written per company where possible | Short category default |
+| Builder_Notes | Written per company where possible | Short category default |
 | Website | Researched / YC / company site | Filled when findable; left blank for pure regulator rows if unknown |
 
 Heuristics are documented in `scripts/enrich_and_rebuild.py` (`CATEGORY_HEURISTICS`, `SECTOR_DEFAULTS`). They are starting points for builders, not diligence conclusions.
@@ -103,11 +103,11 @@ Outputs: enriched CSVs, `funding_rounds.csv`, `investors.csv`, `companies_enrich
 When adding a company or changing a funding cell, include a `Source_URLs` entry and update `Last_Verified_Date`. See `CONTRIBUTING.md`.
 
 
-## Status, exits, and Omnific Hand motions (2026-09-25)
+## Status and exits (2026-09-25)
 
 - `Company_Status` / `Exit_Type` are filled only from public sources. Unknown exits stay `Active` + `Exit_Type=None`.
-- `Omnific_Hand_Motion` judges a small London ML/automation consultancy, not a bank: `Clone_avoid`, `Sell_to`, `Partner`, or `Adjacent_tooling`.
 - Facelift columns (JTBD, ICP, Peers, Sector_Primary/Secondary, licence depth, last signal) are best-effort public research. Ticket sizes default to `Unknown` unless public.
+- `Builder_Notes` holds optional adjacent-tooling research context. It is not a go-to-market shortlist.
 - Paid Crunchbase/Tracxn merges remain blocked without a licensed export (`data/imports/`).
 
 ## Possibly_stale signal rule (2026-09-25)

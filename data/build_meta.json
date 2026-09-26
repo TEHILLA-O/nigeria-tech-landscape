@@ -14,7 +14,7 @@
   "dir_regulator": 981,
   "dir_licence_cat": 981,
   "dir_opportunity": 981,
-  "last_verified": "2026-09-25",
+  "last_verified": "2026-09-26",
   "ranked_founder_linkedin": 40,
   "ranked_possibly_stale_yes": 30,
   "ranked_topics": 101,
@@ -29,5 +29,7 @@
     "Adjacent_tooling": 6,
     "Sell_to": 31,
     "Partner": 6
-  }
+  },
+  "ranked_builder_notes": 101,
+  "note": "Omnific Hand ROI/shortlist layer removed 2026-09-26"
 }
