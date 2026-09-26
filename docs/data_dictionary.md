@@ -131,3 +131,25 @@ Only real sourced rounds. Incomplete by design.
 ## companies_enriched.json
 
 Array of Ranked companies as nested objects (funding, valuation, licences, replication, sources) for builders who prefer JSON.
+
+## omnific_hand_shortlist.csv
+
+Filter of Ranked where `Omnific_Hand_Motion` is Sell_to, Adjacent_tooling, or Partner (Clone_avoid excluded). Also sheet `Omnific_Hand_Shortlist` and sqlite table `omnific_hand_shortlist`.
+
+| Column | Type | Notes |
+|---|---|---|
+| Rank | int | From Ranked_Disclosed |
+| Company | text | Brand name |
+| Sector_Primary | text | Coarse sector |
+| Omnific_Hand_Motion | text | Sell_to / Adjacent_tooling / Partner |
+| Omnific_Hand_Rationale | text | Why that motion |
+| JTBD | text | Job to be done |
+| ICP | text | Ideal customer profile |
+| Website | text | Public site |
+| Careers_URL | text | Careers page if known |
+| Last_Signal_Date | date | Last public signal on Ranked |
+| Possibly_stale | text | Yes / No / Unknown from Ranked |
+| Outreach_One_Liner | text | One natural sentence Tehilla/Omnific Hand could send; edit before use; no invented facts |
+
+How to use: [`docs/omnific_hand_shortlist.md`](omnific_hand_shortlist.md).
+

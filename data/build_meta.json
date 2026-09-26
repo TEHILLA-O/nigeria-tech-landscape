@@ -15,10 +15,19 @@
   "dir_licence_cat": 981,
   "dir_opportunity": 981,
   "last_verified": "2026-09-25",
-  "ranked_founder_linkedin": 13,
+  "ranked_founder_linkedin": 40,
   "ranked_possibly_stale_yes": 30,
   "ranked_topics": 101,
   "licence_register_rechecked": 30,
   "directory_removed_junk": 4,
-  "dashboard": "/workspace/nigeria-tech-report/docs/dashboard/index.html"
+  "dashboard": "/workspace/nigeria-tech-report/docs/dashboard/index.html",
+  "as_of": "2026-09-26",
+  "linkedin_before": 13,
+  "linkedin_after": 40,
+  "shortlist_rows": 43,
+  "shortlist_by_motion": {
+    "Adjacent_tooling": 6,
+    "Sell_to": 31,
+    "Partner": 6
+  }
 }

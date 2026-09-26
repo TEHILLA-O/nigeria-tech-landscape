@@ -29,8 +29,10 @@ def main():
     n2 = load(conn, "directory", DATA / "directory.csv")
     n3 = load(conn, "rounds", DATA / "funding_rounds.csv")
     n4 = load(conn, "investors", DATA / "investors.csv")
+    short = DATA / "omnific_hand_shortlist.csv"
+    n5 = load(conn, "omnific_hand_shortlist", short) if short.exists() else 0
     conn.commit(); conn.close()
-    print(f"wrote {OUT} ranked={n1} directory={n2} rounds={n3} investors={n4}")
+    print(f"wrote {OUT} ranked={n1} directory={n2} rounds={n3} investors={n4} shortlist={n5}")
 
 if __name__ == "__main__":
     main()

@@ -1,5 +1,24 @@
 # Changelog
 
+## 2026-09-26 - High-ROI: Omnific Hand shortlist + LinkedIn fill + profile link
+
+### Sell_to shortlist
+- Added `data/omnific_hand_shortlist.csv` (**43** rows): Ranked where `Omnific_Hand_Motion` is Sell_to, Adjacent_tooling, or Partner (Clone_avoid excluded).
+- New column `Outreach_One_Liner` (one natural sentence; no em/en dashes; edit before sending).
+- Sheet `Omnific_Hand_Shortlist` in xlsx; sqlite table `omnific_hand_shortlist`.
+- Guide: `docs/omnific_hand_shortlist.md`. Linked from README.
+
+### Founder LinkedIn
+- Before: **13/101** with `Founder_LinkedIn_URLs`.
+- After: **40/101** (public founder profiles only; stopped rather than invent). Promoted verified `/in/` URLs already cited in Source_URLs plus fresh public lookups.
+
+### Profile
+- TEHILLA-O profile README blurb linking this repo (separate commit on `TEHILLA-O/TEHILLA-O`).
+- Pin: profile already has **6/6** pinned repos; see report for manual pin steps (do not silently drop a featured pin).
+
+### Rebuild
+- Regenerated sqlite, xlsx, companies_enriched / ranked_enrichment LinkedIn fields, dashboard RANKED blob. No invented funding.
+
 ## 2026-09-25 - Facelift backlog items 3-10
 
 ### 3. Directory quality pass

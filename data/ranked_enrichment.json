@@ -33,7 +33,8 @@
     "Exit_Year": "2019",
     "Exit_Source_URL": "https://en.wikipedia.org/wiki/Jumia",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Jumia unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Jumia unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
+    "Founder_LinkedIn_URLs": ""
   },
   "OPay": {
     "Website": "https://www.opayweb.com",
@@ -67,7 +68,8 @@
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning OPay unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning OPay unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
+    "Founder_LinkedIn_URLs": ""
   },
   "Flutterwave": {
     "Website": "https://flutterwave.com",
@@ -103,7 +105,8 @@
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Flutterwave unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Flutterwave unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/gbagboola; https://www.linkedin.com/in/eaboyeji"
   },
   "Moove": {
     "Website": "https://www.moove.io",
@@ -134,7 +137,8 @@
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Moove unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Moove unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/ladidelano"
   },
   "Andela": {
     "Website": "https://andela.com",
@@ -165,7 +169,8 @@
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Andela unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
-    "Research_Notes": "CEO/lead has changed; Jeremy Johnson co-founder historically. Prefer verifying current CEO before High confidence bump on that field alone."
+    "Research_Notes": "CEO/lead has changed; Jeremy Johnson co-founder historically. Prefer verifying current CEO before High confidence bump on that field alone.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/eaboyeji; https://www.linkedin.com/in/jeremiahjohnson; https://www.linkedin.com/in/nadayar"
   },
   "Moniepoint (TeamApt)": {
     "Website": "https://moniepoint.com",
@@ -200,7 +205,8 @@
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Moniepoint (TeamApt) unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Moniepoint (TeamApt) unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/tosin-eniolorunda-46833618; https://www.linkedin.com/in/felix-ike-b9747158"
   },
   "Interswitch": {
     "Website": "https://www.interswitchgroup.com",
@@ -230,7 +236,8 @@
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Interswitch unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Interswitch unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/mitchell-elegbe-502aba128"
   },
   "PalmPay": {
     "Website": "https://www.palmpay.com",
@@ -264,7 +271,8 @@
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning PalmPay unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
     "Latest_Round_Date": "2019-11",
     "Twitter_X_URL": "https://x.com/PalmPayNG",
-    "Research_Notes": "Transsnet / Transsion-backed (JV). Public leadership names (e.g. launch-era Greg Reeve; Nigeria MD Chika Nwosu) are executives, not a clean public founder slate. Founders left blank per policy."
+    "Research_Notes": "Transsnet / Transsion-backed (JV). Public leadership names (e.g. launch-era Greg Reeve; Nigeria MD Chika Nwosu) are executives, not a clean public founder slate. Founders left blank per policy.",
+    "Founder_LinkedIn_URLs": ""
   },
   "Lumos Global": {
     "Website": "https://www.lumos-global.com",
@@ -290,12 +298,13 @@
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Lumos Global unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
     "LinkedIn_URL": "https://www.linkedin.com/company/lumos-global",
-    "CEO_or_Lead": "Alistair Gordon (Group CEO, press 2020); Ren\u00e9e Como\u00eb Seka listed as CEO on LinkedIn (verify current)",
+    "CEO_or_Lead": "Alistair Gordon (Group CEO, press 2020); Renée Comoë Seka listed as CEO on LinkedIn (verify current)",
     "Notable_Investors": "DFC; FMO; OPIC (historical); Pembani Remgro; All On; MTN (partner)",
     "Latest_Round_Type": "Debt / DFI facility",
     "Latest_Round_Amount_USD": "35000000",
     "Latest_Round_Date": "2020-09",
-    "Research_Notes": "Adam Howard sometimes listed as co-founder in secondary profiles; primary interviews emphasize Nir Marom and Davidi Vortman. CEO title appears to have changed over time."
+    "Research_Notes": "Adam Howard sometimes listed as co-founder in secondary profiles; primary interviews emphasize Nir Marom and Davidi Vortman. CEO title appears to have changed over time.",
+    "Founder_LinkedIn_URLs": ""
   },
   "TradeDepot": {
     "Website": "https://tradedepot.co",
@@ -322,7 +331,8 @@
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning TradeDepot unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning TradeDepot unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/kachizukanne"
   },
   "Kuda": {
     "Website": "https://kuda.com",
@@ -356,7 +366,8 @@
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Kuda unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Kuda unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/babsogundeyi; https://www.linkedin.com/in/mustaphamo"
   },
   "Yellow Card": {
     "Website": "https://yellowcard.io",
@@ -388,7 +399,8 @@
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Yellow Card unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Yellow Card unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/chrismaurice18"
   },
   "LemFi": {
     "Website": "https://lemfi.com",
@@ -422,7 +434,8 @@
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning LemFi unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product. Former brand Lemonade Finance is the same entity; do not treat as a separate remittance target.",
-    "Research_Notes": "Formerly Lemonade Finance (rebranded May 2023; same legal/product entity). Canonical ranked row after 2026-09-25 dedupe \u2014 Lemonade Finance removed from Ranked and filed in Directory as alias. Do not double-count funding: LemFi Total_Disclosed_Funding_USD=85000000 is the cumulative disclosed figure; legacy Lemonade ranked total (32700000) overlapped and is retired. Pre-seed YC round kept under LemFi in funding_rounds."
+    "Research_Notes": "Formerly Lemonade Finance (rebranded May 2023; same legal/product entity). Canonical ranked row after 2026-09-25 dedupe — Lemonade Finance removed from Ranked and filed in Directory as alias. Do not double-count funding: LemFi Total_Disclosed_Funding_USD=85000000 is the cumulative disclosed figure; legacy Lemonade ranked total (32700000) overlapped and is retired. Pre-seed YC round kept under LemFi in funding_rounds.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/darilldrems"
   },
   "Helium Health": {
     "Website": "https://heliumhealth.com",
@@ -453,7 +466,8 @@
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Helium Health unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Helium Health unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/adegokeolubusi"
   },
   "Konga": {
     "Website": "https://www.konga.com",
@@ -479,7 +493,8 @@
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Konga unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Konga unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/simdul"
   },
   "ThriveAgric": {
     "Website": "https://thriveagric.com",
@@ -509,7 +524,8 @@
     "Last_Signal_Date": "2026-08",
     "Last_Signal_Type": "Funding",
     "Last_Signal_URL": "https://thriveagric.com/resources/hectare/thrive-agric-records-successful-oversubscribed-debut-with-5-3-billion-commercial-paper-issuance",
-    "Product_Summary": "Tech-enabled network connecting smallholder farmers to financing, inputs, data services, and commodity offtake across Nigerian states."
+    "Product_Summary": "Tech-enabled network connecting smallholder farmers to financing, inputs, data services, and commodity offtake across Nigerian states.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/ukaeje"
   },
   "FairMoney": {
     "Website": "https://fairmoney.io",
@@ -538,7 +554,8 @@
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning FairMoney unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning FairMoney unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/laurin-nabuko-hainy-03a5b862"
   },
   "iSON Xperiences": {
     "Website": "https://isonxperiences.com/",
@@ -566,7 +583,8 @@
     "HQ_Country": "UAE / Nigeria",
     "Employee_Range": "10001+",
     "Key_Competitors": "Other African CXM/BPO providers",
-    "Product_Summary": "Global customer experience management and BPO provider with major Nigeria delivery centres serving telecom, BFSI, and enterprise clients across Africa and EMEA."
+    "Product_Summary": "Global customer experience management and BPO provider with major Nigeria delivery centres serving telecom, BFSI, and enterprise clients across Africa and EMEA.",
+    "Founder_LinkedIn_URLs": ""
   },
   "Reliance Health": {
     "Website": "https://www.getreliancehealth.com",
@@ -598,7 +616,8 @@
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Reliance Health unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Reliance Health unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/femikuti"
   },
   "54gene": {
     "Website": "https://www.54gene.com",
@@ -629,7 +648,8 @@
     "Latest_Round_Date": "2021-09",
     "Key_Competitors": "Syndicate Bio (successor venture by founder); other genomics players",
     "LinkedIn_URL": "https://www.linkedin.com/company/54gene",
-    "Research_Notes": "YC lists Inactive. Wikipedia notes cessation ~2023. Website may be inactive; keep last known URL. Series B $25M often reported as part of ~$45M total; verify round split vs Series A $15M."
+    "Research_Notes": "YC lists Inactive. Wikipedia notes cessation ~2023. Website may be inactive; keep last known URL. Series B $25M often reported as part of ~$45M total; verify round split vs Series A $15M.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/abasieneobong"
   },
   "Nomba": {
     "Website": "https://nomba.com",
@@ -661,7 +681,8 @@
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Nomba unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Nomba unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/yinka-adewale-7b779448"
   },
   "Wakanow": {
     "Website": "https://www.wakanow.com",
@@ -685,7 +706,8 @@
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Wakanow as a vendor (recon, KYC, collections, logistics, support), not a clone.",
     "Founders": "Obinna Ekezie; Ralph Tamuno",
     "CEO_or_Lead": "Adenike Macaulay (CEO Wakanow Nigeria, from 2023); Bayo Adedeji (Group CEO, press)",
-    "LinkedIn_URL": "https://www.linkedin.com/company/wakanow"
+    "LinkedIn_URL": "https://www.linkedin.com/company/wakanow",
+    "Founder_LinkedIn_URLs": ""
   },
   "MAX.ng": {
     "Website": "https://www.max.ng",
@@ -713,7 +735,8 @@
     "Latest_Round_Type": "Series B",
     "Latest_Round_Amount_USD": "31000000",
     "Latest_Round_Date": "2021-12",
-    "Notable_Investors": "Goodwater Capital; others (Series B press)"
+    "Notable_Investors": "Goodwater Capital; others (Series B press)",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/adetayobamiduro"
   },
   "Kobo360": {
     "Website": "https://www.kobo360.com",
@@ -741,7 +764,8 @@
     "Latest_Round_Type": "Series A",
     "Latest_Round_Amount_USD": "20000000",
     "Latest_Round_Date": "2019-08",
-    "Notable_Investors": "Goldman Sachs; Y Combinator; IFC (historical press)"
+    "Notable_Investors": "Goldman Sachs; Y Combinator; IFC (historical press)",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/obi-ozor"
   },
   "Migo": {
     "Website": "https://www.migo.com",
@@ -765,7 +789,8 @@
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Migo unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
     "Founders": "Ekechi Nwokah; Kunle Olukotun",
     "LinkedIn_URL": "https://www.linkedin.com/company/migomoney",
-    "Research_Notes": "Nigeria ops majority-owned by First Ally Capital after 2024 merger with Mathesis Analytics (press); confirm current status carefully."
+    "Research_Notes": "Nigeria ops majority-owned by First Ally Capital after 2024 merger with Mathesis Analytics (press); confirm current status carefully.",
+    "Founder_LinkedIn_URLs": ""
   },
   "Paga": {
     "Website": "https://www.paga.com",
@@ -794,7 +819,8 @@
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Paga unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Paga unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/oviosu"
   },
   "Vendease": {
     "Website": "https://vendease.com",
@@ -822,7 +848,8 @@
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Vendease unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
     "CEO_or_Lead": "Olumide Fayankin",
     "LinkedIn_URL": "https://www.linkedin.com/company/vendease",
-    "Notable_Investors": "Partech Africa; TLcom Capital; Y Combinator"
+    "Notable_Investors": "Partech Africa; TLcom Capital; Y Combinator",
+    "Founder_LinkedIn_URLs": ""
   },
   "iROKOtv": {
     "Website": "https://irokotv.com",
@@ -844,7 +871,8 @@
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Sell_to",
-    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to iROKOtv as a vendor (recon, KYC, collections, logistics, support), not a clone."
+    "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to iROKOtv as a vendor (recon, KYC, collections, logistics, support), not a clone.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/jasonnj"
   },
   "Beacon Power Services": {
     "Website": "https://www.beaconpowerservices.com",
@@ -872,7 +900,8 @@
     "Latest_Round_Amount_USD": "29800000",
     "Latest_Round_Date": "2024-11",
     "Notable_Investors": "Partech; Seedstars Africa Ventures (earlier); Proparco (press)",
-    "Key_Competitors": "Grid utilities software peers; Odyssey Energy Solutions"
+    "Key_Competitors": "Grid utilities software peers; Odyssey Energy Solutions",
+    "Founder_LinkedIn_URLs": ""
   },
   "Starsight Energy": {
     "Website": "https://www.starsightenergy.com",
@@ -900,7 +929,8 @@
     "Latest_Round_Type": "Growth equity",
     "Latest_Round_Amount_USD": "30000000",
     "Latest_Round_Date": "2018",
-    "Key_Competitors": "Arnergy; Rensource; Daystar Power"
+    "Key_Competitors": "Arnergy; Rensource; Daystar Power",
+    "Founder_LinkedIn_URLs": ""
   },
   "uLesson": {
     "Website": "https://ulesson.com",
@@ -925,7 +955,8 @@
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Partner",
-    "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with uLesson on integrations, model ops, or vertical workflows without competing head-on."
+    "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with uLesson on integrations, model ops, or vertical workflows without competing head-on.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/simdul"
   },
   "Rensource": {
     "Website": "https://www.rensource.energy",
@@ -953,7 +984,8 @@
     "Latest_Round_Amount_USD": "20000000",
     "Latest_Round_Date": "2019-12",
     "Notable_Investors": "Omidyar Network; CRE Venture Capital; Sin Capital; others (press)",
-    "Key_Competitors": "Starsight Energy; Arnergy; Daystar Power"
+    "Key_Competitors": "Starsight Energy; Arnergy; Daystar Power",
+    "Founder_LinkedIn_URLs": ""
   },
   "SeamlessHR": {
     "Website": "https://seamlesshr.com",
@@ -979,7 +1011,8 @@
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Partner",
-    "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with SeamlessHR on integrations, model ops, or vertical workflows without competing head-on."
+    "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with SeamlessHR on integrations, model ops, or vertical workflows without competing head-on.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/dr-emmanuel-okeleji"
   },
   "Jiji": {
     "Website": "https://jiji.ng",
@@ -1007,7 +1040,8 @@
     "Latest_Round_Amount_USD": "21000000",
     "Latest_Round_Date": "2019-12",
     "Notable_Investors": "Goldman Sachs; IFC; Omidyar Network (press)",
-    "Research_Notes": "Vladimir Mnogoletniy sometimes listed as co-founder in secondary profiles; primary founders cited as Anton Volianskyi and Mykola Zorin."
+    "Research_Notes": "Vladimir Mnogoletniy sometimes listed as co-founder in secondary profiles; primary founders cited as Anton Volianskyi and Mykola Zorin.",
+    "Founder_LinkedIn_URLs": ""
   },
   "Husk Power Systems": {
     "Website": "https://www.huskpowersystems.com",
@@ -1035,7 +1069,8 @@
     "Key_Competitors": "Renewvia; PowerGen; other minigrid operators",
     "Last_Signal_Date": "2025-03",
     "Last_Signal_Type": "Press",
-    "Last_Signal_URL": "https://news.darden.virginia.edu/2025/03/04/husk-power-systems-eyes-ipo-and-aims-to-provide-clean-energy-to-100-million/"
+    "Last_Signal_URL": "https://news.darden.virginia.edu/2025/03/04/husk-power-systems-eyes-ipo-and-aims-to-provide-clean-energy-to-100-million/",
+    "Founder_LinkedIn_URLs": ""
   },
   "Omnibiz": {
     "Website": "https://omnibiz.africa",
@@ -1064,7 +1099,8 @@
     "LinkedIn_URL": "https://www.linkedin.com/company/omnibiz",
     "Latest_Round_Amount_USD": "15000000",
     "Latest_Round_Date": "2022-08",
-    "Careers_URL": "mailto:hrbp@omnibiz.com"
+    "Careers_URL": "mailto:hrbp@omnibiz.com",
+    "Founder_LinkedIn_URLs": ""
   },
   "Konexa": {
     "Website": "https://www.konexa.io",
@@ -1092,7 +1128,8 @@
     "Latest_Round_Date": "2024-03",
     "Notable_Investors": "Climate Fund Managers; Microsoft Climate Innovation Fund",
     "Licence_Types_Held": "NERC private electricity trading licence (press)",
-    "Key_Competitors": "Other NESI traders / IPPs"
+    "Key_Competitors": "Other NESI traders / IPPs",
+    "Founder_LinkedIn_URLs": ""
   },
   "Mono": {
     "Website": "https://mono.co",
@@ -1119,7 +1156,8 @@
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Mono was acquired (Flutterwave). Prefer selling integration, migration, or ops automation into the combined stack rather than cloning the product.",
     "CEO_or_Lead": "Abdulhamid Hassan",
-    "LinkedIn_URL": "https://www.linkedin.com/company/withmono"
+    "LinkedIn_URL": "https://www.linkedin.com/company/withmono",
+    "Founder_LinkedIn_URLs": ""
   },
   "Okra": {
     "Website": "https://okra.ng",
@@ -1144,7 +1182,8 @@
     "Founders": "Fara Ashiru Jituboh; David Peterside",
     "CEO_or_Lead": "Fara Ashiru Jituboh",
     "Key_Competitors": "Mono; OnePipe",
-    "Research_Notes": "Press reports Okra shut down ~May 2025; website may redirect or be inactive. Prefer blank licence fields."
+    "Research_Notes": "Press reports Okra shut down ~May 2025; website may redirect or be inactive. Prefer blank licence fields.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/faraashiru"
   },
   "Carbon": {
     "Website": "https://getcarbon.co",
@@ -1171,7 +1210,8 @@
     "Exit_Year": "",
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
-    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Carbon unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product."
+    "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Carbon unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/chijiokedozie"
   },
   "CredPal": {
     "Website": "https://credpal.com",
@@ -1199,7 +1239,8 @@
     "Latest_Round_Type": "Seed",
     "Latest_Round_Amount_USD": "1500000",
     "Latest_Round_Date": "2020-12",
-    "Notable_Investors": "Y Combinator; GreenHouse Capital; Tangerine Life"
+    "Notable_Investors": "Y Combinator; GreenHouse Capital; Tangerine Life",
+    "Founder_LinkedIn_URLs": ""
   },
   "Umba": {
     "Website": "https://umba.com",
@@ -1226,7 +1267,8 @@
     "Latest_Round_Amount_USD": "15000000",
     "Latest_Round_Date": "2022",
     "Notable_Investors": "Costanoa Ventures; Lux Capital; Palm Drive Capital; Lachy Groom; ACT Ventures",
-    "Key_Competitors": "Kuda; FairMoney; Carbon"
+    "Key_Competitors": "Kuda; FairMoney; Carbon",
+    "Founder_LinkedIn_URLs": ""
   },
   "Raenest": {
     "Website": "https://www.raenest.com",
@@ -1254,7 +1296,8 @@
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Raenest unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
     "Founders": "Victor Alade; Sodruldeen Mustapha; Richard Oyome",
     "CEO_or_Lead": "Victor Alade",
-    "LinkedIn_URL": "https://www.linkedin.com/company/raenest"
+    "LinkedIn_URL": "https://www.linkedin.com/company/raenest",
+    "Founder_LinkedIn_URLs": ""
   },
   "NowNow": {
     "Website": "https://nownow.ng",
@@ -1279,7 +1322,8 @@
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning NowNow unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
-    "Founders": "Sahir Berry; Mahesh Nair"
+    "Founders": "Sahir Berry; Mahesh Nair",
+    "Founder_LinkedIn_URLs": ""
   },
   "Tomato Jos": {
     "Website": "https://www.tomatojos.net",
@@ -1301,7 +1345,8 @@
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Tomato Jos unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
     "Founders": "Mira Mehta",
-    "CEO_or_Lead": "Mira Mehta"
+    "CEO_or_Lead": "Mira Mehta",
+    "Founder_LinkedIn_URLs": ""
   },
   "Paystack": {
     "Website": "https://paystack.com",
@@ -1333,7 +1378,8 @@
     "Exit_Year": "2020",
     "Exit_Source_URL": "https://paystack.com",
     "Omnific_Hand_Motion": "Sell_to",
-    "Omnific_Hand_Rationale": "Paystack was acquired (Stripe). Prefer selling integration, migration, or ops automation into the combined stack rather than cloning the product."
+    "Omnific_Hand_Rationale": "Paystack was acquired (Stripe). Prefer selling integration, migration, or ops automation into the combined stack rather than cloning the product.",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/shollsman; https://www.linkedin.com/in/cfezra"
   },
   "Odyssey Energy Solutions": {
     "Website": "https://odysseyenergysolutions.com",
@@ -1355,7 +1401,8 @@
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Odyssey Energy Solutions unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
     "Founders": "Emily McAteer; Piyush Mathur",
-    "CEO_or_Lead": "Emily McAteer"
+    "CEO_or_Lead": "Emily McAteer",
+    "Founder_LinkedIn_URLs": ""
   },
   "Field": {
     "Website": "https://www.field.inc",
@@ -1382,7 +1429,8 @@
     "CEO_or_Lead": "Michael Moreland",
     "LinkedIn_URL": "https://www.linkedin.com/company/field-intel-inc",
     "Key_Competitors": "Pharmaceutical distributors; health supply-chain SaaS",
-    "Hiring_Signal": "Yes"
+    "Hiring_Signal": "Yes",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/mfcm"
   },
   "Afriex": {
     "Website": "https://afriex.com",
@@ -1406,7 +1454,8 @@
     "Founders": "Tope Alabi",
     "CEO_or_Lead": "Tope Alabi",
     "LinkedIn_URL": "https://www.linkedin.com/company/afriex",
-    "Key_Competitors": "LemFi; Grey; Sendwave; WorldRemit"
+    "Key_Competitors": "LemFi; Grey; Sendwave; WorldRemit",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/topealabi"
   },
   "Mansa": {
     "Website": "https://mansa.xyz",
@@ -1433,7 +1482,8 @@
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Mansa unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
     "Founders": "Mouloukou Sanoh; Nkiru Uwaje",
     "CEO_or_Lead": "Mouloukou Sanoh",
-    "Key_Competitors": "Afriex; LemFi liquidity peers"
+    "Key_Competitors": "Afriex; LemFi liquidity peers",
+    "Founder_LinkedIn_URLs": ""
   },
   "Nithio": {
     "Website": "https://nithio.com",
@@ -1454,7 +1504,8 @@
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Nithio unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
-    "Founders": "Bobby Pittman; Queen Chinyere Quinn; Kate Steel"
+    "Founders": "Bobby Pittman; Queen Chinyere Quinn; Kate Steel",
+    "Founder_LinkedIn_URLs": ""
   },
   "Zone": {
     "Website": "https://zone.ng",
@@ -1479,7 +1530,8 @@
     "CEO_or_Lead": "Obi Emetarom",
     "LinkedIn_URL": "https://www.linkedin.com/company/zonenetwork",
     "Licence_Types_Held": "CBN Switching and Processing (as Appzone/Zone lineage; verify current list)",
-    "Key_Competitors": "Interswitch; NIBSS; Flutterwave rails"
+    "Key_Competitors": "Interswitch; NIBSS; Flutterwave rails",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/obiemetarom"
   },
   "Waza": {
     "Website": "https://waza.co",
@@ -1504,7 +1556,8 @@
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Waza unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
     "CEO_or_Lead": "Maxwell Obi",
-    "LinkedIn_URL": "https://www.linkedin.com/company/wazahq"
+    "LinkedIn_URL": "https://www.linkedin.com/company/wazahq",
+    "Founder_LinkedIn_URLs": ""
   },
   "Klasha": {
     "Website": "https://klasha.com",
@@ -1527,7 +1580,8 @@
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Klasha as a vendor (recon, KYC, collections, logistics, support), not a clone.",
     "Founders": "Jessica Anuna",
     "CEO_or_Lead": "Jessica Anuna",
-    "LinkedIn_URL": "https://www.linkedin.com/company/klasha"
+    "LinkedIn_URL": "https://www.linkedin.com/company/klasha",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/jessicaanuna"
   },
   "Cowrywise": {
     "Website": "https://cowrywise.com",
@@ -1552,7 +1606,8 @@
     "Founders": "Razaq Ahmed; Edward Popoola",
     "CEO_or_Lead": "Razaq Ahmed",
     "LinkedIn_URL": "https://www.linkedin.com/company/cowrywise",
-    "Key_Competitors": "PiggyVest; Risevest; Bamboo"
+    "Key_Competitors": "PiggyVest; Risevest; Bamboo",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/razaqa; https://www.linkedin.com/in/edwardpopoola"
   },
   "Gokada": {
     "Website": "https://gokada.ng",
@@ -1577,7 +1632,8 @@
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Gokada unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
     "Founders": "Fahim Saleh",
-    "Key_Competitors": "MAX.ng; inDrive"
+    "Key_Competitors": "MAX.ng; inDrive",
+    "Founder_LinkedIn_URLs": ""
   },
   "Seamfix": {
     "Website": "https://seamfix.com",
@@ -1600,7 +1656,8 @@
     "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with Seamfix on integrations, model ops, or vertical workflows without competing head-on.",
     "Founders": "Chimezie Emewulu; Chibuzor Onwurah",
     "LinkedIn_URL": "https://www.linkedin.com/company/seamfix",
-    "Key_Competitors": "Youverify; Smile Identity; Prembly"
+    "Key_Competitors": "Youverify; Smile Identity; Prembly",
+    "Founder_LinkedIn_URLs": ""
   },
   "Eden Life": {
     "Website": "https://www.edenlife.ng",
@@ -1621,7 +1678,8 @@
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Eden Life as a vendor (recon, KYC, collections, logistics, support), not a clone.",
-    "Founders": "Nadayar Enegesi"
+    "Founders": "Nadayar Enegesi",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/nadayar"
   },
   "Duplo": {
     "Website": "https://www.tryduplo.com",
@@ -1644,7 +1702,8 @@
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Duplo unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
     "Founders": "Yele Oyekola; Tunde Akinnuwa",
-    "CEO_or_Lead": "Yele Oyekola"
+    "CEO_or_Lead": "Yele Oyekola",
+    "Founder_LinkedIn_URLs": ""
   },
   "Risevest": {
     "Website": "https://risevest.com",
@@ -1666,7 +1725,8 @@
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Risevest as a vendor (recon, KYC, collections, logistics, support), not a clone.",
     "Founders": "Eke Urum; Bosun Olanrewaju",
-    "Key_Competitors": "Cowrywise; PiggyVest; Bamboo"
+    "Key_Competitors": "Cowrywise; PiggyVest; Bamboo",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/ekeurum"
   },
   "PiggyVest": {
     "Website": "https://www.piggyvest.com",
@@ -1693,7 +1753,8 @@
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to PiggyVest as a vendor (recon, KYC, collections, logistics, support), not a clone.",
     "Careers_URL": "https://www.piggyvest.com/careers",
-    "Hiring_Signal": "Unknown"
+    "Hiring_Signal": "Unknown",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/odunayoeweniyi; https://www.linkedin.com/in/somtoifezue"
   },
   "Aladdin Digital Bank": {
     "Website": "https://www.aladdin.ng",
@@ -1715,7 +1776,8 @@
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Aladdin Digital Bank unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
     "Founders": "Darlington Onyeagoro; Avi Umukoro",
-    "Research_Notes": "Website widely cited as www.aladdin.ng (Nairametrics, StartupList). Live fetch intermittently empty/unreachable from some networks; URL retained as public canonical."
+    "Research_Notes": "Website widely cited as www.aladdin.ng (Nairametrics, StartupList). Live fetch intermittently empty/unreachable from some networks; URL retained as public canonical.",
+    "Founder_LinkedIn_URLs": ""
   },
   "Rivy": {
     "Website": "https://payhippo.africa",
@@ -1741,7 +1803,8 @@
     "LinkedIn_URL": "https://www.linkedin.com/company/rivyhq",
     "Latest_Round_Type": "Seed / climate",
     "Latest_Round_Amount_USD": "4000000",
-    "Key_Competitors": "SunFi; Arnergy financing peers"
+    "Key_Competitors": "SunFi; Arnergy financing peers",
+    "Founder_LinkedIn_URLs": ""
   },
   "Stears": {
     "Website": "https://www.stears.co",
@@ -1765,7 +1828,8 @@
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Adjacent_tooling",
     "Omnific_Hand_Rationale": "Category is software-native. Prefer an adjacent wedge (analytics, integrations, niche vertical) over a full clone of Stears.",
-    "Founders": "Preston Ideh"
+    "Founders": "Preston Ideh",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/preston-timeyin-ideh-06484775"
   },
   "Winich Farms": {
     "Website": "https://winichfarms.com",
@@ -1786,7 +1850,8 @@
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Winich Farms as a vendor (recon, KYC, collections, logistics, support), not a clone.",
-    "Founders": "Chichebem Jibunoh"
+    "Founders": "Chichebem Jibunoh",
+    "Founder_LinkedIn_URLs": ""
   },
   "Juicyway": {
     "Website": "https://www.juicyway.com",
@@ -1808,7 +1873,8 @@
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Juicyway as a vendor (recon, KYC, collections, logistics, support), not a clone.",
     "Founders": "Ife Johnson; Justin Ziegler; Idris Ibrahim",
-    "CEO_or_Lead": "Ife Johnson"
+    "CEO_or_Lead": "Ife Johnson",
+    "Founder_LinkedIn_URLs": ""
   },
   "Arnergy": {
     "Website": "https://www.arnergy.com",
@@ -1832,7 +1898,8 @@
     "Founders": "Femi Adeyemo; Kunle Odebunmi",
     "CEO_or_Lead": "Femi Adeyemo",
     "LinkedIn_URL": "https://www.linkedin.com/company/arnergy",
-    "Key_Competitors": "Starsight Energy; Rensource; Daystar Power"
+    "Key_Competitors": "Starsight Energy; Rensource; Daystar Power",
+    "Founder_LinkedIn_URLs": ""
   },
   "BFREE": {
     "Website": "https://bfree.io",
@@ -1854,7 +1921,8 @@
     "Omnific_Hand_Motion": "Adjacent_tooling",
     "Omnific_Hand_Rationale": "Build complementary ML or automation (fraud, recon, NLP, underwriting features) that plugs into BFREE rather than replacing their core.",
     "Founders": "Julian Flosbach; Chukwudi Enyi",
-    "CEO_or_Lead": "Julian Flosbach"
+    "CEO_or_Lead": "Julian Flosbach",
+    "Founder_LinkedIn_URLs": ""
   },
   "MDaaS Global": {
     "Website": "https://www.mdaas.io",
@@ -1875,7 +1943,8 @@
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning MDaaS Global unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
-    "Founders": "Olusoga Oni; Genevieve Bernard Oni; Opeyemi Ologun"
+    "Founders": "Olusoga Oni; Genevieve Bernard Oni; Opeyemi Ologun",
+    "Founder_LinkedIn_URLs": ""
   },
   "Chowdeck": {
     "Website": "https://chowdeck.com",
@@ -1899,7 +1968,8 @@
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Chowdeck as a vendor (recon, KYC, collections, logistics, support), not a clone.",
     "Founders": "Femi Aluko; Olumide Ojo; Lanre Yusuf",
     "CEO_or_Lead": "Femi Aluko",
-    "LinkedIn_URL": "https://www.linkedin.com/company/chowdeck"
+    "LinkedIn_URL": "https://www.linkedin.com/company/chowdeck",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/femialuko"
   },
   "Youverify": {
     "Website": "https://youverify.co",
@@ -1922,7 +1992,8 @@
     "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with Youverify on integrations, model ops, or vertical workflows without competing head-on.",
     "Founders": "Gbenga Odegbami; Famous Ehichioya",
     "CEO_or_Lead": "Gbenga Odegbami",
-    "Key_Competitors": "Smile Identity; Prembly; Seamfix"
+    "Key_Competitors": "Smile Identity; Prembly; Seamfix",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/e-famous"
   },
   "Mecho Autotech": {
     "Website": "https://mechoautotech.com",
@@ -1947,7 +2018,8 @@
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Mecho Autotech as a vendor (recon, KYC, collections, logistics, support), not a clone.",
     "Founders": "Olusegun Owoade; Ayoola Akinkunmi",
-    "CEO_or_Lead": "Olusegun Owoade"
+    "CEO_or_Lead": "Olusegun Owoade",
+    "Founder_LinkedIn_URLs": ""
   },
   "Kredete": {
     "Website": "https://kredete.com",
@@ -1969,7 +2041,8 @@
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Kredete as a vendor (recon, KYC, collections, logistics, support), not a clone.",
     "Founders": "Adeola Adedewe",
-    "CEO_or_Lead": "Adeola Adedewe"
+    "CEO_or_Lead": "Adeola Adedewe",
+    "Founder_LinkedIn_URLs": ""
   },
   "AMAKA Studio": {
     "Website": "https://amaka.studio",
@@ -1990,7 +2063,8 @@
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "For Omnific Hand, the realistic motion is selling tooling into AMAKA Studio's workflow or their customers, not recreating the funded core.",
-    "Founders": "Adaora O-Njoku"
+    "Founders": "Adaora O-Njoku",
+    "Founder_LinkedIn_URLs": ""
   },
   "Axmed": {
     "Website": "https://www.axmed.com",
@@ -2011,8 +2085,9 @@
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Axmed unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
-    "Founders": "Emmanuel Akpakwu; Sof\u00eda Radley-Searle; Felix Ohnma",
-    "CEO_or_Lead": "Emmanuel Akpakwu"
+    "Founders": "Emmanuel Akpakwu; Sofía Radley-Searle; Felix Ohnma",
+    "CEO_or_Lead": "Emmanuel Akpakwu",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/emmanuelakpakwu"
   },
   "Cleva": {
     "Website": "https://www.getcleva.com",
@@ -2034,7 +2109,8 @@
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Cleva unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
     "Founders": "Tolu Alabi; Philip Adama Abel",
-    "CEO_or_Lead": "Tolu Alabi"
+    "CEO_or_Lead": "Tolu Alabi",
+    "Founder_LinkedIn_URLs": ""
   },
   "Farmcrowdy": {
     "Website": "https://www.farmcrowdy.com",
@@ -2056,7 +2132,8 @@
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Farmcrowdy as a vendor (recon, KYC, collections, logistics, support), not a clone.",
     "Founders": "Onyeka Akumah",
-    "CEO_or_Lead": "Onyeka Akumah"
+    "CEO_or_Lead": "Onyeka Akumah",
+    "Founder_LinkedIn_URLs": ""
   },
   "Vesti": {
     "Website": "https://wevesti.com",
@@ -2078,7 +2155,8 @@
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Vesti unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
     "Founders": "Olusola Amusan; Abimbola Amusan",
-    "CEO_or_Lead": "Olusola Amusan"
+    "CEO_or_Lead": "Olusola Amusan",
+    "Founder_LinkedIn_URLs": ""
   },
   "Renda": {
     "Website": "https://renda.co",
@@ -2099,7 +2177,8 @@
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Renda unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
-    "Founders": "Ope Onaboye; Bimbo Onaboye"
+    "Founders": "Ope Onaboye; Bimbo Onaboye",
+    "Founder_LinkedIn_URLs": ""
   },
   "Brass": {
     "Website": "https://www.trybrass.com",
@@ -2122,7 +2201,8 @@
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Brass was acquired (Paystack-led consortium (Piggytech; Ventures Platform; P1 Ventures)). Prefer selling integration, migration, or ops automation into the combined stack rather than cloning the product.",
     "Research_Notes": "Press reported Paystack-led consortium acquisition of Brass in 2024; confirm primary source before High.",
-    "Founders": "Sola Akindolu; Emmanuel Okeke"
+    "Founders": "Sola Akindolu; Emmanuel Okeke",
+    "Founder_LinkedIn_URLs": ""
   },
   "Billboxx": {
     "Website": "https://billboxx.com",
@@ -2143,7 +2223,8 @@
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Adjacent_tooling",
     "Omnific_Hand_Rationale": "Category is software-native. Prefer an adjacent wedge (analytics, integrations, niche vertical) over a full clone of Billboxx.",
-    "Founders": "Justus Obaoye; Abdulazeez Ogunjobi"
+    "Founders": "Justus Obaoye; Abdulazeez Ogunjobi",
+    "Founder_LinkedIn_URLs": ""
   },
   "Intron Health": {
     "Website": "https://www.intron.health",
@@ -2165,7 +2246,8 @@
     "Omnific_Hand_Motion": "Partner",
     "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with Intron Health on integrations, model ops, or vertical workflows without competing head-on.",
     "Founders": "Tobi Olatunji; Olakunle Asekun",
-    "CEO_or_Lead": "Tobi Olatunji"
+    "CEO_or_Lead": "Tobi Olatunji",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/tobi-olatunji-md"
   },
   "Accrue": {
     "Website": "https://accrue.finance",
@@ -2186,7 +2268,8 @@
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Accrue as a vendor (recon, KYC, collections, logistics, support), not a clone.",
-    "Founders": "Adesuwa Omoruyi; Zino Asamaige"
+    "Founders": "Adesuwa Omoruyi; Zino Asamaige",
+    "Founder_LinkedIn_URLs": ""
   },
   "Vendy": {
     "Website": "https://myvendy.com",
@@ -2208,7 +2291,8 @@
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Vendy as a vendor (recon, KYC, collections, logistics, support), not a clone.",
-    "Founders": "Peter Ekunkoya"
+    "Founders": "Peter Ekunkoya",
+    "Founder_LinkedIn_URLs": ""
   },
   "Startbutton Africa": {
     "Website": "https://www.startbutton.africa",
@@ -2229,7 +2313,8 @@
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Startbutton Africa as a vendor (recon, KYC, collections, logistics, support), not a clone.",
-    "Founders": "Bolakale Mallick; Kelechi Oti; Charles Idem"
+    "Founders": "Bolakale Mallick; Kelechi Oti; Charles Idem",
+    "Founder_LinkedIn_URLs": ""
   },
   "SunFi": {
     "Website": "https://www.sunfi.co",
@@ -2251,7 +2336,8 @@
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning SunFi unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
     "Founders": "Rotimi Thomas; Tomiwa Igun; Olaoluwa Faniyi",
-    "CEO_or_Lead": "Rotimi Thomas"
+    "CEO_or_Lead": "Rotimi Thomas",
+    "Founder_LinkedIn_URLs": ""
   },
   "Payday": {
     "Website": "https://www.usepayday.com",
@@ -2274,7 +2360,8 @@
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Payday as a vendor (recon, KYC, collections, logistics, support), not a clone.",
     "Founders": "Favour Ori",
     "CEO_or_Lead": "Favour Ori",
-    "Research_Notes": "Website usepayday.com cited by StartupList/press; HTTP intermittently failing after reported Bitmama/Changera acquisition \u2014 URL kept as last public site. Founder Favour Ori consistently named; later co-founding-team adds not treated as original founders."
+    "Research_Notes": "Website usepayday.com cited by StartupList/press; HTTP intermittently failing after reported Bitmama/Changera acquisition — URL kept as last public site. Founder Favour Ori consistently named; later co-founding-team adds not treated as original founders.",
+    "Founder_LinkedIn_URLs": ""
   },
   "Talstack": {
     "Website": "https://www.talstack.com",
@@ -2295,7 +2382,8 @@
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Partner",
     "Omnific_Hand_Rationale": "Productized consultancy or white-label ML modules can partner with Talstack on integrations, model ops, or vertical workflows without competing head-on.",
-    "Founders": "Seni Sulyman; Kayode Oyewole"
+    "Founders": "Seni Sulyman; Kayode Oyewole",
+    "Founder_LinkedIn_URLs": ""
   },
   "Agriarche": {
     "Website": "https://agriarche.com",
@@ -2316,7 +2404,8 @@
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Agriarche as a vendor (recon, KYC, collections, logistics, support), not a clone.",
-    "Founders": "Deina Mayaki; Nancy Chinemerem Nwaka"
+    "Founders": "Deina Mayaki; Nancy Chinemerem Nwaka",
+    "Founder_LinkedIn_URLs": ""
   },
   "Grey": {
     "Website": "https://grey.co",
@@ -2338,7 +2427,8 @@
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Grey as a vendor (recon, KYC, collections, logistics, support), not a clone.",
-    "Founders": "Joseph Femi Aghedo"
+    "Founders": "Joseph Femi Aghedo",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/aghedo-joseph"
   },
   "Bundle Africa": {
     "Website": "https://bundle.africa",
@@ -2361,7 +2451,8 @@
     "Omnific_Hand_Motion": "Adjacent_tooling",
     "Omnific_Hand_Rationale": "Bundle Africa is shut down or wound down per public sources. Do not clone. Mine the category gap for adjacent tooling sold to remaining operators.",
     "Research_Notes": "Widely reported shutdown 2023; keep historical funding only.",
-    "Founders": "Yele Bademosi"
+    "Founders": "Yele Bademosi",
+    "Founder_LinkedIn_URLs": ""
   },
   "Crop2Cash": {
     "Website": "https://crop2cash.com.ng",
@@ -2384,7 +2475,8 @@
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Crop2Cash as a vendor (recon, KYC, collections, logistics, support), not a clone.",
-    "Founders": "Michael Ogundare; Seyi Paul"
+    "Founders": "Michael Ogundare; Seyi Paul",
+    "Founder_LinkedIn_URLs": ""
   },
   "Carbin Africa": {
     "Website": "https://carbin.africa",
@@ -2408,7 +2500,8 @@
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Carbin Africa as a vendor (recon, KYC, collections, logistics, support), not a clone.",
     "Founders": "Femi Oriowo; Fawaz Abdul",
-    "CEO_or_Lead": "Femi Oriowo"
+    "CEO_or_Lead": "Femi Oriowo",
+    "Founder_LinkedIn_URLs": ""
   },
   "Earthbond": {
     "Website": "https://www.earthbond.co",
@@ -2430,7 +2523,8 @@
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Earthbond as a vendor (recon, KYC, collections, logistics, support), not a clone.",
     "Founders": "Chidalu Onyenso",
-    "CEO_or_Lead": "Chidalu Onyenso"
+    "CEO_or_Lead": "Chidalu Onyenso",
+    "Founder_LinkedIn_URLs": ""
   },
   "Zebra CropBank": {
     "Website": "https://zebracropbank.com",
@@ -2454,7 +2548,8 @@
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Zebra CropBank as a vendor (recon, KYC, collections, logistics, support), not a clone.",
     "Founders": "Buffy Okeke-Ojiudu",
-    "CEO_or_Lead": "Buffy Okeke-Ojiudu"
+    "CEO_or_Lead": "Buffy Okeke-Ojiudu",
+    "Founder_LinkedIn_URLs": ""
   },
   "Mira": {
     "Website": "https://usemira.com",
@@ -2476,7 +2571,8 @@
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Mira as a vendor (recon, KYC, collections, logistics, support), not a clone.",
     "Founders": "Ted Oladele",
-    "CEO_or_Lead": "Ted Oladele"
+    "CEO_or_Lead": "Ted Oladele",
+    "Founder_LinkedIn_URLs": ""
   },
   "Pullus Africa": {
     "Website": "https://pullus.africa",
@@ -2500,7 +2596,8 @@
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Pullus Africa as a vendor (recon, KYC, collections, logistics, support), not a clone.",
     "Founders": "Opeoluwa Fayomi",
-    "CEO_or_Lead": "Opeoluwa Fayomi"
+    "CEO_or_Lead": "Opeoluwa Fayomi",
+    "Founder_LinkedIn_URLs": ""
   },
   "Fincra": {
     "Website": "https://fincra.com",
@@ -2524,7 +2621,8 @@
     "Omnific_Hand_Motion": "Sell_to",
     "Omnific_Hand_Rationale": "Pitch ops automation, ML monitoring, or internal tooling to Fincra as a vendor (recon, KYC, collections, logistics, support), not a clone.",
     "Founders": "Wole Ayodele",
-    "CEO_or_Lead": "Wole Ayodele"
+    "CEO_or_Lead": "Wole Ayodele",
+    "Founder_LinkedIn_URLs": "https://www.linkedin.com/in/woleayodele"
   },
   "Trade Lenda": {
     "Website": "https://tradelenda.com",
@@ -2546,7 +2644,8 @@
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Trade Lenda unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
     "Founders": "Adeshina Adewumi; Shina Arogundade; Oluwatosin Ayodele",
-    "CEO_or_Lead": "Adeshina Adewumi"
+    "CEO_or_Lead": "Adeshina Adewumi",
+    "Founder_LinkedIn_URLs": ""
   },
   "VertoFX": {
     "Website": "https://vertofx.com",
@@ -2570,7 +2669,8 @@
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning VertoFX unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
     "Founders": "Ola Oyetayo",
-    "CEO_or_Lead": "Ola Oyetayo"
+    "CEO_or_Lead": "Ola Oyetayo",
+    "Founder_LinkedIn_URLs": ""
   },
   "Regxta": {
     "Website": "https://regxta.com",
@@ -2591,6 +2691,7 @@
     "Exit_Source_URL": "",
     "Omnific_Hand_Motion": "Clone_avoid",
     "Omnific_Hand_Rationale": "Capital, licences, or network effects make cloning Regxta unrealistic for a small London ML/automation consultancy. Sell peripheral automation instead of a lookalike product.",
-    "Founders": "Rukayat Kolawole-Bello; Afis Bello"
+    "Founders": "Rukayat Kolawole-Bello; Afis Bello",
+    "Founder_LinkedIn_URLs": ""
   }
 }
