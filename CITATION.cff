@@ -5,8 +5,8 @@ type: dataset
 authors:
   - family-names: Obanor
     given-names: Tehilla
-repository-code: "https://github.com/TEHILLA-O/nigeria-tech-landscape"
-url: "https://github.com/TEHILLA-O/nigeria-tech-landscape"
+repository-code: "https://github.com/TEHILLA-O/nigeriatechlandscape"
+url: "https://github.com/TEHILLA-O/nigeriatechlandscape"
 date-released: "2026-09-25"
 license: MIT
 keywords:

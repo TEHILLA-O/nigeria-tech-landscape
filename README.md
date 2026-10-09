@@ -153,7 +153,7 @@ See [`scripts/README.md`](scripts/README.md).
 
 ```
 Obanor, Tehilla (2026). Nigeria tech landscape (fintech + tech) open research dataset.
-GitHub: https://github.com/TEHILLA-O/nigeria-tech-landscape
+GitHub: https://github.com/TEHILLA-O/nigeriatechlandscape
 Commit: see repository main branch. Last verified 2026-09-26.
 ```
 
