@@ -1,6 +1,6 @@
 # Changelog
 
-## 2026-09-26 - Remove Omnific Hand ROI / shortlist layer
+## 2026-09-26 | Remove Omnific Hand ROI / shortlist layer
 
 ### Removed
 - Deleted `data/omnific_hand_shortlist.csv`, `docs/omnific_hand_shortlist.md`.
@@ -15,7 +15,7 @@
 ### Rebuild
 - Regenerated sqlite, xlsx, `companies_enriched.json`, `ranked_enrichment.json`, dashboard HTML. No invented funding.
 
-## 2026-09-26 - High-ROI: Omnific Hand shortlist + LinkedIn fill + profile link
+## 2026-09-26 | High-ROI: Omnific Hand shortlist + LinkedIn fill + profile link
 
 ### Sell_to shortlist
 - Added `data/omnific_hand_shortlist.csv` (**43** rows): Ranked where `Omnific_Hand_Motion` is Sell_to, Adjacent_tooling, or Partner (Clone_avoid excluded).
@@ -34,7 +34,7 @@
 ### Rebuild
 - Regenerated sqlite, xlsx, companies_enriched / ranked_enrichment LinkedIn fields, dashboard RANKED blob. No invented funding.
 
-## 2026-09-25 - Facelift backlog items 3-10
+## 2026-09-25 | Facelift backlog items 3-10
 
 ### 3. Directory quality pass
 - Removed **4** parse-junk rows (concatenated FCCPC app lists, address-as-company IMTO artefact). Details in `raw_sources/deep_research/directory_quality_pass.json`.
@@ -68,7 +68,7 @@
 ### Rebuild
 - Regenerated sqlite, xlsx, companies_enriched.json, dashboard. No invented funding.
 
-## 2026-09-25 - LemFi dedupe + ranked blank chase
+## 2026-09-25 | LemFi dedupe + ranked blank chase
 
 ### LemFi / Lemonade Finance
 - Removed **Lemonade Finance** from Ranked (was Rank 28, Pivoted). Same entity as **LemFi** after the May 2023 rebrand ([Disrupt Africa](https://disruptafrica.com/2023/05/31/nigerias-lemonade-finance-rebrands-to-lemfi-as-it-expands-vision/); [TechCabal](https://techcabal.com/2023/05/29/from-lemonade-finance-to-lemfi-international-payments-for-everyone/)).
@@ -106,7 +106,7 @@ Founders-only fills:
 - Directory rows: **981**; unique companies **1082** (Lemonade moved Ranked→Directory).
 
 
-## 2026-09-25 - Status/exit + Omnific Hand sell-vs-clone (interim)
+## 2026-09-25 | Status/exit + Omnific Hand sell-vs-clone (interim)
 
 ### Added (Ranked_Disclosed, all 102 rows)
 - `Exit_Type`, `Acquirer`, `Exit_Year`, `Exit_Source_URL`

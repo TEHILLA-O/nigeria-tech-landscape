@@ -11,7 +11,7 @@ This log records **disputed or easy-to-misread funding totals** in the ranked sh
 3. Compare `data/funding_rounds.csv` line items.
 4. Click every `Source_URLs` entry before using a figure commercially.
 
-## Moove (Rank 4) — equity vs debt / facility blending
+## Moove (Rank 4): equity vs debt / facility blending
 
 | Field | Value / note |
 |---|---|
