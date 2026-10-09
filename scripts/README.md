@@ -11,7 +11,7 @@
 ## Usual rebuild
 
 ```bash
-cd /path/to/nigeriatechlandscape
+cd /path/to/nigeria_tech_landscape
 python3 -m venv .venv
 .venv/bin/pip install openpyxl pandas
 .venv/bin/python scripts/enrich_and_rebuild.py
